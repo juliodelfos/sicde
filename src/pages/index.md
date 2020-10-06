@@ -115,7 +115,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Revisar documentación
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Instru
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
