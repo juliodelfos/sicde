@@ -6,8 +6,8 @@ sections:
     title: Centro de Ayuda SICDE
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Bienvenida/o al Centro de Ayuda del Sistema Informático de Convenios de
+      Desempeño.
     actions:
       - label: Get Started
         url: /docs
