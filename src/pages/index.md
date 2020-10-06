@@ -88,9 +88,6 @@ sections:
       - label: View Demo
         url: /docs/getting-started
         style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
