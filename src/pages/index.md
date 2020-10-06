@@ -56,7 +56,7 @@ sections:
         actions: []
         type: grid_item
       - title: Desvinculación e indeminización
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           ## Lorem ipsum
 
