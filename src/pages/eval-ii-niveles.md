@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-weight: 3
+weight: -1
 excerpt: lorem-ipsum
 template: docs
 ---
