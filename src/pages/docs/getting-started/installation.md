@@ -3,7 +3,6 @@ title: Evaluación anual I niveles
 weight: 1
 template: docs
 ---
-# Evaluación anual
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión. 
 En el caso de los Directores/as Ejecutivos/as de los SLEP la evaluación anual se encuentra regulada por la ley Nº 21.040, estableciendo que la comunicación de esta evaluación se deberá efectuar dentro de los dos meses siguientes al término del año escolar. Para facilitar la lectura, el proceso de evaluación anual de I niveles SLEP se encuentra descrito en este apartado. ::LINK::
 
