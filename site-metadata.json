@@ -45,12 +45,6 @@
                 "has_subnav": false
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
                 "label": "Sample Pages",
                 "url": "#",
                 "style": "link",
