@@ -21,7 +21,7 @@ Corresponde a la *contraparte titular de evaluación de servicio* la subida de l
 
 A continuación, se hará revisión del monitoreo mensual para I niveles ADP y, luego, de la evaluación anual.
 
-# Inicio del proceso
+# Descripción del proceso
 La contraparte de evaluación de servicio ingresa a la opción “Concursos por monitorear” disponible dentro del menú “Acompañamiento ADP” > ”Monitoreo”.
 Esta opción desplegará una pantalla similar a esta.
 
