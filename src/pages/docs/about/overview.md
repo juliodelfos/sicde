@@ -1,6 +1,6 @@
 ---
 title: Roles y funciones
-weight: 1
+weight: 0
 template: docs
 ---
 Las contrapartes técnicas son funcionarios/as de cada servicio y ministerio adscrito al Sistema de Alta Dirección Pública que han sido designados/as por la autoridad para apoyar las labores de elaboración de convenio de desempeño, evaluaciones al convenio y monitoreo mensual cuando corresponda.
