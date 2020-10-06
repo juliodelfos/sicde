@@ -2,15 +2,10 @@
 title: Bienvenida
 template: docs
 ---
+¡Te damos la bienvenida al Centro de Ayuda SICDE!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt id ante id varius. Fusce a gravida dolor.
+El Sistema de Convenios de Desempeño y Desarrollo ADP (SICDE) permite tanto la elaboración de Convenios de Desempeño (CD) de los Altos Directivos Públicos (ADP), como la evaluación de este instrumento. Este sistema permite, además, almacenar y gestionar toda la información de los ADP en su Ciclo de Desarrollo (Inducción, Formación y Egreso).
 
-***
+El SICDE fue desarrollado por la Dirección Nacional Servicio Civil (SC) y se encuentra en constante mejora, siendo una de las herramientas que el SC contempla en el proceso de acompañamiento permanente a los ADP. Gran parte de estas mejoras son gracias a la retroalimentación que entregan sus propios usuarios.
 
-Sed vel arcu ac ante blandit ultricies quis eget justo. Donec et lacinia sapien, sit amet tempus ligula. Fusce et sagittis massa. Fusce mollis mollis dui eget sagittis. Suspendisse id nunc mauris.
-
-Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec convallis. Integer et magna quis ligula cursus ullamcorper. Vestibulum eu egestas magna. Proin et tempus nulla. Quisque mattis purus ut pharetra tincidunt. Nulla facilisi. Donec et nunc consectetur, auctor lacus et, dignissim neque. Suspendisse sed massa metus. 
-
-[Morbi ac vulputate enim](https://stackbit.com)
-
-Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
+El sistema contribuye al cumplimiento de lo establecido en el marco normativo sobre gestión del desempeño directivo, aporta a la estandarización de los procesos, centraliza la información relevante de la gestión directiva y el asegura el cumplimiento de plazos legales. SICDE es una herramienta accesible, rápida y segura de trabajo colaborativo entre el directivo y su jefatura.
