@@ -85,7 +85,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: View Demo
+      - label: Revisar
         url: /docs/getting-started
         style: primary
   - section_id: features-two-col
