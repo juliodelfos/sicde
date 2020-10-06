@@ -84,14 +84,7 @@
     },
     "footer": {
         "content": "Centro de Ayuda SICDE. Dirección Nacional del Servicio Civil.",
-        "links": [
-            {
-                "label": "Made with Stackbit",
-                "url": "https://www.stackbit.com",
-                "style": "link",
-                "new_window": true
-            }
-        ],
+        "links": [],
         "has_social": true,
         "social_links": [
             {
