@@ -65,7 +65,7 @@ El porcentaje final de la evaluación del convenio de desempeño será el que re
 
 <div class="important">
   <strong>Nota:</strong> 
-  El porcentaje observado (% Observado) *es el porcentaje que se determina por parte de la contraparte de evaluación*, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación.
+  El porcentaje observado (% Observado) <strong>es el porcentaje que se determina por parte de la contraparte de evaluación</strong>, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación.
 </div>
 
 Una vez que se haya ingresado los porcentajes observados y las observaciones correspondientes, se puede finalizar el proceso presionando «Guardar y Firmar» al final del formulario, el cual llevará a una previsualización del documento y solicitará la clave como último paso de verificación. También es posible guardar el documento para poder hacerle una última revisión en otro momento, por ejemplo. Para esto se debe presionar el botón «Guardar».
