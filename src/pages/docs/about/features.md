@@ -1,5 +1,5 @@
 ---
-title: Convenios de I nivel
+title: Edición y modificación de convenio
 weight: 2
 template: docs
 ---
