@@ -64,7 +64,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Servicios Locales de Educación
         title_url: lorem-ipsum
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
