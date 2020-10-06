@@ -9,7 +9,7 @@ sections:
       Bienvenida/o al Centro de Ayuda del Sistema Informático de Convenios de
       Desempeño.
     actions:
-      - label: Get Started
+      - label: Revisar contenido
         url: /docs
         style: primary
   - section_id: features
