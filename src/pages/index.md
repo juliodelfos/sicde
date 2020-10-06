@@ -56,8 +56,6 @@ sections:
       - title: Desvinculación e indeminización
         title_url: ''
         content: >-
-          ## Lorem ipsum
-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
