@@ -1,30 +1,9 @@
 ---
-title: Edición y modificación de convenio de desempeño
+title: Evaluación del desempeño II niveles
 weight: 4
 template: docs
 ---
 
-# Edición del convenio previa suscripción
-SICDE permite la edición del CD o CGE hasta justo antes de la subida del convenio suscrito y la resolución que lo aprueba. De esta manera, si existe algún detalle que no fue considerado o se realiza un cambio de último minuto, es posible dejar reflejado esta modificación en SICDE.
-Esta edición o “modificación previa a la suscripción del CD” no es una modificación, ya que se encuentra dentro del proceso de elaboración del convenio.
-
-Para editar el CD previa suscripción es necesario haber definido los firmantes y haber ingresado a la opción «Subir convenio firmado». Dentro de esta opción es que se despliega la posibilidad de modificar el CD con el botón «Modifica Convenio de Desempeño».
-
-::VIDEO::
-
-# Modificación
-La modificación del CD propiamente tal se encuentra normada por la Ley N° 19.882 la cual menciona en su artículo sexagésimo tercero «Los convenios de desempeño podrán modificarse una vez al año, por razones fundadas y previo envío de la resolución que lo modifica a la Dirección Nacional del Servicio Civil y al Consejo de Alta Dirección Pública, para su conocimiento».
-
-Tal como menciona la ley el CD suscrito sólo puede modificarse una vez al año de gestión de cada ADP por lo que la modificación debe realizarse de manera consciente y por elementos importantes, vale decir, no sólo por errores de redacción, sino que por elementos fundamentales que haga que lo comprometido en el CD escape de las posibilidades de cumplimiento de un ADP. El instructivo de elaboración de CD en su página 21 instruye este proceso. En cuanto a los plazos, se insta a que se realice una vez cumplido los 6 meses de gestión y previo a 120 días antes del término del periodo (entre el sexto y octavo mes de gestión), fecha en la que se realiza la evaluación parcial y se cuenta con insumos y datos concretos para solicitar la modificación a la autoridad y a la DNSC.
-El proceso de modificación de CD se realiza mediante SICDE. Para esto, la Contraparte del servicio debe dirigirse al menú «Mis Convenios» y seleccionar el proceso de concurso del ADP que se requiere modificar.
-
-Recordar que este manual es válido para ADP que hayan suscrito su CD mediante SICDE. Más detalles aquí.
-
-Dentro del sitio «Mis convenios» se debe seleccionar el proceso convenio concurso que quiere modificarse.
-
-Una vez dentro, se debe seleccionar «Solicitar Nuevo Convenio» lo que permite desplegar los campos necesarios de solicitud de modificación del CD.
-
-Luego de indicar las razones por las que es necesaria realizar la modificación del CD e ingresada la contraseña se debe presionar «Solicitar». Esta acción deriva una tarea al Consultor el cual puede aprobar o rechazar la solicitud de modificación. Si es aprobada, la tarea de generación de propuesta de convenio se abre nuevamente del mismo modo como fue el proceso de presentación de propuesta de convenio de desempeño descrita en este apartado siendo exactamente el mismo proceso, pero sin plazos definidos, pero siendo obviamente necesario que sea lo más pronto posible dado los plazos con los que se cuenta para la evaluación anual.
 
 # Evaluación parcial
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación y finaliza con la revisión por parte del Jefe/a de Servicio correspondiente.

@@ -1,5 +1,5 @@
 ---
-title: Evaluación del desempeño I niveles SLEP
+title: Evaluación del desempeño I niveles
 weight: 3
 template: docs
 ---
