@@ -39,7 +39,7 @@
                 "has_subnav": false
             },
             {
-                "label": "Docs",
+                "label": "Manual",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
