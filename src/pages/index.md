@@ -117,7 +117,7 @@ sections:
     title: Revisar documentación
     subtitle: 'Instruativos, normativa y otros documentos de apoyo'
     actions:
-      - label: Get Started
+      - label: Revisar
         url: /docs/getting-started/installation
         style: primary
   - section_id: text-no-img
