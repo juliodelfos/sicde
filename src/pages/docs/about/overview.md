@@ -1,5 +1,5 @@
 ---
-title: Elaboración y suscripción convenio de desempeño
+title: Elaboración y suscripción
 weight: 1
 template: docs
 ---
