@@ -3,134 +3,40 @@ title: Quick Start
 weight: 2
 template: docs
 ---
+El Servicio Civil impartió las directrices para formular, actualizar y modificar los Convenios de Desempeño de los Altos Directivos Públicos con el propósito de vincular las metas de desempeño de los Altos Directivos Públicos con las prioridades estratégicas gubernamentales y la Agenda de Modernización del Estado, trabajo que se realizará de manera conjunta con el Ministerio de Hacienda y el Ministerio Secretaría General de la Presidencia.
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
+Lo anterior se inserta en la facultad de Servicio Civil, de “Impartir directrices de carácter general para la formulación, seguimiento y evaluación de los convenios de desempeño de los altos directivos públicos” (Ley N°19.882, Artículo Vigésimo Sexto, Artículo 2°, letra u).
 
-## Callouts
+Los principales cambios radican en:
 
-<hr>
+* SEGPRES adquiere un rol relevante en la fase de elaboración de convenios de I Nivel jerárquico, verificando que se incluyan las prioridades gubernamentales en este instrumento de gestión.
+* Ministerio de Hacienda también adquiere un rol destacado en la formulación de los convenios ADP de I nivel, le corresponderá enviar a las subsecretarías los indicadores transversales, que deberán ser incorporados en ellos.
+* Durante los meses de marzo y septiembre, Servicio Civil enviará un informe del cumplimiento de las metas establecidas en los convenios de I nivel jerárquico al Presidente de la República, Ministros y Subsecretarios.
+Los directivos de primer nivel jerárquico deberán evaluarse a través de la plataforma SICDE. Serán las contrapartes ministeriales las que recepcionarán el Informe de desempeño que dichos directivos y los encargados de subir la respectiva resolución.
+Si quieres revisar la información completa, ::haz click aquí::.
 
-There are two types of callouts available in this theme, **note** and **important**. To add a callout to your documentation simply add the following `html` code with class `important` or `note`. Like in the example bellow. 
+Para los convenios de I nivel, a partir de las instrucciones emitidas por el Servicio Civil mediante Oficio Nº 2286 del 15 de octubre de 2019, sobre el proceso de elaboración, suscripción, modificación y evaluación del Alto Directivo Público, está disponible el formulario para el registro del avance periódico de los convenios de desempeño de los jefes de servicio ADP.
 
-### HTML example
+Corresponde a la *contraparte titular de evaluación de servicio* la subida de la información. Sólo este funcionario/a tendrá la posibilidad de acceder a los menús correspondientes dentro de SICDE.
 
-Copy the code and modify these blocks according to your needs.
+A continuación, se hará revisión del monitoreo mensual para I niveles ADP y, luego, de la evaluación anual.
 
-```html
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text.
-  This block indicates a warning or caution. 
-  Use it for an important message. 
-</div>
-```
+# Inicio del proceso
+La contraparte de evaluación de servicio ingresa a la opción “Concursos por monitorear” disponible dentro del menú “Acompañamiento ADP” > ”Monitoreo”.
+Esta opción desplegará una pantalla similar a esta.
 
-```html
-<div class="note">
-  <strong>Note:</strong> 
-  This is a "Note" callout block of text. 
-  This block signifies a general note.
-</div>
-```
-### Live example
+::PANTALLAZO::
 
-<div class="important">
-  <strong>Important:</strong> 
-  This is an "Important" callout block of text. 
-  This block indicates a warning or caution.
-  Use it for an important message. 
-</div>
+Posteriormente debe seleccionar el mes que se va a reportar. Al acceder a “Concursos por monitorear” se despliega la pantalla con el convenio del directivo de su servicio para ingresar la información del mes que vaya a reportar. Estarán disponibles en pantalla todos los meses que han transcurrido del año de gestión respectivo. La contraparte puede seleccionar cualquier mes del año de gestión en curso.
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is an "Note" callout block of text. 
-  This block signifies a general note.
-</div>
+<div class="note"><strong>Nota:</strong> S/d significa que para ese mes no hay información ingresada. </div>
 
-## Code blocks
+La contraparte puede seleccionar el mes e ingresar el avance porcentual de cada uno de los indicadores. En esta instancia debe ingresar la fecha de corte de los datos que está ingresando.
 
-<hr>
+Por ejemplo si el directivo inicia el año de gestión el 01/03/2019 y está reportando el 4 mes, la fecha de corte será 30/06/2019.
+Se debe ingresar el porcentaje (de 1% a 100%) acumulado de cada indicador. Si se trata de un meta que considera otra medida, el avance también se debe indicar de forma porcentual de 1% a 100%.
+El sistema valida que la fecha de corte de los datos corresponda con el periodo de medición que se está registrando.
+En este versión, no hay ningún campo obligatorio para el registro de información. Si no se reporta la información el reporte saldrá con ceros.
+Después de ingresar la información, el sistema permite revisar y modificar la información ingresada durante todo el año en que esté habilitada la plataforma.
 
-<div class="note">
-  <strong>Note:</strong>
-  Code blocks have copy functionality. To copy the code press the grey button located in the right side top corner.
-</div>
-
-You can create simple code blocks by placing triple backticks <code>```</code> before and after the code block. To render a code block more readable, we recommend placing a blank line before and after code blocks.
-
-<pre>```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-```
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-### Syntax highlighting
-
-You can add a language identifier to enable syntax highlighting in your code block. For example, to syntax highlight **JavaScript** code, specify `javascript` next to the tick marks before the fenced code block:
-
-<pre>
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-</pre>
-
-The rendered output looks like this:
-
-```javascript
-if (condition) {
-  code to run if condition is true
-} else {
-  run some other code instead
-}
-```
-
-## Tables
-
-<hr>
-
-You can build tables with markdown to help you organize information. To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column like in the example below.
-
-<pre>
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-</pre>
-
-| Title | Title |
-| ------| ----- |
-| Text  | Text  |
-| Text  | Text  |
-
-<div class="note">
-  <strong>Note:</strong> 
-  Creating tables with hyphens and pipes can be time-consuming. To speed up the process, try using the <a href="http://www.tablesgenerator.com/markdown_tables" >Markdown Tables Generator</a>.
-</div>
-
-## Start using Libris theme
-
-<hr>
-
-We’ve packed this theme with powerful features to help you have awesome documentation for your current or next project.
-
-**Why not start using this theme today?**
-
-<a href="https://www.stackbit.com/" class="button">Join Stackbit</a>
+Al cumplir el año de gestión automáticamente el sistema genera una actividad para que cada directivo ingrese la evaluación que va reportar en su evaluación anual.
