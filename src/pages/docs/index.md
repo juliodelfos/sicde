@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Bienvenida
 template: docs
 ---
 
