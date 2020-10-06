@@ -115,7 +115,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Revisar documentación
-    subtitle: Instru
+    subtitle: Instruativa
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
