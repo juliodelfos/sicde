@@ -70,7 +70,7 @@
             },
             {
                 "label": "Ir a SICDE",
-                "url": "https://github.com/",
+                "url": "https://pi.serviciocivil.cl/login/index.php",
                 "style": "primary",
                 "has_subnav": false
             }
