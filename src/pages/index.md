@@ -42,7 +42,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
-      - title: lorem-ipsum
+      - title: Edición y modificación de convenio
         title_url: lorem-ipsum
         content: >-
           ## Lorem ipsum
