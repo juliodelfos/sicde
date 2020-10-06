@@ -86,15 +86,7 @@
         "content": "Centro de Ayuda SICDE. Dirección Nacional del Servicio Civil.",
         "links": [],
         "has_social": true,
-        "social_links": [
-            {
-                "label": "GitHub",
-                "url": "https://github.com/",
-                "style": "icon",
-                "icon_class": "fa-github",
-                "new_window": true
-            }
-        ]
+        "social_links": []
     },
     "title": "Centro de Ayuda SICDE"
 }
