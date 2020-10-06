@@ -128,7 +128,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: Revisarr
+      - label: Revisarrr
         url: /docs/getting-started/installation
         style: primary
 template: advanced
