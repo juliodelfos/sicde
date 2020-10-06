@@ -92,7 +92,7 @@ sections:
     type: section_grid
     title: Sample Layouts
     subtitle: An optional subtitle of the section
-    col_number: three
+    col_number: two
     grid_items:
       - title: Overview
         content: >-
