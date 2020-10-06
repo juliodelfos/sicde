@@ -3,94 +3,45 @@ title: Convenios de I nivel
 weight: 2
 template: docs
 ---
-El convenio de desempeño (CD) es un instrumento de gestión que orienta al ADP en el cumplimiento de los desafíos que le exige su cargo y le fija objetivos estratégicos de gestión por los cuales éste será retroalimentado y evaluado periódicamente. En definitiva, el CD facilita la <mark>rendición de cuentas efectiva y transparente tanto al ministro/a del ramo o jefe/a superior de servicio, según corresponda, así como a la ciudadanía</mark>.
+SICDE permite la edición del CD o CGE hasta justo antes de la subida del convenio suscrito y la resolución que lo aprueba. De esta manera, si existe algún detalle que no fue considerado o se realiza un cambio de último minuto, es posible dejar reflejado esta modificación en SICDE.
+Esta edición o “modificación previa a la suscripción del CD” no es una modificación, ya que se encuentra dentro del proceso de elaboración del convenio.
 
-Los objetivos y metas que se establezcan en el CD, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
+Para editar el CD previa suscripción es necesario haber definido los firmantes y haber ingresado a la opción «Subir convenio firmado». Dentro de esta opción es que se despliega la posibilidad de modificar el CD con el botón «Modifica Convenio de Desempeño».
 
-## Plazos asociados
-El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de los treinta días corridos contados desde su nombramiento o renovación, y deberá considerar el respectivo perfil del cargo.
+::VIDEO::
 
-El plazo máximo para la suscripción del CD es de sesenta días corridos, contados desde el nombramiento o renovación del ADP.
+# Modificación convenios de desempeño
+La modificación del CD propiamente tal se encuentra normada por la Ley N° 19.882 la cual menciona en su artículo sexagésimo tercero «Los convenios de desempeño podrán modificarse una vez al año, por razones fundadas y previo envío de la resolución que lo modifica a la Dirección Nacional del Servicio Civil y al Consejo de Alta Dirección Pública, para su conocimiento».
 
-La autoridad respectiva deberá comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días, contados desde el nombramiento o renovación del directivo.
+Tal como menciona la ley el CD suscrito sólo puede modificarse una vez al año de gestión de cada ADP por lo que la modificación debe realizarse de manera consciente y por elementos importantes, vale decir, no sólo por errores de redacción, sino que por elementos fundamentales que haga que lo comprometido en el CD escape de las posibilidades de cumplimiento de un ADP. El instructivo de elaboración de CD en su página 21 instruye este proceso. En cuanto a los plazos, se insta a que se realice una vez cumplido los 6 meses de gestión y previo a 120 días antes del término del periodo (entre el sexto y octavo mes de gestión), fecha en la que se realiza la evaluación parcial y se cuenta con insumos y datos concretos para solicitar la modificación a la autoridad y a la DNSC.
+El proceso de modificación de CD se realiza mediante SICDE. Para esto, la Contraparte del servicio debe dirigirse al menú «Mis Convenios» y seleccionar el proceso de concurso del ADP que se requiere modificar.
 
-<div class="important"><strong>Nota:</strong> En caso de incumplimiento, Servicio Civil deberá informar a Contraloría General de la República para efectos de la aplicación de una multa que puede afectar entre el 20% al 50% de la remuneración de dicha autoridad (jefe/a de servicio o ministro/a según sea el caso). Además, el Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de esta obligación.</div>
+Recordar que este manual es válido para ADP que hayan suscrito su CD mediante SICDE. Más detalles aquí.
 
-## Inicio del proceso: elaboración del convenio
-Para iniciar el proceso de elaboración de CD, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
+Dentro del sitio «Mis convenios» se debe seleccionar el proceso convenio concurso que quiere modificarse.
 
-::PANTALLAZO::
+Una vez dentro, se debe seleccionar «Solicitar Nuevo Convenio» lo que permite desplegar los campos necesarios de solicitud de modificación del CD.
 
-Será la contraparte titular del Ministerio o servicio el funcionario/a que tendrá en su bandeja de entrada de SICDE esta tarea. Al presionar «Generar propuesta de convenio» se despliega el siguiente formulario, el cual mediante el relleno de campos permitirá generar una propuesta de convenio de desempeño.
+Luego de indicar las razones por las que es necesaria realizar la modificación del CD e ingresada la contraseña se debe presionar «Solicitar». Esta acción deriva una tarea al Consultor el cual puede aprobar o rechazar la solicitud de modificación. Si es aprobada, la tarea de generación de propuesta de convenio se abre nuevamente del mismo modo como fue el proceso de presentación de propuesta de convenio de desempeño descrita en este apartado siendo exactamente el mismo proceso, pero sin plazos definidos, pero siendo obviamente necesario que sea lo más pronto posible dado los plazos con los que se cuenta para la evaluación anual.
 
-::PANTALLAZO::
+# Modificación convenios de gestión educacional (I niveles SLEP)
 
-Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen. Los campos que deben ser rellenados por cada objetivo son:
+El proceso de modificación de los convenios de desempeño para los I niveles de los Servicios Locales de Educación se rige según lo establecido en la Ley Nº 21.040 en su artículo 42.
 
-::VIDEO LOOM::
+El convenio de gestión educacional tiene una duración de seis años desde la fecha de nombramiento. Sin perjuicio de esto, las metas y sus respectivos indicadores y medios de verificación podrán modificarse una vez al año.
+Para modificar el convenio, se debe considerar el informe evacuado de la evaluación del convenio de gestión educacional que da cuenta de la gestión directiva del ADP. Cabe señalar que sólo es posible modificar cuando se produzcan cambios en las circunstancias o en los supuestos básicos del convenio de gestión educacional, no imputables a la gestión del Director/a Ejecutivo/a, o cuando se hayan cumplido anticipadamente las metas establecidas en él.
 
-<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+No constituirán razones fundadas para la modificación de un convenio el acaecimiento de situaciones emergentes que afecten el funcionamiento de la institución que sean atribuibles a la gestión propia del directivo/a.
+Las modificaciones se deberán consignar en un nuevo documento de convenio de gestión educacional; en éste se mantendrán los compromisos, indicadores y metas que no se afectan, y se señalarán las modificaciones, ya sea en los objetivos, indicadores, metas, medios de verificación y supuestos, a partir del año que se solicita dicha modificación. En su parte inferior, como nota, deberá dejarse constancia de las modificaciones efectuadas.
 
-Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
+El convenio de gestión educacional modificado deberá ser suscrito por el directivo de I nivel y el Ministro/a de Educación, y previo a su aprobación mediante resolución, la autoridad deberá remitir una propuesta del convenio modificado y la resolución aprobatoria al Servicio Civil. En ésta última se deberán consignar las razones fundadas que justifican la modificación.
 
-* *Previsualizar*: genera un documento PDF con toda la información ingresada.
-* *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de CD en diferentes momentos.
-* *Cerrar*: termina con la acción que se estaba realizando sin guardar.
-* *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
+El Servicio Civil revisará que la modificación se ajuste a las disposiciones legales y reglamentarias vigentes y a las directrices de carácter general impartidas en materia de modificación de convenios de gestión educacional. En caso de haber aspectos de la modificación del convenio de desempeño que no se ajusten a lo anterior, podrá requerir a la autoridad que efectúe las adecuaciones pertinentes.
+El convenio modificado durará hasta el vencimiento del periodo del convenio original. Una vez suscrito, la autoridad deberá remitir una copia del mismo y de la resolución que lo aprueba al Servicio Civil y al Consejo de Alta Dirección Pública, para su conocimiento y registro.
 
-Una vez que introduzca su contraseña, le aparecerá una confirmación de envío del documento. Desde este punto, el Consultor del Servicio Civil tiene un plazo de 5 días hábiles para su revisión y/o aprobación.
+## Proceso de modificación
+Dentro del sitio «Mis convenios» se debe seleccionar el proceso convenio concurso que quiere modificarse.
 
-::PANTALLAZO CONFIRMACIÓN::
+Una vez dentro, se debe seleccionar «Solicitar Nuevo Convenio» lo que permite desplegar los campos necesarios de solicitud de modificación del CD.
 
-## Revisión y aprobación del convenio
-La acción «Guardar y firmar» deriva la propuesta de convenio al Consultor/a DNSC para su revisión el cual tiene un plazo máximo de cinco días hábiles para la revisión de esta propuesta.
-
-El Consultor/a DNSC tiene la posibilidad de ingresar comentarios técnicos y de forma a la propuesta de CD o CGE. De esta manera, puede solicitar modificaciones al documento relacionados a la redacción, a la complejidad de los objetivos, a la fórmula de cálculo, a los supuestos, etc., así como realizar consultas respecto a uno u otro objetivo.
-
-De este proceso de revisión, pueden suscitar tres posibles escenarios:
-
-### Derivación a SEGPRES
-Los convenios de I nivel, es decir, de Jefes/as de Servicio, pueden ser derivados en primera instancia al Ministerio Secretaría General de la Presidencia (SEGPRES), con el fin de que ingresen comentarios que complementen la propuesta de convenio, entregando una mirada desde el Programa de Gobierno a los convenios de desempeño y de gestión educacional.
-
-### Aprobación del convenio
-Una propuesta de convenio puede ser aprobada en primera instancia si es que la revisión técnica del Consultor/a DNSC así lo estima.
-La aprobación del convenio da como resultado la tarea de subir el convenio firmado y la resolución que lo aprueba a SICDE. Esta labor debe ser hecha por la contraparte de convenios titular del servicio o ministerio, según corresponda.
-
-### Convenio es comentado
-En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de CD o CGE es devuelvta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. 
-La contraparte tendrá la posibilidad de ver estos comentarios e incluso responderlo a través de la misma plataforma.
-Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
-Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
-
-::AÑADIR FLUJO::
-
-# Fin del proceso: suscripción, firma y comunicación del convenio
-Una vez que la propuesta de CD o CGE es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular de convenios. 
-
-::PANTALLAZO::
-
-La tarea corresponde a la subida del convenio firmado por el Jefe/a de Servicio y el Ministro/a de la cartera, es decir, el convenio suscrito. 
-Junto al CD o CGE suscrito se debe subir la resolución exenta que aprueba este convenio. 
-SICDE permite la subida de un documento anexo en caso de ser necesario. Este es el único campo no obligatorio.
-
-<div class=“note”><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
-
-Para subir los documentos se debe ingresar a la actividad «X Convenios en espera de firma» y seleccionar el concurso ADP correspondiente al convenio elaborado.
-
-::PANTALLAZO::
-
-Lo primero que corresponde hacer es definir los firmantes. Para esto, se debe seleccionar la opción «Definir Firmantes» e ingresar los datos solicitados.
-
-::PANTALLAZO DE EJEMPLO:: DUDA RECURRENTE
-
-Una vez rellenada y guardada esta información, se debe proceder a subir el convenio, su resolución y un anexo en caso de ser necesario. Para esto, se debe presionar el botón «Subir convenio firmado», el cual deriva a la siguiente pantalla.
-
-::PANTALLAZO::
-
-Luego de adjuntar los documentos se debe presionar el botón «Subir». El sistema confirmará la subida de los documentos.
-Con esta acción los documentos subidos son derivados al Consultor/a DNSC para su revisión.
-
-::PANTALLAZO::
-
-Finalmente, el Consultor/a DNSC debe revisar los documentos ingresados, teniendo la posibilidad de devolverlos en caso de encontrarse algún error, ser ilegibles u otra razón. 
-La aprobación de los documentos da como resultado el registro de ellos en la Oficina de Partes del Servicio Civil y, por tanto, se entiende como comunicados según lo estipulado en la ley Nº 19.882, no habiendo necesidad de hacer envío por plataformas digitales ni oficio físico de lo cargado en plataforma.
+Luego de indicar las razones por las que es necesaria realizar la modificación del CD e ingresada la contraseña se debe presionar «Solicitar». Esta acción deriva una tarea al Consultor el cual puede aprobar o rechazar la solicitud de modificación. Si es aprobada, la tarea de generación de propuesta de convenio se abre nuevamente del mismo modo como fue el proceso de presentación de propuesta de convenio de desempeño descrita en este apartado siendo exactamente el mismo proceso, pero sin plazos definidos, pero siendo obviamente necesario que sea lo más pronto posible dado los plazos con los que se cuenta para la evaluación anual.
