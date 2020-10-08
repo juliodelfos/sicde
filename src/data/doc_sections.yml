@@ -2,8 +2,7 @@ root_docs_path: /docs
 sections:
   - ingreso
   - convenios
-  - evaluaciones
-  - test
-  - tools
+  - evaluaciones  
+  - slep
   - faq
   - community
