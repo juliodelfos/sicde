@@ -17,63 +17,57 @@ sections:
     col_number: three
     grid_items:
       - title: Elaboración y suscripción de convenio
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: Revisa el proceso de suscripción de convenios de I y II nivel.
         actions:
-          - label: Get Started
-            url: /docs
+          - label: Revisar
+            url: /docs/convenios/
             style: link
       - title: Evaluación y monitoreo de los convenios
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: 'Proceso de evaluación parcial, anual y monitoreo para ADP.'
         actions:
-          - label: View Posts
-            url: /blog
+          - label: Revisar
+            url: /docs/evaluaciones/
             style: link
       - title: Ingreso y roles en SICDE
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: Proceso de ingreso y funciones de contrapartes.
         actions:
-          - label: Learn More
-            url: /style-guide
+          - label: Revisar
+            url: /docs/ingreso/
             style: link
       - title: Edición y modificación de convenio
         title_url: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
+          Solicitud de modificación de convenio y edición de convenios no
+          suscritos.
+        actions:
+          - label: Revisar
+            url: /docs/convenios/edicion-modificacion/
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
       - title: Desvinculación e indeminización
         title_url: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
+        content: Norma general de indeminizaciones para ADP desvinculados.
+        actions:
+          - label: Revisar
+            url: /docs/indemnizaciones/
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
       - title: Servicios Locales de Educación
         title_url: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
+        content: Elaboración y evaluación de convenios para I y II niveles de SLEP.
+        actions:
+          - label: Revisar
+            url: 'https://sicde-cbd8f.netlify.app/docs/slep/'
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
   - section_id: text-img
     type: section_content
@@ -86,7 +80,7 @@ sections:
       consectetur lobortis.
     actions:
       - label: Revisar
-        url: /docs/getting-started
+        url: /docs/faq/
         style: primary
   - section_id: features-two-col
     type: section_grid
