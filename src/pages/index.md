@@ -29,10 +29,7 @@ sections:
             url: /docs/evaluaciones/
             style: link
       - title: Ingreso y roles en SICDE
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: Proceso de ingreso y funciones de contrapartes.
         actions:
           - label: Learn More
             url: /style-guide
