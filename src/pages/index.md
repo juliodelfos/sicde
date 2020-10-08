@@ -58,7 +58,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Revisar
-            url: lorem-ipsum
+            url: /docs/indemnizaciones/
             style: link
             icon_class: lorem-ipsum
             new_window: false
