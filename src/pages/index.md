@@ -60,13 +60,7 @@ sections:
         type: grid_item
       - title: Servicios Locales de Educación
         title_url: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: Elaboración y evaluación de convenios para I y II niveles de SLEP.
         actions:
           - label: Revisar
             url: 'https://sicde-cbd8f.netlify.app/docs/slep/'
