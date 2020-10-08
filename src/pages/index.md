@@ -23,7 +23,7 @@ sections:
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
           - label: Revisar
-            url: /docs
+            url: /docs/convenios/
             style: link
       - title: Evaluación y monitoreo de los convenios
         content: >-
