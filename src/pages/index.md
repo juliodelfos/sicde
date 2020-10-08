@@ -57,7 +57,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: Revisar
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
