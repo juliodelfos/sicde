@@ -43,7 +43,13 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
       - title: Desvinculación e indeminización
         title_url: ''
