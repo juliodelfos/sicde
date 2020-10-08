@@ -31,7 +31,7 @@ sections:
       - title: Ingreso y roles en SICDE
         content: Proceso de ingreso y funciones de contrapartes.
         actions:
-          - label: Learn More
+          - label: Revisar
             url: /style-guide
             style: link
       - title: Edición y modificación de convenio
