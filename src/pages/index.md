@@ -23,9 +23,7 @@ sections:
             url: /docs/convenios/
             style: link
       - title: Evaluación y monitoreo de los convenios
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: 'Proceso de evaluación parcial, anual y monitoreo para ADP.'
         actions:
           - label: Revisar
             url: /docs/evaluaciones/
