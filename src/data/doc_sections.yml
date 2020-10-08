@@ -2,7 +2,7 @@ root_docs_path: /docs
 sections:
   - ingreso
   - convenios
-  - ui-components
+  - evaluaciones
   - test
   - tools
   - faq
