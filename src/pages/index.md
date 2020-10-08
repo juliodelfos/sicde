@@ -80,7 +80,7 @@ sections:
       consectetur lobortis.
     actions:
       - label: Revisar
-        url: /docs/getting-started
+        url: /docs/faq/
         style: primary
   - section_id: features-two-col
     type: section_grid
