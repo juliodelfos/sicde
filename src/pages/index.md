@@ -69,7 +69,7 @@ sections:
           - dolor sit amet
         actions:
           - label: Revisar
-            url: lorem-ipsum
+            url: 'https://sicde-cbd8f.netlify.app/docs/slep/'
             style: link
             icon_class: lorem-ipsum
             new_window: false
