@@ -22,7 +22,7 @@ sections:
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
         actions:
-          - label: Get Started
+          - label: Revisar
             url: /docs
             style: link
       - title: Evaluación y monitoreo de los convenios
