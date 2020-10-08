@@ -1,10 +1,9 @@
 root_docs_path: /docs
 sections:
-  - about
+  - ingreso
   - getting-started
   - ui-components
   - test
   - tools
   - faq
   - community
-  - ingreso
