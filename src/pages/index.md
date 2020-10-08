@@ -28,7 +28,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         actions:
           - label: View Posts
-            url: /blog
+            url: /docs/evaluaciones/
             style: link
       - title: Ingreso y roles en SICDE
         content: >-
