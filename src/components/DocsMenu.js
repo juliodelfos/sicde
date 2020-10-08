@@ -13,7 +13,7 @@ export default class DocsMenu extends React.Component {
         return (
             <nav id="docs-nav" className="docs-nav">
               <div id="docs-nav-inside" className="docs-nav-inside sticky">
-                <button id="docs-nav-toggle" className="docs-nav-toggle">Navigate Docs<span className="icon-angle-right" aria-hidden="true" /></button>
+                <button id="docs-nav-toggle" className="docs-nav-toggle">Revisar manual<span className="icon-angle-right" aria-hidden="true" /></button>
                 <div className="docs-nav-menu">
                   <ul id="docs-menu" className="docs-menu">
                     <li className={classNames('docs-menu-item', {'current': _.get(page, 'url', null) === _.get(root_page, 'url', null)})}>
@@ -31,7 +31,7 @@ export default class DocsMenu extends React.Component {
                           <li key={section_idx} className={classNames('docs-menu-item', {'has-children': has_children, 'current': is_current_page, 'active': is_active})}>
                             <Link to={withPrefix(_.get(section_page, 'url', null))}>{_.get(section_page, 'frontmatter.title', null)}</Link>
                             {has_children && (<React.Fragment>
-                              <button className="docs-submenu-toggle"><span className="screen-reader-text">Submenu</span><span className="icon-angle-right" aria-hidden="true" /></button>
+                              <button className="docs-submenu-toggle"><span className="screen-reader-text">Submenú</span><span className="icon-angle-right" aria-hidden="true" /></button>
                               <DocsSubmenu {...this.props} child_pages={child_pages} page={page} site={site} />
                             </React.Fragment>)}
                           </li>
