@@ -82,12 +82,6 @@ sections:
       - label: Revisar
         url: /docs/getting-started
         style: primary
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
   - section_id: features-two-col
     type: section_grid
     title: Sample Layouts
