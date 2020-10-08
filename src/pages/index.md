@@ -49,13 +49,7 @@ sections:
         type: grid_item
       - title: Desvinculación e indeminización
         title_url: ''
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: Norma general de indeminizaciones para ADP desvinculados.
         actions:
           - label: Revisar
             url: /docs/indemnizaciones/
