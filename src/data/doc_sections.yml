@@ -1,6 +1,6 @@
 root_docs_path: /docs
 sections:
-  - ingreso-sicde
+  - about
   - getting-started
   - ui-components
   - test
