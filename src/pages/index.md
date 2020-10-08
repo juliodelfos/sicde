@@ -37,12 +37,8 @@ sections:
       - title: Edición y modificación de convenio
         title_url: lorem-ipsum
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Solicitud de modificación de convenio y edición de convenios no
+          suscritos.
         actions:
           - label: Revisar
             url: /docs/convenios/edicion-modificacion/
