@@ -32,7 +32,7 @@ sections:
         content: Proceso de ingreso y funciones de contrapartes.
         actions:
           - label: Revisar
-            url: /style-guide
+            url: /docs/ingreso/
             style: link
       - title: Edición y modificación de convenio
         title_url: lorem-ipsum
