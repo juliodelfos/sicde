@@ -75,9 +75,8 @@ sections:
     image_position: left
     title: Preguntas frecuentes
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Revisa las consultas más comunes en materia de Sistema de Alta Dirección
+      Pública y uso de SICDE.
     actions:
       - label: Revisar
         url: /docs/faq/
