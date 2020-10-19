@@ -13,9 +13,11 @@ En el caso de los ADP, éstos reciben sus credenciales de acceso al momento de c
 # Cómo ingresar
 Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
 
-<iframe src="https://www.loom.com/share/bea7cab88ac74bcdab22d0d07044798d?from_recorder=1" width="640" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=Q3H37S4-Xes" width="640" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Una vez en el sitio, se le solicitará su usuario —que corresponde a su correo electrónico— y su contraseña que ha sido enviada a su correo electrónico registrado.
+
+<div style="position: relative; padding-bottom: 55.104166666666664%; height: 0;"><iframe src="https://www.loom.com/embed/bea7cab88ac74bcdab22d0d07044798d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 # Funciones y forma de ingreso de contrapartes
 
