@@ -13,7 +13,7 @@ En el caso de los ADP, éstos reciben sus credenciales de acceso al momento de c
 # Cómo ingresar
 Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
 
-![Ingreso a SICDE](ingreso-sicde.png)
+![Ingreso a SICDE](1.jpg)
 
 images/ingreso-sicde.png
 
