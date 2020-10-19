@@ -15,8 +15,6 @@ Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
 
 ![Ingreso a SICDE](1.jpg)
 
-images/ingreso-sicde.png
-
 Una vez en el sitio, se le solicitará su usuario —que corresponde a su correo electrónico— y su contraseña que ha sido enviada a su correo electrónico registrado.
 
 # Funciones y forma de ingreso de contrapartes
