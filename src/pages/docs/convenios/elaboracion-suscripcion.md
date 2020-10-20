@@ -63,7 +63,7 @@ La tarea corresponde a la subida del convenio firmado por el Jefe/a de Servicio 
 Junto al CD o CGE suscrito se debe subir la resolución exenta que aprueba este convenio. 
 SICDE permite la subida de un documento anexo en caso de ser necesario. Este es el único campo no obligatorio.
 
-<div class=“note”><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
+<div class="important"><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
 
 Para subir los documentos se debe ingresar a la actividad «X Convenios en espera de firma» y seleccionar el concurso ADP correspondiente al convenio elaborado.
 
