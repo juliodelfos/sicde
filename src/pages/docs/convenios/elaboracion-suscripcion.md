@@ -25,8 +25,6 @@ Para realizar la “carga” del conviene se debe seleccionar la opción «Agreg
 
 <div class="important"><strong>Nota:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S_m2UJyyB-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
 
 * *Previsualizar*: genera un documento PDF con toda la información ingresada.
@@ -34,7 +32,9 @@ Una vez que se rellenaron los campos necesarios, el sistema permite realizar cua
 * *Cerrar*: termina con la acción que se estaba realizando sin guardar.
 * *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
 
-Una vez que introduzca su contraseña, le aparecerá una confirmación de envío del documento. Desde este punto, el Consultor del Servicio Civil tiene un plazo de 5 días hábiles para su revisión y/o aprobación.
+Finalizado este paso aparecerá una confirmación de envío del documento. Desde este punto, el Consultor del Servicio Civil tiene un plazo de 5 días hábiles para su revisión y/o aprobación.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S_m2UJyyB-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Revisión y aprobación del convenio
 La acción «Guardar y firmar» deriva la propuesta de convenio al Consultor/a DNSC para su revisión el cual tiene un plazo máximo de cinco días hábiles para la revisión de esta propuesta.
@@ -55,8 +55,6 @@ En caso de que el convenio sea objeto de algún comentario por parte del Consult
 La contraparte tendrá la posibilidad de ver estos comentarios e incluso responderlo a través de la misma plataforma.
 Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
 Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
-
-::AÑADIR FLUJO::
 
 ## Fin del proceso: suscripción, firma y comunicación del convenio
 Una vez que la propuesta de CD o CGE es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular de convenios. 
