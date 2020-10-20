@@ -40,7 +40,7 @@ SICDE permite activar la subrogancia entre contrapartes en caso de que alguna co
 
 La subrogancia debe ser activada por la contraparte titular. Para ello, debe dirigirse al menú Opciones y allí seleccionar «Activar Subrogancia».
 
-<a href="https://imgur.com/gallery/911uXD7"><img src="https://i.imgur.com/911uXD7.png" title="Menú para activar subrogancia de contrapartes" /></a>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cQXU_PZ1t8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Una vez dentro de esta opción, se despliegan todas las contrapartes de ese Ministerio o Servicio y se debe seleccionar la contraparte a la cual se le subrogarán las funciones.
 
