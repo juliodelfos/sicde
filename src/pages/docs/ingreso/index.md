@@ -26,6 +26,4 @@ Una vez en el sitio, se le solicitará su usuario —que corresponde a su correo
 | Contrapartes técnicas | Definido vía oficio por parte del servicio. Ingresado manualmente por Consultor SC.          | Correo electrónico de parte de «Procesos Integrados» | Hasta que la autoridad lo defina.        |
 | Consultores DNSC      | Todos los Consultores de Acompañamiento y Desarrollo del SC tienen acceso.                   | Correo electrónico de parte de «Procesos Integrados» | Mientras ejerza la función de Consultor. |
 
-***
-
 En esta sección encontrarás:

@@ -35,12 +35,12 @@ Sus labores son la de subir la resolución que aprueba el porcentaje de evaluaci
 
 <div class=“note”><strong>Nota:</strong> Sin perjuicio del apoyo que las contrapartes mantienen a los ADP de su servicio, la responsabilidad en la elaboración del convenio y la evaluación de periodo de gestión corresponde por ley a la autoridad respectiva.</div>
 
-# Subrogancia de contrapartes
+## Subrogancia de contrapartes
 SICDE permite activar la subrogancia entre contrapartes en caso de que alguna contraparte se encuentre con feriado legal, licencias médicas  o se vea impedido de realizar su labor por cualquier otro motivo.
 
 La subrogancia debe ser activada por la contraparte titular. Para ello, debe dirigirse al menú Opciones y allí seleccionar «Activar Subrogancia».
 
-::PANTALLAZO::
+<a href="https://imgur.com/gallery/911uXD7"><img src="https://i.imgur.com/911uXD7.png" title="Menú para activar subrogancia de contrapartes" /></a>
 
 Una vez dentro de esta opción, se despliegan todas las contrapartes de ese Ministerio o Servicio y se debe seleccionar la contraparte a la cual se le subrogarán las funciones.
 
