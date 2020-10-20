@@ -94,3 +94,5 @@ Con esta acción los documentos subidos son derivados al Consultor/a DNSC para s
 
 Finalmente, el Consultor/a DNSC debe revisar los documentos ingresados, teniendo la posibilidad de devolverlos en caso de encontrarse algún error, ser ilegibles u otra razón. 
 La aprobación de los documentos da como resultado el registro de ellos en la Oficina de Partes del Servicio Civil y, por tanto, se entiende como comunicados según lo estipulado en la ley Nº 19.882, no habiendo necesidad de hacer envío por plataformas digitales ni oficio físico de lo cargado en plataforma.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S_m2UJyyB-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
