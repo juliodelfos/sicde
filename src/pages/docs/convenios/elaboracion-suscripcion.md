@@ -23,7 +23,7 @@ Será la contraparte titular del Ministerio o servicio el funcionario/a que tend
 
 Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen.
 
-<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+<div class="important"><strong>Nota:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S_m2UJyyB-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
