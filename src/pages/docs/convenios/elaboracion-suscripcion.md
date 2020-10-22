@@ -56,7 +56,7 @@ La tarea corresponde a la subida del convenio firmado por el Jefe/a de Servicio 
 Junto al CD o CGE suscrito se debe subir la resolución exenta que aprueba este convenio. 
 SICDE permite la subida de un documento anexo en caso de ser necesario. Este es el único campo no obligatorio.
 
-<div class="important"><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
+<div class="note"><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
 
 Para subir los documentos se debe ingresar a la actividad «X Convenios en espera de firma» y seleccionar el concurso ADP correspondiente al convenio elaborado.
 Lo primero que corresponde hacer es definir los firmantes. Para esto, se debe seleccionar la opción «Definir Firmantes» e ingresar los datos solicitados.
@@ -68,5 +68,3 @@ Con esta acción los documentos subidos son derivados al Consultor/a DNSC para s
 
 Finalmente, el Consultor/a DNSC debe revisar los documentos ingresados, teniendo la posibilidad de devolverlos en caso de encontrarse algún error, ser ilegibles u otra razón. 
 La aprobación de los documentos da como resultado el registro de ellos en la Oficina de Partes del Servicio Civil y, por tanto, se entiende como comunicados según lo estipulado en la ley Nº 19.882, no habiendo necesidad de hacer envío por plataformas digitales ni oficio físico de lo cargado en plataforma.
----
-En esta sección encontrarás:
