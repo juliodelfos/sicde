@@ -3,9 +3,9 @@ title: Evaluación del desempeño I niveles
 weight: 3
 template: docs
 ---
-# Evaluación anual 
+## Evaluación anual 
 
-## Elementos de la evaluación
+### Elementos de la evaluación
 
 Tanto la evaluación anual, semestral e informe de cierre consideran los siguientes elementos en el informe:
 
@@ -13,7 +13,8 @@ Tanto la evaluación anual, semestral e informe de cierre consideran los siguien
 
 Cabe destacar que si el directivo lo estima pertinente, deberá explicitar en el informe de desempeño anual, toda causa externa y no prevista que justifique el incumplimiento de una o más metas comprometidas en el convenio de desempeño para el año de gestión respectivo. Lo anterior, con la finalidad, que la autoridad pertinente, pueda considerar este punto, en el informe de evaluación correspondiente.
 
-::En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la posibilidad de justificar el no realizar el proceso completo de evaluación anual por los siguientes motivos::
+En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la posibilidad de justificar el no realizar el proceso completo de evaluación anual por los siguientes motivos:
+
 * Cercanía de fecha de nombramiento con fecha de evaluación (Nombramiento reciente)
 * Licencia médica prolongada o pre/pos natal 
 * Desastres naturales, alteraciones sociales, pandemias y otros
@@ -36,28 +37,18 @@ La evaluación anual de los Directores/as Ejecutivos/as es de suma importancia, 
 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo a los Directores/as Ejecutivos/as, continúa con la revisión desde la Dirección de Educación Pública y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de la Dirección de Educación Pública.
 
-## Descripción del proceso
+### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 Para ingresar a la evaluación anual, se debe presionar el botón azul «Procesar» que se muestra al momento de ingresar a SICDE. Si presionas sobre las letras azul «Evaluación Convenio de Desempeño» lo llevará al mismo sitio.
 
-::PANTALLAZO::
-
 En la última columna del formulario desplegado, aparece en letras azules la opción «Indicar Avance», el cual debe ser presionado para rellenar los campos que dan cuenta del porcentaje de avance.
 
-::PANTALLAZO::
-
 <div class="note"><strong>Nota:</strong> El porcentaje reportado en la opción «Indicar Avance» debe ser el porcentaje de cumplimiento alcanzado para cada una de las metas comprometidas en cada año de gestión. Por ejemplo: si el porcentaje comprometido era un 80% y lo alcanzado fue 80% o más, el porcentaje de avance a indicar es un 100%. </div>
-
-Al presionar «Indicar Avance», se despliega el siguiente formulario:
-
-::PANTALLAZO::
 
 Al momento de subir los medios de verificación, es importante tener en cuenta que SICDE soporta archivos de hasta 30 mb cada uno. Por motivos de seguridad acepta todos los formatos, excepto .zip, .rar (carpetas comprimidas) y .txt (block de notas).
 
 Terminada la carga de información en el indicador, se debe presionar el botón «Continuar». Ahora verás que el contenido se muestra dentro de las columnas del formulario.
 Se debe tener presente que al presionar «Continuar» no se guarda la información, pues para esto debes dirigirte al final del formulario y presionar el botón «Guardar». Esto permite que toda la información que hayas ingresado hasta ese momento quede registrada y pueda, por ejemplo, continuar en otro momento.
-
-::PANTALLAZO::
 
 En los casos de sobrecumplimiento, vale decir, indicadores que tengan un porcentaje de avance mayor al 100%, el porcentaje que se debe colocar es 100% y no, por ejemplo, 105%. 
 
@@ -67,20 +58,18 @@ El nivel de cumplimiento global se calculará multiplicando el porcentaje de cum
 
 Recomendamos presionar el botón «Guardar» que se encuentra al final del documento, con el fin de resguardar la información ya completada y evitar cualquier tipo de contratiempo.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yCgAG6cxWoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Revisión contraparte de evaluación ministerial
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de una contraparte de evaluación ministerial. </div>
 
 Al ingresar a la actividad, se desplegará la evaluación realizada por el ADP de I nivel.
-
-::PANTALLAZO::
 
 La evaluación por parte de la contraparte de evaluación de la Dirección de Educación Pública consiste en la revisión de la información ingresada por el ADP de I nivel. Así, en base a los medios de verificación y comentarios incluidos por el directivo/a, la contraparte de evaluación debe definir si el porcentaje ingresado es correcto o no. 
 
 También, en caso de que lo determine, podrá realizar comentarios o devolver la evaluación al ADP. Para esto debe presionar el botón «Devolver» que aparece al inicio del formulario. Luego de presionarlo se podrán ingresar los comentarios o razones por lo que se está devolviendo esta evaluación al ADP de I nivel. Esto permitirá que el ADP de I nivel responda los comentarios de la contraparte y corrija en caso de ser necesario lo solicitado, enviando nuevamente la evaluación a la contraparte de evaluación y reiniciando el proceso de revisión.
 
 La devolución de la evaluación borra la información ingresada por el Jefe/a de Servicio, permitiendo sólo un comentario general a llenar posterior a presionar el botón «Devolver».
-
-::PANTALLAZO::
 
 En términos prácticos, es en el apartado «Autoevaluación» donde se encuentra el porcentaje de avance (% de Avance) determinado por el ADP de I nivel con su respectiva observación y los medios de verificación. 
 La labor de la contraparte de evaluación será, por tanto, en el apartado siguiente «Retroalimentación», donde están los dos campos que la contraparte ministerial debe completar.
@@ -105,6 +94,8 @@ Con esta notificación se cierra el ciclo de evaluación anual.
 
 Todos los documentos ingresados en SICDE serán entendidos como recibidos en oficina de partes, por lo cual no es necesario que se envíen en formato físico al Servicio Civil.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5rnqJjZOAp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Evaluación parcial
 
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con el aviso de parte de la Dirección de Educación Pública del inicio de este proceso y finaliza con la revisión por parte de la Dirección de Educación Pública.
@@ -113,11 +104,7 @@ La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 El directivo deberá acceder a su sesión del SICDE y una vez dentro de la tarea, se desplegará un formulario similar al inserto a continuación, donde debe presionar las letras «Indicar avance» para ingresar los datos de cumplimiento. Este formulario corresponde a los objetivos e indicadores comprometidos en el Convenio de Desempeño.
 
-::PANTALLAZO::
-
 Una vez presionada la opción «Indicar Avance», se despliega una ventana donde se puede ingresar el Porcentaje de Avance, los Medios de Verificación y Observaciones. En las observaciones puede ingresar supuestos o comentarios que den cuenta de dificultades o potencialidades de la evaluación de ese indicador en particular.
-
-::PANTALLAZO::
 
 Todos estos campos son obligatorios para continuar con el proceso.
 
@@ -127,19 +114,17 @@ Pueden ser adjuntados más de un medio de verificación de hasta 30 mb cada uno.
 
 Luego de presionar el botón «Continuar» los elementos ingresados quedan registrados en el formulario, pero no guardados. Recomendamos presionar el botón «Guardar» que se encuentra al final del documento, con el fin de resguardar la información ya completada y evitar cualquier tipo de contratiempo. Esto permite, además, poder continuar la tarea en otro momento y no perder la información.
 
-::PANTALLAZO::
-
 El resultado obtenido en las evaluacioens parciales no tienen impacto en la remuneración del ADP, ya que su objetivo es monitorear el avance de los compromisos, incentivar la retroalimentación entre directivos y evaluar la necesidad de realizar alguna modificación al Convenio de Desempeño. Por el mismo motivo, la evaluación semestral o parcial no requiere de un acto administrativo que apruebe el porcentaje de cumplimiento.
 
 En los casos de «sobrecumplimiento», vale decir, un ADP que cumpla más del 100%, el porcentaje que se coloca debe ser 100% y no, por ejemplo, 105%. Del mismo modo, en caso de que un ADP haya comprometido cumplir la disminución en un 40% en un proceso determinado, el cumplimiento de este indicador se coloca como 100%, no como 40%.
 Para hacer envío del documento a la jefatura, se debe presionar «Guardar y Firmar».
 
+<mark>video</mark>
+
 ## Revisión por parte de la Dirección de Educación Pública
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de contraparte de evaluación de la Dirección de Educación Pública, quien actúa en representación del Director/a de Educación Pública. </div>
 
 La jefatura del cargo recibirá como tarea la retroalimentación de 6 meses recién realizada por el ADP, en donde puede ingresar una observación por cada indicador y debe ingresar un comentario como retroalimentación general de la evaluación.
-
-::PANTALLAZO::
 
 La evaluación por parte de la contraparte de evaluación de la Dirección de Educación Pública consiste en la revisión de la información ingresada por el ADP de I nivel. Así, en base a los medios de verificación y comentarios incluidos por el directivo/a, la contraparte debe definir si el porcentaje ingresado es correcto o no. 
 
@@ -147,6 +132,6 @@ También, en caso de que lo determine, podrá realizar comentarios o devolver la
 
 La devolución de la evaluación borra la información ingresada por la contraparte, permitiendo sólo un comentario general a llenar posterior a presionar el botón «Devolver».
 
-::PANTALLAZO::
-
 La evaluación queda registrada en SICDE y no es necesario otro paso extra por parte de la contraparte, pues la evaluación semestral no requiere de resolución que la apruebe.
+
+<mark>video</mark>

@@ -1,8 +1,7 @@
 ---
 title: Servicios Locales de Educación
 excerpt: >-
-  See some interesting tools developed by the Libris community to help automate
-  parts of your workflow.
+  Elaboración y evaluación de convenios para I y II niveles de SLEP.
 template: docs
 ---
 La ley N° 21.040 establece los plazos de elaboración y suscripción de los Convenios de Gestión Educacional de los Directores/as Ejecutivos/as de los Servicios Locales de Educación (SLEP).
