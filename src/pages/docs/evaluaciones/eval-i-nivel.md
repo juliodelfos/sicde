@@ -11,29 +11,19 @@ En términos prácticos, el proceso de evaluación anual se inicia con la llegad
 ## Descripción del proceso
 <div class="note">
   <strong>Nota:</strong> 
-  El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP.
+  El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP de I nivel.
 </div>
 
 Para ingresar a la evaluación anual, se debe presionar el botón azul «Procesar» que se muestra al momento de ingresar a SICDE. Si presionas sobre las letras azul «Evaluación Convenio de Desempeño» lo llevará al mismo sitio.
 
-::PANTALLAZO::
-
 En la última columna del formulario desplegado, aparece en letras azules la opción «Indicar Avance», el cual debe ser presionado para rellenar los campos que dan cuenta del porcentaje de avance.
 
-::PANTALLAZO::
-
 <div class="note"><strong>Nota:</strong> El porcentaje reportado en la opción «Indicar Avance» debe ser el porcentaje de cumplimiento alcanzado para cada una de las metas comprometidas en cada año de gestión. Por ejemplo: si el porcentaje comprometido era un 80% y lo alcanzado fue 80% o más, el porcentaje de avance a indicar es un 100%. </div>
-
-Al presionar «Indicar Avance», se despliega el siguiente formulario:
-
-::PANTALLAZO::
 
 Al momento de subir los medios de verificación, es importante tener en cuenta que SICDE soporta archivos de hasta 10 mb cada uno. Por motivos de seguridad acepta todos los formatos, excepto .zip, .rar (carpetas comprimidas) y .txt (block de notas).
 
 Terminada la carga de información en el indicador, se debe presionar el botón «Continuar». Ahora verás que el contenido se muestra dentro de las columnas del formulario.
 Se debe tener presente que al presionar «Continuar» no se guarda la información, pues para esto debes dirigirte al final del formulario y presionar el botón «Guardar». Esto permite que toda la información que hayas ingresado hasta ese momento quede registrada y pueda, por ejemplo, continuar en otro momento.
-
-::PANTALLAZO::
 
 En los casos de sobrecumplimiento, vale decir, indicadores que tengan un porcentaje de avance mayor al 100%, el porcentaje que se debe colocar es 100% y no, por ejemplo, 105%. 
 
@@ -43,12 +33,12 @@ El nivel de cumplimiento global se calculará multiplicando el porcentaje de cum
 
 Recomendamos presionar el botón «Guardar» que se encuentra al final del documento, con el fin de resguardar la información ya completada y evitar cualquier tipo de contratiempo.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yCgAG6cxWoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Revisión contraparte de evaluación ministerial
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de una contraparte de evaluación ministerial. </div>
 
 Al ingresar a la actividad, se desplegará la evaluación realizada por el ADP de I nivel.
-
-::PANTALLAZO::
 
 La evaluación por parte de la contraparte de evaluación ministerial consiste en la revisión de la información ingresada por el ADP de I nivel. Así, en base a los medios de verificación y comentarios incluidos por el directivo/a, la contraparte de evaluación debe definir si el porcentaje ingresado es correcto o no. 
 
@@ -56,7 +46,7 @@ También, en caso de que lo determine, podrá realizar comentarios o devolver la
 
 La devolución de la evaluación borra la información ingresada por el Jefe/a de Servicio, permitiendo sólo un comentario general a llenar posterior a presionar el botón «Devolver».
 
-::PANTALLAZO::
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PbEVs_WPTD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 En términos prácticos, es en el apartado «Autoevaluación» donde se encuentra el porcentaje de avance (% de Avance) determinado por el ADP de I nivel con su respectiva observación y los medios de verificación. 
 La labor de la contraparte de evaluación será, por tanto, en el apartado siguiente «Retroalimentación», donde están los dos campos que la contraparte ministerial debe completar.
@@ -64,7 +54,7 @@ La labor de la contraparte de evaluación será, por tanto, en el apartado sigui
 El porcentaje final de la evaluación del convenio de desempeño será el que resulte de los porcentajes ingresados por la contraparte ministerial (% Observado) que puede ser diferente a los ingresados por el ADP evaluado.
 
 <div class="important">
-  <strong>Nota:</strong> 
+  <strong>Importante:</strong> 
   El porcentaje observado (% Observado) <strong>es el porcentaje que se determina por parte de la contraparte de evaluación</strong>, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación.
 </div>
 
@@ -83,3 +73,5 @@ Guardada esta información, se genera una tarea a través del sistema al Consult
 Con esta notificación se cierra el ciclo de evaluación anual.
 
 Todos los documentos ingresados en SICDE serán entendidos como recibidos en oficina de partes, por lo cual no es necesario que se envíen en formato físico al Servicio Civil.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5rnqJjZOAp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

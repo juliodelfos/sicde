@@ -25,8 +25,6 @@ A continuación, se hará revisión del monitoreo mensual para I niveles ADP y, 
 La contraparte de evaluación de servicio ingresa a la opción “Concursos por monitorear” disponible dentro del menú “Acompañamiento ADP” > ”Monitoreo”.
 Esta opción desplegará una pantalla similar a esta.
 
-::PANTALLAZO::
-
 Posteriormente debe seleccionar el mes que se va a reportar. Al acceder a “Concursos por monitorear” se despliega la pantalla con el convenio del directivo de su servicio para ingresar la información del mes que vaya a reportar. Estarán disponibles en pantalla todos los meses que han transcurrido del año de gestión respectivo. La contraparte puede seleccionar cualquier mes del año de gestión en curso.
 
 <div class="note"><strong>Nota:</strong> S/d significa que para ese mes no hay información ingresada. </div>
@@ -40,3 +38,5 @@ En este versión, no hay ningún campo obligatorio para el registro de informaci
 Después de ingresar la información, el sistema permite revisar y modificar la información ingresada durante todo el año en que esté habilitada la plataforma.
 
 Al cumplir el año de gestión automáticamente el sistema genera una actividad para que cada directivo ingrese la evaluación que va reportar en su evaluación anual.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hBG5vqTPZo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
