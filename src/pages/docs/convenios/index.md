@@ -1,6 +1,6 @@
 ---
 title: Convenios de desempeño
-excerpt: In this section you'll find basic information about Libris and how to use it.
+excerpt: Revisa el proceso de suscripción de convenios de I y II nivel.
 template: docs
 ---
 El Convenio de Desempeño (CD) es un instrumento de gestión que orienta al ADP en el cumplimiento de los desafíos que le exige su cargo y le fija objetivos estratégicos de gestión por los cuales éste será retroalimentado y evaluado anualmente y al término de su período de desempeño. Es un instrumento que facilita la rendición de cuentas efectiva y transparente tanto al ministro/a del ramo o jefe/a superior de servicio, según corresponda, así como a la ciudadanía.
