@@ -33,7 +33,7 @@ Cumplen el rol de validar las evaluaciones anuales de los I niveles de los servi
 ### Contrapartes de servicio
 Sus labores son la de subir la resolución que aprueba el porcentaje de evaluación de cada año de gestión ADP, y llevar el monitoreo mensual de los I niveles a través de SICDE.
 
-<div class=“note”><strong>Nota:</strong> Sin perjuicio del apoyo que las contrapartes mantienen a los ADP de su servicio, la responsabilidad en la elaboración del convenio y la evaluación de periodo de gestión corresponde por ley a la autoridad respectiva.</div>
+<div class="note"><strong>Nota:</strong> Sin perjuicio del apoyo que las contrapartes mantienen a los ADP de su servicio, la responsabilidad en la elaboración del convenio y la evaluación de periodo de gestión corresponde por ley a la autoridad respectiva.</div>
 
 ## Subrogancia de contrapartes
 SICDE permite activar la subrogancia entre contrapartes en caso de que alguna contraparte se encuentre con feriado legal, licencias médicas  o se vea impedido de realizar su labor por cualquier otro motivo.
@@ -45,3 +45,5 @@ Una vez dentro de esta opción, se despliegan todas las contrapartes de ese Mini
 Esta opción permite traspasar todos los procesos de convenio de desempeño en curso que el titular tiene hacia otro/a funcionario/a subrogante designado por la autoridad previamente.
 
 Una vez que la Contraparte titular retome sus funciones la subrogancia debe ser revertida mediante el mismo proceso para que el titular pueda visualizar todas sus tareas en SICDE.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3x-jhvcosPQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

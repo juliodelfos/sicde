@@ -1,8 +1,7 @@
 ---
 title: Ingreso a SICDE
 excerpt: >-
-  Libris is a Unibit theme created for project documentations. You can use it
-  for your project.
+  Proceso de ingreso y funciones de contrapartes.
 template: docs
 ---
 La plataforma SICDE se encuentra restringida a los usuarios validados por el Servicio Civil como contrapartes de servicios o ministerios y los ADP vigentes.
@@ -13,9 +12,9 @@ En el caso de los ADP, éstos reciben sus credenciales de acceso al momento de c
 # Cómo ingresar
 Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
 
-<a href="https://imgur.com/7qZTDNS"><img src="https://i.imgur.com/7qZTDNS.png" title="Pantalla de ingreso a SICDE" /></a>
-
 Una vez en el sitio, se le solicitará su usuario —que corresponde a su correo electrónico— y su contraseña que ha sido enviada a su correo electrónico registrado.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/USc0qSMXs4o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Funciones y forma de ingreso de contrapartes
 
