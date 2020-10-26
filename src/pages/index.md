@@ -84,7 +84,7 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Material de apoyo
-    subtitle: Documentos y dashboard de información
+    subtitle: ''
     col_number: two
     grid_items:
       - title: Overview
