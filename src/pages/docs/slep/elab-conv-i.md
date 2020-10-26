@@ -23,14 +23,14 @@ Según el artículo sexagésimo segundo de la ley Nº 19.882 la autoridad que no
 
 <img src="\images\elab-conv-slep.png" alt="Plazos de elaboración de convenios SLEP">
 
-## Inicio del proceso: elaboración del convenio de gestión educacional
+## Elaboración del convenio de gestión educacional
 Para iniciar el proceso de elaboración del CGE, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
 
 Será la contraparte titular de la Dirección de Educación Pública la que tendrá en su bandeja de entrada de SICDE la tarea de «Generar propuesta de convenio». Al presionar «Generar propuesta de convenio» se despliega el siguiente formulario, el cual mediante el relleno de campos permitirá generar una propuesta de convenio de desempeño.
 
-Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen. Los campos que deben ser rellenados por cada objetivo son:
+Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen.
 
-<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+<div class="note"><strong>Nota:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
 Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
 
@@ -65,7 +65,7 @@ Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar �
 
 Esto quiere decir que si bien es la Dirección de Educación Pública la encargada de subir la propuesta de convenio, es el Ministerio de Educación el responsable de definir los firmantes del convenio y subir la resolución y el convenio firmado a la plataforma SICDE, como se verá en el siguiente apartado.
 
-## Fin del proceso: suscripción, firma y comunicación del convenio
+## Suscripción, firma y comunicación del convenio
 Una vez que la propuesta de CGE es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular del Ministerio de Educación. 
 
 La tarea corresponde a la subida del convenio firmado por el Director/a Ejecutivo/a y el Ministro/a de Educación.

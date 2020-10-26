@@ -31,16 +31,16 @@ Para iniciar el proceso de elaboración de CD, se debe ingresar al hipervínculo
 
 Será la contraparte titular del Servicio Local de Educación Pública el funcionario/a que tendrá en su bandeja de entrada de SICDE esta tarea. Al presionar «Generar propuesta de convenio» se despliega el siguiente formulario, el cual mediante el relleno de campos permitirá generar una propuesta de convenio de desempeño.
 
-Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen. Los campos que deben ser rellenados por cada objetivo son:
+Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen.
 
-<div class=“note”><strong>Nota:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+<div class="note"><strong>Note:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
 Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
 
-* *Previsualizar*: genera un documento PDF con toda la información ingresada.
-* *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de CD en diferentes momentos.
-* *Cerrar*: termina con la acción que se estaba realizando sin guardar.
-* *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
+* **Previsualizar**: genera un documento PDF con toda la información ingresada.
+* **Guardar**: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de CD en diferentes momentos.
+* **Cerrar**: termina con la acción que se estaba realizando sin guardar.
+* **<mark>Guardar y firmar</mark>**: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
 
 Una vez que introduzca su contraseña, le aparecerá una confirmación de envío del documento. Desde este punto, el Consultor del Servicio Civil tiene un plazo de 5 días hábiles para su revisión y/o aprobación.
 
@@ -63,14 +63,14 @@ La contraparte tendrá la posibilidad de ver estos comentarios e incluso respond
 Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
 Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
 
-# Suscripción, firma y comunicación del convenio
+## Suscripción, firma y comunicación del convenio
 Una vez que la propuesta de CD es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular de convenios. 
 
 La tarea corresponde a la subida del convenio firmado por el Jefe/a de Servicio y el Jefe/a de Unidad, es decir, el convenio suscrito. 
 Junto al CD suscrito se debe subir la resolución exenta que aprueba este convenio. 
 SICDE permite la subida de un documento anexo en caso de ser necesario. Este es el único campo no obligatorio.
 
-<div class=“note”><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
+<div class="note"><strong>Note:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>
 
 Para subir los documentos se debe ingresar a la actividad «X Convenios en espera de firma» y seleccionar el concurso ADP correspondiente al convenio elaborado.
 
