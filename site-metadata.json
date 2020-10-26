@@ -55,7 +55,7 @@
             {
                 "label": "Documentos",
                 "url": "/documentos",
-                "style": "link",
+                "style": "secondary",
                 "has_subnav": false
             },
             {
