@@ -107,7 +107,7 @@ sections:
             style: secondary
   - section_id: cta
     type: section_cta
-    title: Revisar documentación
+    title: Ir a SICDE
     subtitle: 'Instructivos, normativa y otros documentos de apoyo'
     actions:
       - label: Revisar
