@@ -110,7 +110,7 @@ sections:
     title: Ir a SICDE
     subtitle: Accede directamente a SICDE desde aquí.
     actions:
-      - label: Revisar
+      - label: Ingresar
         url: /docs/getting-started/installation
         style: primary
 template: advanced
