@@ -92,7 +92,7 @@ sections:
           Encuentras documentos legales y técnicos en materia de gestión de
           desempeño de Altos Directivos Públicos.
         actions:
-          - label: Learn More
+          - label: Revisar
             url: /overview
             style: link
       - title: Showcase
