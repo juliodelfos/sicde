@@ -8,7 +8,7 @@ La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de
 
 En el caso de la evaluación parcial los plazos son idénticos a los definidos para la evaluación anual, pero no se considera el plazo de 5 días hábiles, pues no requeire de resolución exenta.
 
-<img src="\images\elab-parcial-adp.png" alt="Plazos de evaluación parcial de convenios ADP">
+<img src="\images\eval-parcial-adp.png" alt="Plazos de evaluación parcial de convenios ADP">
 
 ### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP de II nivel. </div>

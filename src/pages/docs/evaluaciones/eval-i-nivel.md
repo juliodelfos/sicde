@@ -4,7 +4,7 @@ weight: 1
 template: docs
 ---
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión. 
-En el caso de los Directores/as Ejecutivos/as de los SLEP la evaluación anual se encuentra regulada por la ley Nº 21.040, estableciendo que la comunicación de esta evaluación se deberá efectuar dentro de los dos meses siguientes al término del año escolar. Para facilitar la lectura, el proceso de evaluación anual de I niveles SLEP se encuentra descrito en este apartado. ::LINK::
+En el caso de los Directores/as Ejecutivos/as de los SLEP la evaluación anual se encuentra regulada por la ley Nº 21.040, estableciendo que la comunicación de esta evaluación se deberá efectuar dentro de los dos meses siguientes al término del año escolar. Para facilitar la lectura, el proceso de evaluación anual de I niveles SLEP se encuentra descrito [en este apartado](https://sicde.serviciocivil.cl/docs/slep/eval-i-nivel/).
 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo al ADP de I nivel que le corresponda realizar la evaluación, continúa con la revisión desde el ministerio correspondiente y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de evaluación ministerial.
 
