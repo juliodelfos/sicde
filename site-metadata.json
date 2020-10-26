@@ -48,7 +48,7 @@
                 "label": "Prueba",
                 "url": "#",
                 "style": "link",
-                "has_subnav": true,
+                "has_subnav": false,
                 "subnav_links": []
             },
             {
