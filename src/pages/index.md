@@ -113,17 +113,6 @@ sections:
       - label: Revisar
         url: /docs/getting-started/installation
         style: primary
-  - section_id: text-no-img
-    type: section_content
-    title: Consultores/as
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Contactar
-        url: /docs/getting-started/installation
-        style: primary
 template: advanced
 excerpt: Centro de Ayuda SICDE
 ---
