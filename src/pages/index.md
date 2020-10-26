@@ -97,9 +97,9 @@ sections:
             style: secondary
       - title: Estado de convenios
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Dashboard de información en línea de convenios de Altos Directivos
+          Públicos cercanos al cumplimiento de plazos máximos establecidos por
+          ley.
         actions:
           - label: Learn More
             url: /showcase
