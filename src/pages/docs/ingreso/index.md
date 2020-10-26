@@ -9,16 +9,14 @@ Al momento de ser registrados, las contrapartes recibirán un correo electrónic
 
 En el caso de los ADP, éstos reciben sus credenciales de acceso al momento de cumplir seis meses en el cargo. Con esta contraseña podrán registrar su evaluación y revisar el estado de su convenio. Estos puntos serán desarrollados en la sección correspondiente.
 
-<img src="\images\1.jpg" alt="test.">
-
-# Cómo ingresar
+## Cómo ingresar
 Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
 
 Una vez en el sitio, se le solicitará su usuario —que corresponde a su correo electrónico— y su contraseña que ha sido enviada a su correo electrónico registrado.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/USc0qSMXs4o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Funciones y forma de ingreso de contrapartes
+## Funciones y forma de ingreso de contrapartes
 
 | Actor/Perfil          | Forma de registro                                                                            | Notificación                                         | Duración                                 |
 |-----------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------|

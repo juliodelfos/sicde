@@ -11,6 +11,8 @@ El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de los 
 El plazo máximo para la suscripción del CD es de sesenta días corridos, contados desde el nombramiento o renovación del ADP.
 La autoridad respectiva deberá comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días, contados desde el nombramiento o renovación del directivo.
 
+<img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios ADP">
+
 <div class="important"><strong>Importante:</strong> En caso de incumplimiento, Servicio Civil deberá informar a Contraloría General de la República para efectos de la aplicación de una multa que puede afectar entre el 20% al 50% de la remuneración de dicha autoridad (jefe/a de servicio o ministro/a según sea el caso). Además, el Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de esta obligación.</div>
 
 ## Inicio del proceso: elaboración del convenio
