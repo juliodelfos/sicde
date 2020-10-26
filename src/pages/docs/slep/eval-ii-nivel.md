@@ -99,7 +99,7 @@ Una vez que es enviada la evaluación, SICDE dirige el documento hacia  Jefe/a d
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a5JegWG2ehk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Revisión por parte del Jefe/a de Servicio
+### Revisión por parte del Jefe/a de Servicio
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un/a Jefe/a de Servicio. </div>
 
 Al ingresar a la actividad, se desplegará la evaluación realizada por el ADP de II nivel.
@@ -131,7 +131,7 @@ Guardada esta información, se genera una tarea a través del sistema al Consult
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7j-8HHUptlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Informe de cierre
+## Informe de cierre
 El Informe de Cierre corresponde a una evaluación especial y acontece al momento de que un ADP deja, por cualquier causal definida en la ley, su cargo de manera anticipada.
 
 La evaluación de cierre queda abierta incluso posterior a la desvinculación de un/a Directivo/a. Al ingresar a SICDE, el ya exdirectivo/a debería visualizar esto la siguiente tarea.
