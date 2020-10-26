@@ -89,9 +89,8 @@ sections:
     grid_items:
       - title: Documentos
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Encuentras documentos legales y técnicos en materia de gestión de
+          desempeño de Altos Directivos Públicos.
         actions:
           - label: Learn More
             url: /overview
