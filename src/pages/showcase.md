@@ -8,7 +8,7 @@ sections:
     content: Material legal y técnico de apoyo para contrapartes y ADP
   - section_id: showcase
     type: section_grid
-    col_number: four
+    col_number: three
     grid_items:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
