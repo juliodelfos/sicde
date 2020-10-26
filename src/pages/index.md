@@ -101,7 +101,7 @@ sections:
           Públicos cercanos al cumplimiento de plazos máximos establecidos por
           ley.
         actions:
-          - label: Learn More
+          - label: Revisar
             url: /showcase
             style: link
   - section_id: cta
