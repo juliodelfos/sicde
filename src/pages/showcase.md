@@ -10,21 +10,37 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Exto
-        title_url: 'https://themes.stackbit.com/demos/exto/'
-        image: images/6.jpg
-        content: A portfolio theme for Unibit
-      - title: Fresh
-        title_url: 'https://themes.stackbit.com/demos/fresh/'
-        image: images/7.jpg
-        content: A personal theme for Unibit
-      - title: Fjord
-        title_url: 'https://themes.stackbit.com/demos/fjord/'
-        image: images/8.jpg
-        content: A minimal blogging theme for Unibit
-      - title: Ampersand
-        title_url: 'https://themes.stackbit.com/demos/ampersandexto/'
-        image: images/9.jpg
-        content: Medium inspired blogging theme for Unibit
+      - title: Instructivo de Inducción
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Instructivo de Elaboración y Evaluación
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Instructivo de Formación
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Protocolo de Egreso
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Ley N° 19.882
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Reglamento Ley N° 19.882
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Reglamento Ley N° 19.882
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
+      - title: Ley Nº 21.040
+        title_url: 'https://sicde.serviciocivil.cl/wp-content/uploads/2019/05/Instructivo-Inducci%C3%B3n.pdf'
+        image: images/docu.png
+        content: Breve descripción
 template: advanced
 ---
