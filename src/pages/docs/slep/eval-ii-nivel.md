@@ -8,6 +8,8 @@ template: docs
 # Evaluación parcial
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación y finaliza con la revisión por parte del Jefe/a de Servicio correspondiente.
 
+<img src="\images\eval-parcial-adp.png" alt="Plazos de evaluación de convenios SLEP">
+
 # Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 El directivo deberá acceder a su sesión del SICDE y una vez dentro de la tarea, se desplegará un formulario similar al inserto a continuación, donde debe presionar las letras «Indicar avance» para ingresar los datos de cumplimiento. Este formulario corresponde a los objetivos e indicadores comprometidos en el Convenio de Desempeño.
@@ -47,6 +49,8 @@ La evaluación queda registrada en SICDE y no es necesario otro paso extra por p
 ## Evaluación anual
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión. 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación, continúa con la revisión desde el ministerio correspondiente y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de evaluación ministerial.
+
+<img src="\images\eval-anual-adp.png" alt="Plazos de evaluación de convenios SLEP">
 
 ### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>

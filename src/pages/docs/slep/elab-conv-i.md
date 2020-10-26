@@ -21,6 +21,8 @@ Para finalizar el proceso, el Ministro/a de Educación debe emitir una resoluci�
 
 Según el artículo sexagésimo segundo de la ley Nº 19.882 la autoridad que no cumpla con esta obligación será sancionada con una multa de entre el 20% al 50% por ciento de su remuneración.
 
+<img src="\images\elab-conv-slep.png" alt="Plazos de elaboración de convenios SLEP">
+
 # Inicio del proceso: elaboración del convenio de gestión educacional
 Para iniciar el proceso de elaboración del CGE, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
 

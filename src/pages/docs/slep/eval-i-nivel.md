@@ -37,6 +37,8 @@ La evaluación anual de los Directores/as Ejecutivos/as es de suma importancia, 
 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo a los Directores/as Ejecutivos/as, continúa con la revisión desde la Dirección de Educación Pública y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de la Dirección de Educación Pública.
 
+<img src="\images\eval-anual-i-slep.png" alt="Plazos de evaluación de convenios SLEP">
+
 ### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 Para ingresar a la evaluación anual, se debe presionar el botón azul «Procesar» que se muestra al momento de ingresar a SICDE. Si presionas sobre las letras azul «Evaluación Convenio de Desempeño» lo llevará al mismo sitio.
@@ -99,6 +101,8 @@ Todos los documentos ingresados en SICDE serán entendidos como recibidos en ofi
 # Evaluación parcial
 
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con el aviso de parte de la Dirección de Educación Pública del inicio de este proceso y finaliza con la revisión por parte de la Dirección de Educación Pública.
+
+<img src="\images\eval-parcial-i-slep.png" alt="Plazos de evaluación de convenios SLEP">
 
 # Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>

@@ -7,11 +7,11 @@ El convenio de desempeño (CD) es un instrumento de gestión que orienta al ADP 
 Los objetivos y metas que se establezcan en el CD, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
 
 ## Plazos asociados
+<img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios ADP">
+
 El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de los treinta días corridos contados desde su nombramiento o renovación, y deberá considerar el respectivo perfil del cargo.
 El plazo máximo para la suscripción del CD es de sesenta días corridos, contados desde el nombramiento o renovación del ADP.
 La autoridad respectiva deberá comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días, contados desde el nombramiento o renovación del directivo.
-
-<img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios ADP">
 
 <div class="important"><strong>Importante:</strong> En caso de incumplimiento, Servicio Civil deberá informar a Contraloría General de la República para efectos de la aplicación de una multa que puede afectar entre el 20% al 50% de la remuneración de dicha autoridad (jefe/a de servicio o ministro/a según sea el caso). Además, el Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de esta obligación.</div>
 
