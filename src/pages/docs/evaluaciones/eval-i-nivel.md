@@ -70,8 +70,4 @@ Luego de ingresar a «Subir resolución firmada», se despliega el sitio para su
 
 Guardada esta información, se genera una tarea a través del sistema al Consultor/a DNSC, quien deberá revisar si la documentación fue cargada correctamente. Si está correcta, se realizará el registro en la oficina de partes y la contraparte recibirá la notificación por correo electrónico de recepción del documento. En caso contrario, se devolverá la tarea para que, por ejemplo, se suban los archivos correctos.
 
-Con esta notificación se cierra el ciclo de evaluación anual.
-
-Todos los documentos ingresados en SICDE serán entendidos como recibidos en oficina de partes, por lo cual no es necesario que se envíen en formato físico al Servicio Civil.
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5rnqJjZOAp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

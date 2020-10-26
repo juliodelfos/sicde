@@ -24,16 +24,16 @@ El plazo máximo para la suscripción del CD es de treinta días hábiles, conta
 
 La autoridad respectiva deberá comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días, contados desde el nombramiento o renovación del directivo.
 
-<div class="important"><strong>Nota:</strong> En caso de incumplimiento, Servicio Civil deberá informar a Contraloría General de la República para efectos de la aplicación de una multa que puede afectar entre el 20% al 50% de la remuneración de dicha autoridad (jefe/a de servicio o ministro/a según sea el caso). Además, el Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de esta obligación.</div>
+<div class="important"><strong>Importante:</strong> En caso de incumplimiento, Servicio Civil deberá informar a Contraloría General de la República para efectos de la aplicación de una multa que puede afectar entre el 20% al 50% de la remuneración de dicha autoridad (jefe/a de servicio o ministro/a según sea el caso). Además, el Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de esta obligación.</div>
 
-## Inicio del proceso: elaboración del convenio
+## Elaboración del convenio
 Para iniciar el proceso de elaboración de CD, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
 
 Será la contraparte titular del Servicio Local de Educación Pública el funcionario/a que tendrá en su bandeja de entrada de SICDE esta tarea. Al presionar «Generar propuesta de convenio» se despliega el siguiente formulario, el cual mediante el relleno de campos permitirá generar una propuesta de convenio de desempeño.
 
 Para realizar la “carga” del conviene se debe seleccionar la opción «Agregar objetivo» y rellenar los campos que se proponen. Los campos que deben ser rellenados por cada objetivo son:
 
-<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+<div class=“note”><strong>Nota:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
 Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
 
@@ -63,7 +63,7 @@ La contraparte tendrá la posibilidad de ver estos comentarios e incluso respond
 Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
 Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
 
-# Fin del proceso: suscripción, firma y comunicación del convenio
+# Suscripción, firma y comunicación del convenio
 Una vez que la propuesta de CD es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular de convenios. 
 
 La tarea corresponde a la subida del convenio firmado por el Jefe/a de Servicio y el Jefe/a de Unidad, es decir, el convenio suscrito. 
@@ -81,7 +81,7 @@ Una vez rellenada y guardada esta información, se debe proceder a subir el conv
 Luego de adjuntar los documentos se debe presionar el botón «Subir». El sistema confirmará la subida de los documentos.
 Con esta acción los documentos subidos son derivados al Consultor/a DNSC para su revisión.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ux7_lFzvDnQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Finalmente, el Consultor/a DNSC debe revisar los documentos ingresados, teniendo la posibilidad de devolverlos en caso de encontrarse algún error, ser ilegibles u otra razón. 
 La aprobación de los documentos da como resultado el registro de ellos en la Oficina de Partes del Servicio Civil y, por tanto, se entiende como comunicados según lo estipulado en la ley Nº 19.882, no habiendo necesidad de hacer envío por plataformas digitales ni oficio físico de lo cargado en plataforma.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ux7_lFzvDnQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -83,7 +83,7 @@ La finalidad de este informe, es ser un complemento al convenio de desempeño, r
 
 A diferencia del proceso de evaluación del Convenio de Desempeño, el Informe Anexo establece cuáles son los niveles de cumplimiento para cada subdimensión. La escala es de 1 a 3 —donde 3 es «Destacado» y 1 es «Por mejorar» — considerando además un «No aplica».
 
-La misma plataforma permite revisar la «Guía uso Informe Anexo de Gestión» la cual también se adjunta aquí. ::ADJUNTAR::
+La misma plataforma permite revisar la «Guía uso Informe Anexo de Gestión» la cual también se adjunta aquí.
 
 No todas las subdimensiones aplican para todos los cargos, por lo que instamos a rellenar según las responsabilidades de cada función. En caso de un ADP considere que la subdimensión descrita no aplica a su cargo, simplemente debe considerar la opción «No aplica».
 
@@ -115,7 +115,7 @@ La labor del Jefe/a de Servicio será, por tanto, en el apartado siguiente «Ret
 
 El porcentaje final de la evaluación del convenio de desempeño será el que resulte de los porcentajes ingresados por el Jefe/a de Servicio (% Observado) que puede ser diferente a los ingresados por el ADP evaluado.
 
-<div class="important"><strong>Important:</strong> El porcentaje observado (% Observado) *es el porcentaje que se determina por parte de la contraparte de evaluación*, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación.</div>
+<div class="important"><strong>Importante:</strong> El porcentaje observado (% Observado) *es el porcentaje que se determina por parte de la contraparte de evaluación*, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación.</div>
 
 Una vez que se haya ingresado los porcentajes observados y las observaciones correspondientes, se puede finalizar el proceso presionando «Guardar y Firmar» al final del formulario, el cual llevará a una previsualización del documento y solicitará la clave como último paso de verificación. También es posible guardar el documento para poder hacerle una última revisión en otro momento, por ejemplo. Para esto se debe presionar el botón «Guardar».
 
@@ -128,10 +128,6 @@ En caso de querer revisar el documento final de la evaluación que el sistema ge
 Luego de ingresar a «Subir resolución firmada», se despliega el sitio para subir la resolución. Además de este documento se debe incluir la fecha de la resolución y el número de ella.
 
 Guardada esta información, se genera una tarea a través del sistema al Consultor/a DNSC, quien deberá revisar si la documentación fue cargada correctamente. Si está correcta, se realizará el registro en la oficina de partes y la contraparte recibirá la notificación por correo electrónico de recepción del documento. En caso contrario, se devolverá la tarea para que, por ejemplo, se suban los archivos correctos.
-
-Con esta notificación se cierra el ciclo de evaluación anual.
-
-Todos los documentos ingresados en SICDE serán entendidos como recibidos en oficina de partes, por lo cual no es necesario que se envíen en formato físico al Servicio Civil.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7j-8HHUptlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

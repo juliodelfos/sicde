@@ -3,13 +3,11 @@ title: Evaluación del desempeño I niveles
 weight: 3
 template: docs
 ---
-## Evaluación anual 
+## Elementos de la evaluación
 
-### Elementos de la evaluación
+Tanto la evaluación anual como la semestral consideran los siguientes elementos en el informe:
 
-Tanto la evaluación anual, semestral e informe de cierre consideran los siguientes elementos en el informe:
-
-::ELEMENTOS::
+<img src="\images\ele-eval.png" alt="Elementos de evaluación ADP">
 
 Cabe destacar que si el directivo lo estima pertinente, deberá explicitar en el informe de desempeño anual, toda causa externa y no prevista que justifique el incumplimiento de una o más metas comprometidas en el convenio de desempeño para el año de gestión respectivo. Lo anterior, con la finalidad, que la autoridad pertinente, pueda considerar este punto, en el informe de evaluación correspondiente.
 
@@ -23,6 +21,8 @@ En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la pos
 <mark>A partir del 1 de diciembre de 2019 los documentos de convenios de desempeño y evaluaciones anuales de los directivos públicos de primer y segundo nivel, recibidos a través del sistema SICDE, con lo cual no es necesario el ingreso por oficina de partes.</mark>
 
 ------
+
+## Evaluación anual
 
 Según lo dispuesto en el artículo 41 de la ley Nº 21.040 el plazo de entrega del Informe Anual de Desempeño, será –como plazo máximo‒ dentro de los dos meses siguientes al término del año escolar. En este informe preliminar los directivos/as informarán el grado de cumplimiento de sus metas anuales y las alteraciones que se hayan producido de acuerdo a los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales.
 
@@ -78,7 +78,7 @@ La labor de la contraparte de evaluación será, por tanto, en el apartado sigui
 
 El porcentaje final de la evaluación del convenio de desempeño será el que resulte de los porcentajes ingresados por la contraparte ministerial (% Observado) que puede ser diferente a los ingresados por el ADP evaluado.
 
-<div class=“important”><strong>Importante:</strong> El porcentaje observado (% Observado) *es el porcentaje que se determina por parte de la contraparte de evaluación*, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación </div>
+<div class="note"><strong>Nota:</strong> El porcentaje observado (% Observado) *es el porcentaje que se determina por parte de la contraparte de evaluación*, vale decir, si un ADP se autoevaluó con un 95% y la contraparte determina el mismo porcentaje, el valor a ingresar es 95% y no 0%. En otras palabras, no es la diferencia entre el porcentaje determinado por el ADP y el porcentaje determinado por la contraparte de evaluación.</div>
 
 Una vez que se haya ingresado los porcentajes observados y las observaciones correspondientes, se puede finalizar el proceso presionando «Guardar y Firmar» al final del formulario, el cual llevará a una previsualización del documento y solicitará la clave como último paso de verificación. También es posible guardar el documento para poder hacerle una última revisión en otro momento, por ejemplo. Para esto se debe presionar el botón «Guardar».
 
@@ -92,19 +92,17 @@ Luego de ingresar a «Subir resolución firmada», se despliega el sitio para su
 
 Guardada esta información, se genera una tarea a través del sistema al Consultor/a DNSC, quien deberá revisar si la documentación fue cargada correctamente. Si está correcta, se realizará el registro en la oficina de partes y la contraparte recibirá la notificación por correo electrónico de recepción del documento. En caso contrario, se devolverá la tarea para que, por ejemplo, se suban los archivos correctos.
 
-Con esta notificación se cierra el ciclo de evaluación anual.
-
-Todos los documentos ingresados en SICDE serán entendidos como recibidos en oficina de partes, por lo cual no es necesario que se envíen en formato físico al Servicio Civil.
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5rnqJjZOAp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Evaluación parcial
+-----
+
+## Evaluación parcial
 
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con el aviso de parte de la Dirección de Educación Pública del inicio de este proceso y finaliza con la revisión por parte de la Dirección de Educación Pública.
 
 <img src="\images\eval-parcial-i-slep.png" alt="Plazos de evaluación de convenios SLEP">
 
-# Descripción del proceso
+### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 El directivo deberá acceder a su sesión del SICDE y una vez dentro de la tarea, se desplegará un formulario similar al inserto a continuación, donde debe presionar las letras «Indicar avance» para ingresar los datos de cumplimiento. Este formulario corresponde a los objetivos e indicadores comprometidos en el Convenio de Desempeño.
 
@@ -125,7 +123,7 @@ Para hacer envío del documento a la jefatura, se debe presionar «Guardar y Fir
 
 <mark>video</mark>
 
-## Revisión por parte de la Dirección de Educación Pública
+### Revisión por parte de la Dirección de Educación Pública
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de contraparte de evaluación de la Dirección de Educación Pública, quien actúa en representación del Director/a de Educación Pública. </div>
 
 La jefatura del cargo recibirá como tarea la retroalimentación de 6 meses recién realizada por el ADP, en donde puede ingresar una observación por cada indicador y debe ingresar un comentario como retroalimentación general de la evaluación.

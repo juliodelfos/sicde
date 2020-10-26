@@ -19,9 +19,7 @@ Para los convenios de I nivel, a partir de las instrucciones emitidas por el Ser
 
 Corresponde a la *contraparte titular de evaluación de servicio* la subida de la información. Sólo este funcionario/a tendrá la posibilidad de acceder a los menús correspondientes dentro de SICDE.
 
-A continuación, se hará revisión del monitoreo mensual para I niveles ADP y, luego, de la evaluación anual.
-
-# Descripción del proceso
+## Descripción del proceso
 La contraparte de evaluación de servicio ingresa a la opción “Concursos por monitorear” disponible dentro del menú “Acompañamiento ADP” > ”Monitoreo”.
 Esta opción desplegará una pantalla similar a esta.
 
