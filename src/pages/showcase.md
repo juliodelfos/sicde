@@ -1,14 +1,14 @@
 ---
-title: Showcase
+title: Documentos
 sections:
   - section_id: hero
     type: section_hero
-    title: Showcase
+    title: Documentos
     image: images/5.jpg
-    content: This is an optional page subtitle
+    content: Material legal y técnico de apoyo para contrapartes y ADP
   - section_id: showcase
     type: section_grid
-    col_number: three
+    col_number: four
     grid_items:
       - title: Exto
         title_url: 'https://themes.stackbit.com/demos/exto/'
