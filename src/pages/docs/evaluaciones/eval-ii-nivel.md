@@ -48,6 +48,8 @@ La evaluación queda registrada en SICDE y no es necesario otro paso extra por p
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8M7u6kIl7Jc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+-----
+
 ## Evaluación anual
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión. 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación, continúa con la revisión desde el ministerio correspondiente y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de evaluación ministerial.

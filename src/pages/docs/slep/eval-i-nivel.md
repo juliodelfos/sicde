@@ -62,7 +62,7 @@ Recomendamos presionar el botón «Guardar» que se encuentra al final del docum
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yCgAG6cxWoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Revisión contraparte de evaluación ministerial
+### Revisión contraparte de evaluación ministerial
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de una contraparte de evaluación ministerial. </div>
 
 Al ingresar a la actividad, se desplegará la evaluación realizada por el ADP de I nivel.
@@ -102,7 +102,7 @@ La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de
 
 <img src="\images\eval-parcial-i-slep.png" alt="Plazos de evaluación de convenios SLEP">
 
-### Descripción del proceso
+### Caracterización del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 El directivo deberá acceder a su sesión del SICDE y una vez dentro de la tarea, se desplegará un formulario similar al inserto a continuación, donde debe presionar las letras «Indicar avance» para ingresar los datos de cumplimiento. Este formulario corresponde a los objetivos e indicadores comprometidos en el Convenio de Desempeño.
 
