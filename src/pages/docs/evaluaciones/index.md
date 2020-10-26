@@ -1,13 +1,12 @@
 ---
 title: Evaluación del desempeño
 excerpt: >-
-  To make it easy to write documentation in plain Markdown, most UI components
-  are styled using Markdown elements with few additional CSS classes.
+  Evaluación de convenios de Alta Dirección Pública
 template: docs
 ---
-La modificación legal del 20 de octubre de 2016 a la ley Nº 19.882 introdujo los siguientes plazos para la evaluación de Altos Directivos Públicos.
+La modificación legal del 20 de octubre de 2016 a la ley Nº 19.882 introdujo los siguientes plazos para la evaluación anual de Altos Directivos Públicos.
 
-::ILUSTRACIÓN::
+<img src="\images\eval-anual-adp.png" alt="Plazos de evaluación de convenios ADP">
 
 Los ADP que fueron nombrados antes de esa fecha, seguirán rigiéndose por la legislación vigente a la época de su nombramiento, vale decir, teniendo un plazo de 2 meses para la entrega del informe anual o semestral. Sin perjuicio de esto recomendamos a los diferentes servicios realizar todas las evaluaciones directivas acotadas a los plazos nuevos con el fin de estandarizar y facilitar los procesos.
 
@@ -27,7 +26,7 @@ Tanto la evaluación anual, semestral e informe de cierre consideran los siguien
 
 Cabe destacar que si el directivo lo estima pertinente, deberá explicitar en el informe de desempeño anual, toda causa externa y no prevista que justifique el incumplimiento de una o más metas comprometidas en el convenio de desempeño para el año de gestión respectivo. Lo anterior, con la finalidad, que la autoridad pertinente, pueda considerar este punto, en el informe de evaluación correspondiente.
 
-::En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la posibilidad de justificar el no realizar el proceso completo de evaluación anual por los siguientes motivos::
+En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la posibilidad de justificar el no realizar el proceso completo de evaluación anual por los siguientes motivos:
 * Cercanía de fecha de nombramiento con fecha de evaluación (Nombramiento reciente)
 * Licencia médica prolongada o pre/pos natal 
 * Desastres naturales, alteraciones sociales, pandemias y otros

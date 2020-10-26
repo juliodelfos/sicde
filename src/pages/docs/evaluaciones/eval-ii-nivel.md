@@ -6,6 +6,10 @@ template: docs
 ## Evaluación parcial
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación y finaliza con la revisión por parte del Jefe/a de Servicio correspondiente.
 
+En el caso de la evaluación parcial los plazos son idénticos a los definidos para la evaluación anual, pero no se considera el plazo de 5 días hábiles, pues no requeire de resolución exenta.
+
+<img src="\images\elab-parcial-adp.png" alt="Plazos de evaluación parcial de convenios ADP">
+
 ### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP de II nivel. </div>
 El directivo deberá acceder a su sesión del SICDE y una vez dentro de la tarea, se desplegará un formulario similar al inserto a continuación, donde debe presionar las letras «Indicar avance» para ingresar los datos de cumplimiento. Este formulario corresponde a los objetivos e indicadores comprometidos en el Convenio de Desempeño.
