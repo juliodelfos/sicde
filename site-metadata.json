@@ -49,13 +49,7 @@
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
+                "subnav_links": []
             },
             {
                 "label": "Documentos",
