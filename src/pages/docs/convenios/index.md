@@ -8,5 +8,6 @@ El Convenio de Desempeño (CD) es un instrumento de gestión que orienta al ADP 
 Los objetivos y metas que se establezcan en el CD, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
 
 Los objetivos y metas que se establezcan en el convenio de desempeño, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
+
 -----
 En esta sección encontrarás:
