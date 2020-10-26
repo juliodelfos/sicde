@@ -111,7 +111,7 @@ sections:
     subtitle: Accede directamente a SICDE desde aquí.
     actions:
       - label: Ingresar
-        url: /docs/getting-started/installation
+        url: 'https://pi.serviciocivil.cl/login/index.php'
         style: primary
 template: advanced
 excerpt: Centro de Ayuda SICDE
