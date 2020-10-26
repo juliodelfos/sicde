@@ -102,7 +102,8 @@ sections:
           ley.
         actions:
           - label: Revisar
-            url: /showcase
+            url: >-
+              https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
             style: link
   - section_id: cta
     type: section_cta
