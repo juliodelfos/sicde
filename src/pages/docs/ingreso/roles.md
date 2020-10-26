@@ -13,6 +13,8 @@ Actualmente el sistema tiene la capacidad para mantener:
 
 <mark>Las contrapartes subrogantes sólo podrán ver las tareas o llevar a cabo acciones en el sistema si la contraparte titular le activa la subrogancia</mark>. Este punto se trata más adelante dentro de esta misma sección.
 
+-----
+
 # Responsabilidades de las contrapartes técnicas
 Según sea el nivel del ADP –I nivel o II nivel– las contrapartes tienen responsabilidad diferentes.
 A continuación, se detallan las distintas labores que las contrapartes deben cumplir.
@@ -23,8 +25,6 @@ Tienen como labor principal la de generar y subir a SICDE la propuesta de conven
 
 ### Contrapartes ministeriales
 Al igual que la contraparte de servicio, su rol de relaciona a la elaboración de la propuesta de desempeño y la posterior subida de la resolución que aprueba este convenio y el convenio firmado una vez que se encuentre suscrito.
-
------
 
 ## Contrapartes de evaluación
 ### Contrapartes ministeriales
@@ -39,7 +39,6 @@ Sus labores son la de subir la resolución que aprueba el porcentaje de evaluaci
 SICDE permite activar la subrogancia entre contrapartes en caso de que alguna contraparte se encuentre con feriado legal, licencias médicas  o se vea impedido de realizar su labor por cualquier otro motivo.
 
 La subrogancia debe ser activada por la contraparte titular. Para ello, debe dirigirse al menú Opciones y allí seleccionar «Activar Subrogancia». Una vez dentro de esta opción, se despliegan todas las contrapartes de ese Ministerio o Servicio y se debe seleccionar la contraparte a la cual se le subrogarán las funciones.
-
 Esta opción permite traspasar todos los procesos de convenio de desempeño en curso que el titular tiene hacia otro/a funcionario/a subrogante designado por la autoridad previamente.
 
 Una vez que la Contraparte titular retome sus funciones la subrogancia debe ser revertida mediante el mismo proceso para que el titular pueda visualizar todas sus tareas en SICDE.
