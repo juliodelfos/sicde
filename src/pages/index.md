@@ -108,7 +108,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Ir a SICDE
-    subtitle: 'Instructivos, normativa y otros documentos de apoyo'
+    subtitle: Accede directamente a SICDE desde aquí.
     actions:
       - label: Revisar
         url: /docs/getting-started/installation
