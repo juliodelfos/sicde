@@ -95,7 +95,7 @@ sections:
           - label: Revisar
             url: /documentos
             style: secondary
-      - title: Showcase
+      - title: Estado de convenios
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
