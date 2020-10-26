@@ -5,9 +5,9 @@ excerpt: >-
 template: docs
 ---
 La plataforma SICDE se encuentra restringida a los usuarios validados por el Servicio Civil como contrapartes de servicios o ministerios y los ADP vigentes.
-Al momento de ser registrados, las contrapartes recibirán un correo electrónico de la cuenta procesosintegrados@dnsc.cl con las credenciales de acceso.
+Para ser parte de la plataforma las contrapartes deben ser registradas por un Consultor/a del Servicio Civil. Una vez registradas en SICDE las contrapartes recibirán un correo electrónico de la cuenta procesosintegrados@dnsc.cl con las credenciales de acceso.
 
-En el caso de los ADP, éstos reciben sus credenciales de acceso al momento de cumplir seis meses en el cargo. Con esta contraseña podrán registrar su evaluación y revisar el estado de su convenio. Estos puntos serán desarrollados en la sección correspondiente.
+En el caso de los ADP éstos reciben sus credenciales de acceso al momento de cumplir seis meses en el cargo. Con esta contraseña podrán registrar su evaluación y revisar el estado de su convenio. Estos puntos serán desarrollados en la sección correspondiente.
 
 ## Cómo ingresar
 Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
