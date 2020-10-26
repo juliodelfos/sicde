@@ -93,7 +93,7 @@ sections:
           desempeño de Altos Directivos Públicos.
         actions:
           - label: Revisar
-            url: /overview
+            url: /documentos
             style: link
       - title: Showcase
         content: >-
