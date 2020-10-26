@@ -94,7 +94,7 @@ sections:
         actions:
           - label: Revisar
             url: /documentos
-            style: link
+            style: secondary
       - title: Showcase
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
