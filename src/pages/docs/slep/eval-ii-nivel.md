@@ -52,7 +52,7 @@ La evaluación queda registrada en SICDE y no es necesario otro paso extra por p
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión. 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación, continúa con la revisión desde el ministerio correspondiente y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de evaluación ministerial.
 
-### Descripción del proceso
+### Caracterización del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 Para ingresar a la evaluación anual, se debe presionar el botón azul «Procesar» que se muestra al momento de ingresar a SICDE. Presionando sobre las letras azul «Evaluación Convenio de Desempeño» SICDE también lo llevará al formulario de evaluación.
 
