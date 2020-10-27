@@ -85,26 +85,40 @@ sections:
     type: section_grid
     title: Material de apoyo
     subtitle: ''
-    col_number: two
+    col_number: three
     grid_items:
       - title: Documentos
-        content: >-
+        content: >+
           Encuentras documentos legales y técnicos en materia de gestión de
           desempeño de Altos Directivos Públicos.
+
         actions:
           - label: Revisar
             url: /documentos
             style: secondary
       - title: Estado de convenios
         content: >-
-          Dashboard de información en línea de convenios de Altos Directivos
-          Públicos cercanos al cumplimiento de plazos máximos establecidos por
-          ley.
+          Información en línea de convenios de Altos Directivos Públicos
+          cercanos al cumplimiento de plazos máximos establecidos por ley.
         actions:
           - label: Revisar
             url: >-
               https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
             style: secondary
+      - title: Convenios suscritos
+        title_url: ''
+        content: >-
+          Revisa y descarga los convenios de desempeño suscritos de los ADP
+          vigentes. Carpeta en actualización permanente.
+        actions:
+          - label: Revisar
+            url: >-
+              https://drive.google.com/embeddedfolderview?id=1WOCG2bx9szCcPtcLA_K6d-1GCsqEcNdX#list
+            style: secondary
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
+        type: grid_item
   - section_id: cta
     type: section_cta
     title: Ir a SICDE
