@@ -14,6 +14,14 @@ En caso de ser ADP de II nivel, la clave es remitida el mismo día en que cumple
 ### ¿Cómo recupero la clave en caso de que no la recuerde? ¿Qué hago si no he recibido la clave de SICDE?
 Contacte a su Consultor/a a cargo:
 
+| Consultor/a         | Ministerios                                                                                                                                         | Contacto                 |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Alejandra Cerna     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
+| Alejandra Iturriaga | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
+| Andrea Quezada      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
+| Carolina Cordovez   | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
+| Sorely Martínez     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
+| Yerson Olivares     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
 
 ### ¿Cuántas claves se asignan por ministerio/servicio?
 En general son 3 claves para funcionarios: 2 para contrapartes de convenio y 1 para contraparte de evaluación. Además de esto, todos los ADP vigentes que cumplen con las condiciones explicadas anteriormente poseen clave.
