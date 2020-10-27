@@ -9,19 +9,19 @@ template: docs
 
 ### ¿Cómo obtengo la clave de SICDE?
 En caso de ser Contraparte, la clave la recibes en tu correo electrónico una vez que mediante Oficio se informa tu calidad como tal.
-En caso de ser ADP de II nivel, la clave es remitida el mismo día en que cumple seis meses de gestión. Para los I niveles, la clave es remitida cuando el Directivo es nombrado o en la medida de ser necesario, pues su rol es de revisión de evaluaciones de sus II niveles dependientes y para realizar su autoevaluación anual. Para más información revisar aquí.
+En caso de ser ADP de II nivel, la clave es remitida el mismo día en que cumple seis meses de gestión. Para los I niveles, la clave es remitida cuando el Directivo es nombrado o en la medida de ser necesario, pues su rol es de revisión de evaluaciones de sus II niveles dependientes y para realizar su autoevaluación anual. Para más información [revisar aquí](https://sicde.serviciocivil.cl/docs/ingreso/).
 
 ### ¿Cómo recupero la clave en caso de que no la recuerde? ¿Qué hago si no he recibido la clave de SICDE?
 Contacte a su Consultor/a a cargo:
 
-| Consultor/a         | Ministerios                                                                                                                                         | Contacto                 |
-|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| Alejandra Cerna     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
-| Alejandra Iturriaga | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
-| Andrea Quezada      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
-| Carolina Cordovez   | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
-| Sorely Martínez     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
-| Yerson Olivares     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam | 123456789 yyyyy@yyyyy.cl |
+| Consultor/a         | Ministerio/Servicio                                                                                                                                                                                                                                                                                            | Contacto                    |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Alejandra Cerna     | Ministerio de Salud                                                                                                                                                                                                                                                                                            | acerna@serviciocivil.cl     |
+| Alejandra Iturriaga | - Ministerio de Justicia y Derechos Humanos - Ministerio de Vivienda y Urbanismo - Ministerio del Deporte                                                                                                                                                                                                      | aiturriaga@serviciocivil.cl |
+| Andrea Quezada      | - Ministerio del Interior y Seguridad Pública - Ministerio de Economía, Fomento y Turismo - Ministerio de Minería - Ministerio de Energía                                                                                                                                                                      | aquezada@serviciocivil.cl   |
+| Carolina Cordovez   | - Servicio Electoral                                                                                                                                                                                                                                                                                           | ccordovez@serviciocivil.cl  |
+| Sorely Martínez     | - Ministerio de Relaciones Exteriores - Ministerio de Defensa Nacional - Ministerio de Desarrollo Social y Familia - Ministerio de Obras Públicas - Ministerio de Agricultura - Ministerio de Transportes y Telecomunicaciones - Ministerio del Medio Ambiente - Ministerio de la Mujer y la Equidad de Género | smartinez@serviciocivil.cl  |
+| Yerson Olivares     | - Ministerio de Educación - Ministerio del Trabajo y Previsión Social - Ministerio de las Culturas, las Artes y el Patrimonio - Ministerio de Ciencia, Tecnología, Conocimiento e Innovación                                                                                                                   | yolivares@serviciocivil.cl  |
 
 ### ¿Cuántas claves se asignan por ministerio/servicio?
 En general son 3 claves para funcionarios: 2 para contrapartes de convenio y 1 para contraparte de evaluación. Además de esto, todos los ADP vigentes que cumplen con las condiciones explicadas anteriormente poseen clave.
@@ -36,7 +36,7 @@ La contraparte de convenios en el SICDE es la encargada de subir a esta platafor
 Cada ministerio y servicio cuenta con dos tipos de contraparte de convenios ADP: una titular y otra subrogante. La contraparte Titular es aquella que tiene acceso a todas las funcionalidades de SICDE que se relacionen con la elaboración y seguimiento de los convenios ADP. La contraparte subrogante de SICDE sólo recibe las alertas de cumplimiento de plazos para que pueda apoyar a la titular en la gestión, por ello, no puede ver ningún borrador de convenio ni elaborar ninguno, a menos que la contraparte titular le delegue esta responsabilidad a través del sistema SICDE.
 
 ### ¿Se puede tener más de un perfil de visualización en SICDE?
-Existe la posibilidad de contar con más de un perfil en SICDE debido a que el sistema permite la subrogancia cuando la Contraparte titular se encuentra con feriado administrativo o licencia médica prolongada. Esta situación se encuentra descrita en este apartado.
+Existe la posibilidad de contar con más de un perfil en SICDE debido a que el sistema permite la subrogancia cuando la Contraparte titular se encuentra con feriado administrativo o licencia médica prolongada. Esta situación se encuentra descrita en [este apartado](https://sicde.serviciocivil.cl/docs/ingreso/roles/).
 En el caso de directivos/as también existe la posibilidad de contar con más de un perfil en los siguientes casos:
 II nivel subroga a I Nivel.
 II nivel que a su vez es contraparte.
@@ -64,7 +64,7 @@ Si, el sistema sustituye el envío por oficio de la resolución que aprueba el C
 SICDE no cuenta con Firmas Electrónica Avanzada por el momento.
 
 ### ¿Cómo envío el convenio a revisión de Servicio Civil?
-Toda la información relativa a este proceso se encuentra contenida en este apartado.
+Toda la información relativa a este proceso se encuentra contenida en [este apartado](https://sicde.serviciocivl.cl/docs/convenios/elaboracion-suscripcion/#revisi_n_y_aprobaci_n_del_convenio).
 
 ### ¿Qué hago si envié el convenio a revisión del Servicio Civil y posteriormente noto que fue enviado con errores?
 Solamente debes comunicarte con el Consultor del Servicio Civil y comunicarle la situación para que éste haga devolución de la propuesta de CD y procedas a corregir los errores o mejoras.
@@ -79,7 +79,7 @@ SICDE soporta todo tipo de documentos excepto .txt (nota de texto), .zip y .rar 
 El tamaño máximo corresponde a 10 mb por archivo.
 
 ### Mis Medios de verificación no suben a SICDE ¿cuál es el error?
-SICDE bloquea archivos que pesen más de 10 mb o que el título contenga tildes. Recomendamos disminuir el tamaño del archivo a través de esta herramienta.
+SICDE bloquea archivos que pesen más de 10 mb o que el título contenga tildes. Recomendamos disminuir el tamaño del archivo a través de [esta herramienta](https://www.ilovepdf.com/es/comprimir_pdf).
 
 ### ¿Qué ocurre si no se realiza el Informe de Evaluación a través del SICDE?
 Por regla general, si un ADP cumple con las condiciones para realizar la evaluación en SICDE debe realizarla por la plataforma. Sin perjuicio de esto, en caso de que se presente un problema en SICDE u otro contratiempo mayor, existe la posibilidad de realizar una evaluación vía «papel», la cual se debe realizar con las mismas características de una evaluación por SICDE. Si se presenta una situación de este tipo, debe ser comunicada al Consultor/a para solucionar el problema o coordinar la regularización de la evaluación realizada «en papel».
@@ -88,10 +88,10 @@ Por regla general, si un ADP cumple con las condiciones para realizar la evaluac
 El sistema muestra un comprobante de envío luego de que haces envío de CD o evaluación.
 
 ### ¿Cómo puedo modificar un convenio ya suscrito?
-Toda la información respecto a la modificación de CD se encuentra contenida aquí.
+Toda la información respecto a la modificación de CD se encuentra [contenida aquí](https://sicde-cbd8f.netlify.app/docs/convenios/edicion-modificacion/#modificaci_n_de_convenio_de_desempe_o).
 
 ### ¿Debe efectuarse un informe en el SICDE en caso de desvinculación?
-Sí, al momento en que un directivo es desvinculado involuntariamente, o cesa en forma voluntaria de su cargo, debe llevar a cabo un Informe de Cierre en el SICDE, tal como lo establece el artículo 24 del reglamento vigente (Decreto 172). Para más información revisar aquí.
+Sí, al momento en que un directivo es desvinculado involuntariamente, o cesa en forma voluntaria de su cargo, debe llevar a cabo un Informe de Cierre en el SICDE, tal como lo establece el artículo 24 del reglamento vigente (Decreto 172).
 
 ### ¿Cuáles son los contenidos que debiese tener el Informe de Cierre de Gestión?
 Se espera que el cierre de gestión del ADP dé cuenta, al menos, de los mismos aspectos que los informes anuales remitidos al término de cada año de gestión por el directivo público. Esto corresponde a: cifra efectiva alcanzada para cada una de las metas comprometidas en cada año de gestión, sus correspondientes medios de verificación y una evaluación cualitativa que explique las principales desviaciones respecto del cumplimiento de las metas comprometidas (art. 25 del Decreto 172).
@@ -99,9 +99,11 @@ Se espera que el cierre de gestión del ADP dé cuenta, al menos, de los mismos 
 ## Consultas frecuentes sobre convenios de desempeño
 
 ### ¿Cuáles son los plazos para elaborar un Convenio de Desempeño?
-Para la presentación de la propuesta de Convenio de Desempeño (CD) por parte de la autoridad al Alto Directivo Público (ADP) existe un plazo de 30 días contados desde la fecha del nombramiento o renovación del ADP. Luego, el CD debe ser suscrito en un plazo máximo de 60 días, considerando esta misma fecha. Para comunicar el CD suscrito y REX aprobatoria a Servicio Civil, existe un plazo máximo de 90 días hábiles, contados desde la fecha de nombramiento del ADP. La comunicación se realiza a través de SICDE. 
-El CD de ADP tiene una vigencia de tres años, y en caso de que éste sea renovado en su cargo, deberá elaborarse un nuevo convenio. Además, el CD puede ser modificado una vez en el año de gestión del ADP.
+Para la presentación de la propuesta de Convenio de Desempeño (CD) por parte de la autoridad al Alto Directivo Público (ADP) existe un plazo de 30 días contados desde la fecha del nombramiento o renovación del ADP. Luego, el CD debe ser suscrito en un plazo máximo de 60 días, considerando esta misma fecha. Para comunicar el CD suscrito y REX aprobatoria a Servicio Civil, existe un plazo máximo de 90 días hábiles, contados desde la fecha de nombramiento del ADP. La comunicación se realiza a través de SICDE.
 
+En caso de tratarse de un convenio de gestión educacional (Servicios Locales de Educación) los plazos están descritos [aquí](https://sicde.serviciocivil.cl/docs/slep/elab-conv-i/).
+
+<img src="\images\elab-conv-adp" alt="Proceso de elaboración de convenio ADP">
 
 ### ¿En qué consiste la evaluación de los Altos Directivos Públicos?
 La evaluación corresponde a la determinación del grado de cumplimiento de las metas del convenio de desempeño, que debe efectuar la autoridad, el procedimiento se realiza a través de SICDE. Cada doce meses, contados a partir de su nombramiento, el ADP deberá entregar a su superior jerárquico un informe acerca del cumplimiento de su convenio de desempeño. Asimismo, le informará de las alteraciones que se produzcan en los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales, todo lo anterior de acuerdo con lo que establezca el reglamento.
@@ -110,6 +112,10 @@ El ministro o el subsecretario del ramo, cuando este último actúe por delegaci
 
 ### ¿Cuál es la oportunidad y el plazo para evaluar a un Directivo Público?
 El ADP debe ser evaluado una vez cumplidos 365 días desde su nombramiento. Por ejemplo, si fue nombrado el 30 de mayo del año 2014, le corresponderá evaluación el 30 de mayo del año 2015. Si fue nombrado el 01 de junio de 2014, le corresponderá evaluación el 01 de junio del año 2015, y así sucesivamente. Una vez cumplidos 365 días contados desde su nombramiento, el directivo tiene un mes para emitir su informe de desempeño, el cual deberá corresponder al año de gestión ya señalado, por lo tanto, si su periodo expiró el 01 de junio del 2015, tendrá plazo para entregar su informe anual de gestión y los medios de verificación respectivos a su jefatura, hasta el 01 de julio del año 2015. La autoridad tiene un plazo máximo de 30 días luego de que ha recepcionado el Informe de Gestión del ADP para evaluar y 5 días una vez emitida la resolución aprobatoria para enviar una copia al Servicio Civil a través de SICDE.
+
+En caso de tratarse de la evaluación de un convenio de gestión educacional (Servicios Locales de Educación Pública) los plazos se encuentran descritos [aquí](https://sicde.serviciocivil.cl/docs/slep/eval-i-nivel/).
+
+<img src="\images\eval-anual-adp.png" alt="test.">
 
 
 ### ¿Desde cuándo un ADP puede comenzar a firmar actos administrativos?
