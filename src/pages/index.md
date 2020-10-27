@@ -85,7 +85,7 @@ sections:
     type: section_grid
     title: Material de apoyo
     subtitle: ''
-    col_number: two
+    col_number: three
     grid_items:
       - title: Documentos
         content: >-
