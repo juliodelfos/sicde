@@ -107,7 +107,9 @@ sections:
             style: secondary
       - title: Convenios suscritos
         title_url: ''
-        content: Revisa todos los convenios suscritos de los ADP vigentes.
+        content: >-
+          Revisa y descarga todos los convenios de desempeño suscritos de los
+          ADP vigentes.
         actions:
           - label: Revisar
             url: >-
