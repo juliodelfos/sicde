@@ -106,7 +106,7 @@ sections:
               https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
             style: secondary
       - title: Convenios suscritos
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           ## Lorem ipsum
 
