@@ -16,12 +16,12 @@ Contacte a su Consultor/a a cargo:
 
 | Consultor/a         | Ministerio/Servicio                                                                                                                                                                                                                                                                                            | Contacto                    |
 |---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| Alejandra Cerna     | Ministerio de Salud                                                                                                                                                                                                                                                                                            | acerna@serviciocivil.cl     |
-| Alejandra Iturriaga | - Ministerio de Justicia y Derechos Humanos - Ministerio de Vivienda y Urbanismo - Ministerio del Deporte                                                                                                                                                                                                      | aiturriaga@serviciocivil.cl |
-| Andrea Quezada      | - Ministerio del Interior y Seguridad Pública - Ministerio de Economía, Fomento y Turismo - Ministerio de Minería - Ministerio de Energía                                                                                                                                                                      | aquezada@serviciocivil.cl   |
-| Carolina Cordovez   | - Servicio Electoral                                                                                                                                                                                                                                                                                           | ccordovez@serviciocivil.cl  |
-| Sorely Martínez     | - Ministerio de Relaciones Exteriores - Ministerio de Defensa Nacional - Ministerio de Desarrollo Social y Familia - Ministerio de Obras Públicas - Ministerio de Agricultura - Ministerio de Transportes y Telecomunicaciones - Ministerio del Medio Ambiente - Ministerio de la Mujer y la Equidad de Género | smartinez@serviciocivil.cl  |
-| Yerson Olivares     | - Ministerio de Educación - Ministerio del Trabajo y Previsión Social - Ministerio de las Culturas, las Artes y el Patrimonio - Ministerio de Ciencia, Tecnología, Conocimiento e Innovación                                                                                                                   | yolivares@serviciocivil.cl  |
+| Alejandra Cerna     | * Ministerio de Salud                                                                                                                                                                                                                                                                                            | acerna@serviciocivil.cl     |
+| Alejandra Iturriaga | * Ministerio de Justicia y Derechos Humanos * Ministerio de Vivienda y Urbanismo * Ministerio del Deporte                                                                                                                                                                                                      | aiturriaga@serviciocivil.cl |
+| Andrea Quezada      | * Ministerio del Interior y Seguridad Pública * Ministerio de Economía, Fomento y Turismo * Ministerio de Minería * Ministerio de Energía                                                                                                                                                                      | aquezada@serviciocivil.cl   |
+| Carolina Cordovez   | * Servicio Electoral                                                                                                                                                                                                                                                                                           | ccordovez@serviciocivil.cl  |
+| Sorely Martínez     | * Ministerio de Relaciones Exteriores * Ministerio de Defensa Nacional * Ministerio de Desarrollo Social y Familia * Ministerio de Obras Públicas * Ministerio de Agricultura * Ministerio de Transportes y Telecomunicaciones * Ministerio del Medio Ambiente * Ministerio de la Mujer y la Equidad de Género | smartinez@serviciocivil.cl  |
+| Yerson Olivares     | * Ministerio de Educación * Ministerio del Trabajo y Previsión Social * Ministerio de las Culturas, las Artes y el Patrimonio * Ministerio de Ciencia, Tecnología, Conocimiento e Innovación                                                                                                                   | yolivares@serviciocivil.cl  |
 
 ### ¿Cuántas claves se asignan por ministerio/servicio?
 En general son 3 claves para funcionarios: 2 para contrapartes de convenio y 1 para contraparte de evaluación. Además de esto, todos los ADP vigentes que cumplen con las condiciones explicadas anteriormente poseen clave.
@@ -103,7 +103,7 @@ Para la presentación de la propuesta de Convenio de Desempeño (CD) por parte d
 
 En caso de tratarse de un convenio de gestión educacional (Servicios Locales de Educación) los plazos están descritos [aquí](https://sicde.serviciocivil.cl/docs/slep/elab-conv-i/).
 
-<img src="\images\elab-conv-adp" alt="Proceso de elaboración de convenio ADP">
+<img src="\images\elab-conv-adp.png" alt="Proceso de elaboración de convenio ADP">
 
 ### ¿En qué consiste la evaluación de los Altos Directivos Públicos?
 La evaluación corresponde a la determinación del grado de cumplimiento de las metas del convenio de desempeño, que debe efectuar la autoridad, el procedimiento se realiza a través de SICDE. Cada doce meses, contados a partir de su nombramiento, el ADP deberá entregar a su superior jerárquico un informe acerca del cumplimiento de su convenio de desempeño. Asimismo, le informará de las alteraciones que se produzcan en los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales, todo lo anterior de acuerdo con lo que establezca el reglamento.
@@ -119,7 +119,7 @@ En caso de tratarse de la evaluación de un convenio de gestión educacional (Se
 
 
 ### ¿Desde cuándo un ADP puede comenzar a firmar actos administrativos?
-Un/a ADP que se encuentre en el cargo puede comenzar a firmar actos administrativos desde la fecha definida en la resolución que lo/la nombró. Para más información revisar Artículo N° 16 de la Ley N° 18.834 (Estatuto Administrativo).
+Un/a ADP que se encuentre en el cargo puede comenzar a firmar actos administrativos desde la fecha definida en la resolución que lo/la nombró. Para más información revisar Artículo N° 16 de la [ley N° 18.834](https://www.leychile.cl/Navegar?idNorma=236392) (Estatuto Administrativo).
 
 ### ¿Cómo procede la suscripción de CD o evaluación de un ADP de II nivel que realiza subrogancia de I nivel?
 El directivo de segundo nivel que se encuentra subrogando en el cargo de primer nivel del mismo servicio no puede realizar autoevaluación y evaluación final a la vez, y debe, por tanto, abstenerse de aquello, procediendo que la evaluación final de su convenio de desempeño sea realizada por el segundo subrogante del cargo de primer nivel. Del mismo modo, un directivo de II nivel no puede aprobarse él mismo su Convenio de Desempeño, por lo que debe actuar de la misma manera que en el caso de una evaluación.
@@ -142,9 +142,6 @@ En el caso de los ADP renovados, pero que fueron nombrados antes del 20 de octub
 
 ### ¿El resultado de la evaluación de mí convenio de desempeño, influye en la decisión de renovación?
 La autoridad competente podrá renovar fundadamente los nombramientos de cargos adscritos al Sistema de Alta Dirección Pública, para lo cual junto con otras consideraciones, deberá tener disponibles las evaluaciones del alto directivo público de que se trate.
-
-### ¿Cómo se modifica un Convenio de Desempeño?
-Según el artículo N° 63 de la Ley 19.882, el convenio de desempeño del ADP puede ser modificado sólo una vez en el año de gestión. Para poder modificarlo debe enviar una solicitud vía SICDE señalando las razones de la modificación (para información de cómo hacerlo por SICDE revisar aquí). Una vez aprobada por el/la Consultor/a, el Servicio Civil procede a la revisión técnica y aprobación final de la propuesta de modificación. Luego de dicha aprobación, se firma y se genera una nueva resolución aprobatoria, debiendo enviarse copia de la resolución y del convenio firmado a Servicio Civil para su registro y publicación, a través de SICDE.
 
 ### ¿El resultado de la evaluación de mí convenio de desempeño, tiene implicancia en el pago de mi remuneración?
 El grado de cumplimiento del convenio de desempeño de los altos directivos públicos producirán el siguiente efecto:
