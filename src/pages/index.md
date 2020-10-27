@@ -83,46 +83,35 @@ sections:
         style: primary
   - section_id: features-two-col
     type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
+    title: Material de apoyo
+    subtitle: ''
     col_number: two
     grid_items:
-      - title: Overview
+      - title: Documentos
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Encuentras documentos legales y técnicos en materia de gestión de
+          desempeño de Altos Directivos Públicos.
         actions:
-          - label: Learn More
-            url: /overview
-            style: link
-      - title: Showcase
+          - label: Revisar
+            url: /documentos
+            style: secondary
+      - title: Estado de convenios
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Dashboard de información en línea de convenios de Altos Directivos
+          Públicos cercanos al cumplimiento de plazos máximos establecidos por
+          ley.
         actions:
-          - label: Learn More
-            url: /showcase
-            style: link
+          - label: Revisar
+            url: >-
+              https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
+            style: secondary
   - section_id: cta
     type: section_cta
-    title: Revisar documentación
-    subtitle: 'Instructivos, normativa y otros documentos de apoyo'
+    title: Ir a SICDE
+    subtitle: Accede directamente a SICDE desde aquí.
     actions:
-      - label: Revisar
-        url: /docs/getting-started/installation
-        style: primary
-  - section_id: text-no-img
-    type: section_content
-    title: Consultores/as
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions:
-      - label: Contactar
-        url: /docs/getting-started/installation
+      - label: Ingresar
+        url: 'https://pi.serviciocivil.cl/login/index.php'
         style: primary
 template: advanced
 excerpt: Centro de Ayuda SICDE

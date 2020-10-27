@@ -45,27 +45,17 @@
                 "has_subnav": false
             },
             {
-                "label": "Prueba",
-                "url": "#",
+                "label": "Estado convenios",
+                "url": "https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB",
                 "style": "link",
-                "has_subnav": true,
-                "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
-                ]
+                "has_subnav": false,
+                "subnav_links": [],
+                "new_window": true
             },
             {
-                "label": "Guía de estilo",
-                "url": "/style-guide",
-                "style": "link",
+                "label": "Documentos",
+                "url": "/documentos",
+                "style": "secondary",
                 "has_subnav": false
             },
             {
