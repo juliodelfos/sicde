@@ -98,9 +98,8 @@ sections:
             style: secondary
       - title: Estado de convenios
         content: >-
-          Dashboard de información en línea de convenios de Altos Directivos
-          Públicos cercanos al cumplimiento de plazos máximos establecidos por
-          ley.
+          Información en línea de convenios de Altos Directivos Públicos
+          cercanos al cumplimiento de plazos máximos establecidos por ley.
         actions:
           - label: Revisar
             url: >-
