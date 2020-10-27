@@ -112,7 +112,7 @@ sections:
           - label: Revisar
             url: >-
               https://drive.google.com/embeddedfolderview?id=1WOCG2bx9szCcPtcLA_K6d-1GCsqEcNdX#list
-            style: link
+            style: secondary
             icon_class: lorem-ipsum
             new_window: false
             type: action
