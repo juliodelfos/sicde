@@ -71,7 +71,7 @@ sections:
         type: grid_item
   - section_id: text-img
     type: section_content
-    image: images/preguntas.png
+    image: images/preguntas-fre.png
     image_position: left
     title: Preguntas frecuentes
     content: >-
