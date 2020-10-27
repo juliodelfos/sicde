@@ -88,9 +88,10 @@ sections:
     col_number: three
     grid_items:
       - title: Documentos
-        content: >-
+        content: >+
           Encuentras documentos legales y técnicos en materia de gestión de
           desempeño de Altos Directivos Públicos.
+
         actions:
           - label: Revisar
             url: /documentos
