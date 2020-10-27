@@ -105,6 +105,19 @@ sections:
             url: >-
               https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
             style: secondary
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
   - section_id: cta
     type: section_cta
     title: Ir a SICDE
