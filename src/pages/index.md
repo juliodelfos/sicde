@@ -110,7 +110,8 @@ sections:
         content: Revisa todos los convenios suscritos de los ADP vigentes.
         actions:
           - label: Revisar
-            url: lorem-ipsum
+            url: >-
+              https://drive.google.com/embeddedfolderview?id=1WOCG2bx9szCcPtcLA_K6d-1GCsqEcNdX#list
             style: link
             icon_class: lorem-ipsum
             new_window: false
