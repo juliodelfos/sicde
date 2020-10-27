@@ -107,15 +107,7 @@ sections:
             style: secondary
       - title: Convenios suscritos
         title_url: ''
-        content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: Revisa todos los convenios suscritos de los ADP vigentes.
         actions: []
         type: grid_item
   - section_id: cta
