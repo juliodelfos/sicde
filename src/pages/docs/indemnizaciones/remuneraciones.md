@@ -11,6 +11,8 @@ Cabe señalar que, de acuerdo al cargo ejercido, los altos directivos públicos 
 
 <div class="note"><strong>Nota:</strong> Exepcionalmente las remuneraciones de los Directoresas Ejecutivos/as (I niveles) de los Servicios Locales de Educación Pública no se encuentran afectas a esta normativa.</div>
 
+***
+
 ## Conceptos importantes para el cálculo y pago de las remuneraciones
 
 ### Asignación de Alta Dirección Pública  
@@ -42,7 +44,7 @@ Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 97% de la
 
 `$4.300.000 * 100% = $4.300.000`
 
-</mark>Total remuneración bruta a percibir = $4.300.000.- por el periodo comprendido entre el 28-11-2019 y 28-11-2020.</mark>
+<mark>Total remuneración bruta a percibir = $4.300.000.- por el periodo comprendido entre el 28-11-2019 y 28-11-2020.</mark>
 
 ### Cumplimiento de más del 65% y menos del 95%
 El cumplimiento de más de un 65%, pero menos del 95% o más de un convenio ADP **dará derecho a percibir el 93% de dichas remuneraciones, más lo que resulte de multiplicar el 7% de la remuneración señalada en la letra a) por el porcentaje de cumplimiento del convenio de desempeño**.
@@ -66,4 +68,4 @@ Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 64% de la
 
 <mark>Total remuneración bruta a percibir por el periodo comprendido entre el 28-11-2019 y 28-11-2020.</mark>
 
-<div class="note"><strong>Nota:</strong> El cumplimiento de las metas del convenio de desempeño del ADP en su primer año de gestión afecta las remuneraciones en su segundo año de gestión; el cumplimiento de las metas del convenio de desempeño del ADP en su segundo año de gestión afecta las remuneraciones en su tercer año de gestión y, el cumplimiento de las metas del convenio de desempeño del ADP en su tercer año de gestión, no produce efectos en remuneraciones puesto que el año siguiente corresponde a un nuevo periodo (renovación). El ciclo señalado es válido para los tres periodos que puede permanecer el ADP, según su nombramiento.</div>
+<div class="important"><strong>Importante:</strong> El cumplimiento de las metas del convenio de desempeño del ADP en su primer año de gestión afecta las remuneraciones en su segundo año de gestión; el cumplimiento de las metas del convenio de desempeño del ADP en su segundo año de gestión afecta las remuneraciones en su tercer año de gestión y, el cumplimiento de las metas del convenio de desempeño del ADP en su tercer año de gestión, no produce efectos en remuneraciones puesto que el año siguiente corresponde a un nuevo periodo (renovación). El ciclo señalado es válido para los tres periodos que puede permanecer el ADP, según su nombramiento.</div>
