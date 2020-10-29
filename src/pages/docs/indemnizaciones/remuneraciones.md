@@ -32,6 +32,9 @@ Corresponde a la prórroga de nombramiento de un alto directivo, por un segundo 
 ### Efectos del grado de cumplimiento  del convenio de  desempeño de los altos directivos públicos  
 
 #### Situación N°1
+~~~
+Test
+~~~
 Ejemplo:
 
 Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 97% de las metas  de su convenio por el año de gestión que termina el 28-11-2019 y tiene una remuneración  bruta promedio de $4.300.000.-, la situación es la siguiente:  
