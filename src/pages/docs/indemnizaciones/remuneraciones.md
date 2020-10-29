@@ -65,9 +65,6 @@ Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 64% de la
   
 `$4.300.000 * 93% = $3.999.000`
 
-Total remuneración bruta a percibir por el periodo comprendido entre el 28-11-2019 y 28-11-2020.  
+Total remuneración bruta a percibir por el periodo comprendido entre el 28-11-2019 y 28-11-2020.
 
-Finalmente, destacar que el cumplimiento de las metas del convenio de desempeño del ADP en su primer año de gestión afecta las remuneraciones en su segundo año de gestión; el cumplimiento de las metas del convenio de desempeño del ADP en su segundo año de gestión afecta las remuneraciones en su tercer año de gestión y, el cumplimiento de las metas del convenio de desempeño del ADP en su tercer año de gestión, no produce efectos en remuneraciones puesto que el año siguiente corresponde a un nuevo periodo (renovación).
-
-El ciclo señalado es válido para los tres periodos que puede permanecer el ADP, según su nombramiento.  
-
+<div class="note"><strong>Nota:</strong> El cumplimiento de las metas del convenio de desempeño del ADP en su primer año de gestión afecta las remuneraciones en su segundo año de gestión; el cumplimiento de las metas del convenio de desempeño del ADP en su segundo año de gestión afecta las remuneraciones en su tercer año de gestión y, el cumplimiento de las metas del convenio de desempeño del ADP en su tercer año de gestión, no produce efectos en remuneraciones puesto que el año siguiente corresponde a un nuevo periodo (renovación). El ciclo señalado es válido para los tres periodos que puede permanecer el ADP, según su nombramiento.</div>
