@@ -35,9 +35,7 @@ Corresponde a la prórroga de nombramiento de un alto directivo, por un segundo 
 ### Efectos del grado de cumplimiento  del convenio de  desempeño de los altos directivos públicos  
 
 #### Situación N°1: Cumplimiento del 95% o más del convenio de desempeño
-~~~
-Dará derecho a percibir el 100% de la remuneración brutal que le corresponda según el sistema a que estén afectos.
-~~~
+<mark>Dará derecho a percibir el 100% de la remuneración brutal que le corresponda según el sistema a que estén afectos.</mark>
 
 Ejemplo:
 
@@ -48,9 +46,7 @@ Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 97% de la
 Total remuneración bruta a percibir por el periodo comprendido entre el 28-11-2019 y 28-11-2020. 
 
 #### Situación N°2: Cumplimiento de más del 65% y menos del 95%
-~~~
-Dará derecho a percibir el 93% de dichas remuneraciones, más lo que resulte de multiplicar el 7% de la remuneración señalada en la letra a) por el porcentaje de cumplimiento del convenio de desempeño.
-~~~
+<mark>Dará derecho a percibir el 93% de dichas remuneraciones, más lo que resulte de multiplicar el 7% de la remuneración señalada en la letra a) por el porcentaje de cumplimiento del convenio de desempeño.</mark>
 
 Ejemplo:
 
@@ -62,9 +58,7 @@ Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 75% de la
 Total remuneración bruta a percibir = $4.224.750.- por el periodo comprendido entre el 28-11-2019 y 28-11-2020. 
  
 #### Situación N°3: Cumplimiento del 65% o menos
-~~~
-Dará derecho a percibir el 93% de dichas remuneraciones.
-~~~
+<mark>Dará derecho a percibir el 93% de dichas remuneraciones.</mark>
 
 Ejemplo:
 Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 64% de las metas de su convenio por el año de gestión que termina el 28-11-2019 y tiene una remuneración bruta promedio de $4.300.000.-, la situación es la siguiente:
