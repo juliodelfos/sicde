@@ -37,9 +37,6 @@ Corresponde a la prórroga de nombramiento de un alto directivo, por un segundo 
 ### Cumplimiento del 95% o más del convenio de desempeño
 El cumplimiento del 95% o más de un convenio ADP <mark>dará derecho a percibir el 100% de la remuneración brutal que le corresponda según el sistema a que estén afectos.</mark>
 
-| **Ejemplo:** Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 97% de las metas de su convenio por el año de gestión que termina el 28-11-2019 y tiene una remuneración bruta promedio de $4.300.000.-, la situación es la siguiente:  `$4.300.000 * 100% = $4.300.000`  Total remuneración bruta a percibir por el periodo comprendido entre el 28-11-2019 y 28-11-2020. |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 **Ejemplo:**
 Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 97% de las metas de su convenio por el año de gestión que termina el 28-11-2019 y tiene una remuneración bruta promedio de $4.300.000.-, la situación es la siguiente:
 
@@ -54,6 +51,7 @@ El cumplimiento de más de un 65%, pero menos del 95% o más de un convenio ADP 
 Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 75% de las metas de su convenio por el año de gestión que termina el 28-11-2019 y tiene una remuneración bruta promedio de $4.300.000.-, la situación es la siguiente:
 
  `$4.300.000 * 93% = $3.999.000`
+ 
  `más $4.300.000 * 7% * 75% = $ 225.750`
 
 Total remuneración bruta a percibir = $4.224.750.- por el periodo comprendido entre el 28-11-2019 y 28-11-2020. 
