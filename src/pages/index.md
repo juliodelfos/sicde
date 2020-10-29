@@ -49,7 +49,9 @@ sections:
         type: grid_item
       - title: Remuneración e indemnización
         title_url: ''
-        content: Norma general de indeminizaciones para ADP desvinculados.
+        content: >-
+          Ejemplos y normativa sobre pago de remuneraciones e indeminizaciones
+          para ADP.
         actions:
           - label: Revisar
             url: /docs/indemnizaciones/
