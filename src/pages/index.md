@@ -47,7 +47,7 @@ sections:
             new_window: false
             type: action
         type: grid_item
-      - title: Desvinculación e indeminización
+      - title: Remuneración e indemnización
         title_url: ''
         content: Norma general de indeminizaciones para ADP desvinculados.
         actions:
