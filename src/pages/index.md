@@ -49,9 +49,7 @@ sections:
         type: grid_item
       - title: Remuneración e indemnización
         title_url: ''
-        content: >-
-          Ejemplos y normativa sobre pago de remuneraciones e indeminizaciones
-          para ADP.
+        content: Ejemplos y normativa sobre pago de remuneraciones e indeminizaciones.
         actions:
           - label: Revisar
             url: /docs/indemnizaciones/
