@@ -10,9 +10,6 @@ La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de
 
 <img src="\images\eval-parcial-adp.png" alt="Plazos de evaluación de convenios SLEP">
 
-&nbsp;
- <a href="https://drive.google.com/file/d/1u0VNxj3c_1jWjPPJoKaGp_encM31tkXb/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
-
 ### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
 El directivo deberá acceder a su sesión del SICDE y una vez dentro de la tarea, se desplegará un formulario similar al inserto a continuación, donde debe presionar las letras «Indicar avance» para ingresar los datos de cumplimiento. Este formulario corresponde a los objetivos e indicadores comprometidos en el Convenio de Desempeño.

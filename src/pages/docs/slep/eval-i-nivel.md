@@ -9,9 +9,6 @@ Tanto la evaluación anual como la semestral consideran los siguientes elementos
 
 <img src="\images\ele-eval.png" alt="Elementos de evaluación ADP">
 
-&nbsp;
- <a href="https://drive.google.com/file/d/1uhFN5e__vvMwdFYIV9ZVLn2UFw4Kznmj/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
-
 Cabe destacar que si el directivo lo estima pertinente, deberá explicitar en el informe de desempeño anual, toda causa externa y no prevista que justifique el incumplimiento de una o más metas comprometidas en el convenio de desempeño para el año de gestión respectivo. Lo anterior, con la finalidad, que la autoridad pertinente, pueda considerar este punto, en el informe de evaluación correspondiente.
 
 En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la posibilidad de justificar el no realizar el proceso completo de evaluación anual por los siguientes motivos:
@@ -41,9 +38,6 @@ La evaluación anual de los Directores/as Ejecutivos/as es de suma importancia, 
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo a los Directores/as Ejecutivos/as, continúa con la revisión desde la Dirección de Educación Pública y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de la Dirección de Educación Pública.
 
 <img src="\images\eval-anual-i-slep.png" alt="Plazos de evaluación de convenios SLEP">
-
-&nbsp;
- <a href="https://drive.google.com/file/d/1uOirb9cCrAXNawdO3u3wxeOZEoLHIYtG/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
 
 ### Descripción del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>
@@ -107,9 +101,6 @@ Guardada esta información, se genera una tarea a través del sistema al Consult
 La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión. En términos prácticos, el proceso de evaluación parcial se inicia con el aviso de parte de la Dirección de Educación Pública del inicio de este proceso y finaliza con la revisión por parte de la Dirección de Educación Pública.
 
 <img src="\images\eval-parcial-i-slep.png" alt="Plazos de evaluación de convenios SLEP">
-
-&nbsp;
- <a href="https://drive.google.com/file/d/1uAhlibpqc2cuGGW5ISaabZutyV4RziJA/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
 
 ### Caracterización del proceso
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP. </div>

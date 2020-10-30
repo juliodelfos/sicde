@@ -23,9 +23,6 @@ Según el artículo sexagésimo segundo de la ley Nº 19.882 la autoridad que no
 
 <img src="\images\elab-conv-slep.png" alt="Plazos de elaboración de convenios SLEP">
 
-&nbsp;
- <a href="https://drive.google.com/file/d/1uVpIoAQp5vYEGtJ40L2UyCqig9dgBKP8/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
-
 ## Elaboración del convenio de gestión educacional
 Para iniciar el proceso de elaboración del CGE, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
 
