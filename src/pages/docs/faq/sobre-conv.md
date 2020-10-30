@@ -28,7 +28,7 @@ Un/a ADP que se encuentre en el cargo puede comenzar a firmar actos administrati
 
 ### ¿Cómo procede la suscripción de CD o evaluación de un ADP de II nivel que realiza subrogancia de I nivel?
 El directivo de segundo nivel que se encuentra subrogando en el cargo de primer nivel del mismo servicio no puede realizar autoevaluación y evaluación final a la vez, y debe, por tanto, abstenerse de aquello, procediendo que la evaluación final de su convenio de desempeño sea realizada por el segundo subrogante del cargo de primer nivel. Del mismo modo, un directivo de II nivel no puede aprobarse él mismo su Convenio de Desempeño, por lo que debe actuar de la misma manera que en el caso de una evaluación.
-La División Jurídica del Servicio Civil se pronunció respecto a este tema. El documento se encuentra disponible aquí.
+La División Jurídica del Servicio Civil se pronunció respecto a este tema. El documento se encuentra [disponible aquí](https://drive.google.com/file/d/1tmzoIwJ7jZTgicho0nitFFey5nyNmrjp/view?usp=sharing).
 
 ### ¿Puede el Servicio Civil extender plazos o suspender procesos?
 Los plazos asignados tanto a la evaluación directiva como a la suscripción del Convenio de Desempeño son asignados por la Ley N° 19.882 y Ley N° 20.955, la cual no otorga al Servicio Civil ninguna posibilidad de extender plazos, suspender procesos ni realizar excepción a las características o plazos de los procesos mencionados.
