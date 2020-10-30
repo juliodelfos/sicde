@@ -60,10 +60,10 @@ El nivel de cumplimiento global se calculará multiplicando el porcentaje de cum
 
 Recomendamos presionar el botón «Guardar» que se encuentra al final del documento, con el fin de resguardar la información ya completada y evitar cualquier tipo de contratiempo.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yCgAG6cxWoU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mn-3ila1VD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Revisión contraparte de evaluación ministerial
-<div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de una contraparte de evaluación ministerial. </div>
+### Revisión por Director/a Educación Pública
+<div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil del Director/a Educación Pública. </div>
 
 Al ingresar a la actividad, se desplegará la evaluación realizada por el ADP de I nivel.
 
@@ -92,7 +92,7 @@ Luego de ingresar a «Subir resolución firmada», se despliega el sitio para su
 
 Guardada esta información, se genera una tarea a través del sistema al Consultor/a DNSC, quien deberá revisar si la documentación fue cargada correctamente. Si está correcta, se realizará el registro en la oficina de partes y la contraparte recibirá la notificación por correo electrónico de recepción del documento. En caso contrario, se devolverá la tarea para que, por ejemplo, se suban los archivos correctos.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5rnqJjZOAp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4FSwWCGGsds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----
 
@@ -121,10 +121,10 @@ El resultado obtenido en las evaluacioens parciales no tienen impacto en la remu
 En los casos de «sobrecumplimiento», vale decir, un ADP que cumpla más del 100%, el porcentaje que se coloca debe ser 100% y no, por ejemplo, 105%. Del mismo modo, en caso de que un ADP haya comprometido cumplir la disminución en un 40% en un proceso determinado, el cumplimiento de este indicador se coloca como 100%, no como 40%.
 Para hacer envío del documento a la jefatura, se debe presionar «Guardar y Firmar».
 
-<mark>video</mark>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pW447Hmr1EA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Revisión por parte de la Dirección de Educación Pública
-<div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de contraparte de evaluación de la Dirección de Educación Pública, quien actúa en representación del Director/a de Educación Pública. </div>
+### Revisión por parte de Director/a Educación Pública
+<div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil del Director/a Educación Pública. </div>
 
 La jefatura del cargo recibirá como tarea la retroalimentación de 6 meses recién realizada por el ADP, en donde puede ingresar una observación por cada indicador y debe ingresar un comentario como retroalimentación general de la evaluación.
 
@@ -136,4 +136,4 @@ La devolución de la evaluación borra la información ingresada por la contrapa
 
 La evaluación queda registrada en SICDE y no es necesario otro paso extra por parte de la contraparte, pues la evaluación semestral no requiere de resolución que la apruebe.
 
-<mark>video</mark>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5EsN7B-8f40" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
