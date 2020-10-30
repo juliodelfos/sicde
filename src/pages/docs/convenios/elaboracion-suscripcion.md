@@ -7,7 +7,6 @@ template: docs
 <img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios ADP">
 
 &nbsp;
-
  <a href="https://drive.google.com/file/d/1u9Y9Wi3pisvrVabrJ4iHyXvuQiPILKJw/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
 
 El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de los treinta días corridos contados desde su nombramiento o renovación, y deberá considerar el respectivo perfil del cargo.

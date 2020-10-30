@@ -18,6 +18,9 @@ Los objetivos y metas que se establezcan en el CD, deberán reflejar los desafí
 
 <img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios SLEP">
 
+&nbsp;
+ <a href="https://drive.google.com/file/d/1u9Y9Wi3pisvrVabrJ4iHyXvuQiPILKJw/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
+
 El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de las dos primeras semanas contadas desde su nombramiento o renovación.
 
 El plazo máximo para la suscripción del CD es de treinta días hábiles, contados desde el nombramiento o renovación del ADP.

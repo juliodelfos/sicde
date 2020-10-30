@@ -8,6 +8,8 @@ La modificación legal del 20 de octubre de 2016 a la ley Nº 19.882 introdujo l
 
 <img src="\images\eval-anual-adp.png" alt="Plazos de evaluación de convenios ADP">
 
+&nbsp;
+ <a href="https://drive.google.com/file/d/1u3bq0o_U7hfhvcJPIg_Ya9A_nDSvpUt3/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
 
 Los ADP que fueron nombrados antes de esa fecha, seguirán rigiéndose por la legislación vigente a la época de su nombramiento, vale decir, teniendo un plazo de 2 meses para la entrega del informe anual o semestral. Sin perjuicio de esto recomendamos a los diferentes servicios realizar todas las evaluaciones directivas acotadas a los plazos nuevos con el fin de estandarizar y facilitar los procesos.
 
