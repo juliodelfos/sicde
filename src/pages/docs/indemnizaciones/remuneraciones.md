@@ -52,8 +52,7 @@ El cumplimiento de más de un 65%, pero menos del 95% o más de un convenio ADP 
 **Ejemplo:**
 Si un Alto Directivo Público inició funciones el 28-11-2018 y cumple 75% de las metas de su convenio por el año de gestión que termina el 28-11-2019 y tiene una remuneración bruta promedio de $4.300.000.-, la situación es la siguiente:
 
- `$4.300.000 * 93% = $3.999.000`
-
+ `$4.300.000 * 93% = $3.999.000`  
  `más $4.300.000 * 7% * 75% = $ 225.750`
 
 <mark>Total remuneración bruta a percibir = $4.224.750.- por el periodo comprendido entre el 28-11-2019 y 28-11-2020.</mark>
