@@ -1,5 +1,5 @@
 ---
-title: Indeminzaciones
+title: Indemnizaciones
 weight: 1
 template: docs
 ---

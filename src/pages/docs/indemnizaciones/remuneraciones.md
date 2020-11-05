@@ -11,6 +11,8 @@ Cabe señalar que, de acuerdo al cargo ejercido, los altos directivos públicos 
 
 <div class="note"><strong>Nota:</strong> Exepcionalmente las remuneraciones de los Directoresas Ejecutivos/as (I niveles) de los Servicios Locales de Educación Pública no se encuentran afectas a esta normativa.</div>
 
+<a href="https://drive.google.com/file/d/1pe6D7N6LnmYB9Z7ZxAdYhz7y3uZtR0dg/view" class="button" target="_blank">Descargar Guía de Remuneraciones</a>
+
 ***
 
 ## Conceptos importantes para el cálculo y pago de las remuneraciones
