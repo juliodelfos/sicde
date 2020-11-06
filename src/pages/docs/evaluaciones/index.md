@@ -28,12 +28,6 @@ Tanto la evaluación anual, semestral e informe de cierre consideran los siguien
 
 Cabe destacar que si el directivo lo estima pertinente, deberá explicitar en el informe de desempeño anual, toda causa externa y no prevista que justifique el incumplimiento de una o más metas comprometidas en el convenio de desempeño para el año de gestión respectivo. Lo anterior, con la finalidad, que la autoridad pertinente, pueda considerar este punto, en el informe de evaluación correspondiente.
 
-En el caso de los Directores/as Ejecutivos/as de los SLEP existe también la posibilidad de justificar el no realizar el proceso completo de evaluación anual por los siguientes motivos:
-* Cercanía de fecha de nombramiento con fecha de evaluación (Nombramiento reciente)
-* Licencia médica prolongada o pre/pos natal 
-* Desastres naturales, alteraciones sociales, pandemias y otros
-* Subrogancia prolongada en otro cargo durante el periodo de evaluación
-
 <div class="note"><strong>Nota:</strong> A partir del 1 de diciembre de 2019 los documentos de convenios de desempeño y evaluaciones anuales de los directivos públicos de primer y segundo nivel, recibidos a través del sistema SICDE, con lo cual no es necesario el ingreso por oficina de partes.</div>
 
 ***
