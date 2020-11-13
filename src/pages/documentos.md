@@ -27,7 +27,7 @@ sections:
         image: images/egreso.png
         content: 
       - title: Ley N° 19.882
-        title_url: 'https://drive.google.com/file/d/1rUWViIgFmdDqbo3flCRu9JSy99GY2RiU/view?usp=sharing'
+        title_url: 'https://drive.google.com/file/d/1XiYBH13YreTCqRK4iz7_5ysSaGVv8TWj/view?usp=sharing'
         image: images/ley-19882.png
         content: 
       - title: Reglamento Ley N° 19.882
