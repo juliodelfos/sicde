@@ -127,6 +127,7 @@ sections:
       - label: Ingresar
         url: 'https://pi.serviciocivil.cl/login/index.php'
         style: primary
+        new_window: true
 template: advanced
 excerpt: Centro de Ayuda SICDE
 ---
