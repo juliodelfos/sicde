@@ -127,6 +127,12 @@ sections:
       - label: Ingresar
         url: 'https://pi.serviciocivil.cl/login/index.php'
         style: primary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
 template: advanced
 excerpt: Centro de Ayuda SICDE
 ---
