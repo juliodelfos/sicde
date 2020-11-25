@@ -63,7 +63,7 @@ sections:
         content: Elaboración y evaluación de convenios para I y II niveles de SLEP.
         actions:
           - label: Revisar
-            url: 'https://sicde-cbd8f.netlify.app/docs/slep/'
+            url: 'https://sicde.serviciocivil.cl/docs/slep/'
             style: link
             icon_class: lorem-ipsum
             new_window: false
