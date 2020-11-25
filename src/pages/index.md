@@ -89,8 +89,8 @@ sections:
     grid_items:
       - title: Documentos
         content: >+
-          Encuentras documentos legales y técnicos en materia de gestión de
-          desempeño de Altos Directivos Públicos.
+          Documentos legales y técnicos en materia de gestión de desempeño de
+          Altos Directivos Públicos.
 
         actions:
           - label: Revisar
@@ -105,6 +105,7 @@ sections:
             url: >-
               https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
             style: secondary
+            new_window: true
       - title: Convenios suscritos
         title_url: ''
         content: >-
