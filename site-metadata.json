@@ -59,7 +59,7 @@
                         "type": "action"
                     },
                     {
-                        "label": "lorem-ipsum",
+                        "label": "Monitoreo I nivel",
                         "url": "lorem-ipsum",
                         "style": "link",
                         "icon_class": "lorem-ipsum",
