@@ -39,17 +39,34 @@
                 "has_subnav": false
             },
             {
-                "label": "Manual",
+                "label": "Revisar contenido",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
             },
             {
-                "label": "Estado convenios",
-                "url": "https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB",
+                "label": "Tableros",
+                "url": "",
                 "style": "link",
-                "has_subnav": false,
-                "subnav_links": [],
+                "has_subnav": true,
+                "subnav_links": [
+                    {
+                        "label": "Estado convenios de desempeño",
+                        "url": "https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB",
+                        "style": "link",
+                        "icon_class": "lorem-ipsum",
+                        "new_window": true,
+                        "type": "action"
+                    },
+                    {
+                        "label": "Monitoreo I nivel",
+                        "url": "lorem-ipsum",
+                        "style": "link",
+                        "icon_class": "lorem-ipsum",
+                        "new_window": true,
+                        "type": "action"
+                    }
+                ],
                 "new_window": true
             },
             {

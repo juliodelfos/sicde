@@ -35,7 +35,7 @@ sections:
             url: /docs/ingreso/
             style: link
       - title: Edición y modificación de convenio
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           Solicitud de modificación de convenio y edición de convenios no
           suscritos.
@@ -59,11 +59,11 @@ sections:
             type: action
         type: grid_item
       - title: Servicios Locales de Educación
-        title_url: lorem-ipsum
+        title_url: ''
         content: Elaboración y evaluación de convenios para I y II niveles de SLEP.
         actions:
           - label: Revisar
-            url: 'https://sicde-cbd8f.netlify.app/docs/slep/'
+            url: /docs/slep/
             style: link
             icon_class: lorem-ipsum
             new_window: false
@@ -116,7 +116,7 @@ sections:
               https://drive.google.com/embeddedfolderview?id=1WOCG2bx9szCcPtcLA_K6d-1GCsqEcNdX#list
             style: secondary
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
   - section_id: cta
@@ -127,6 +127,7 @@ sections:
       - label: Ingresar
         url: 'https://pi.serviciocivil.cl/login/index.php'
         style: primary
+        new_window: true
 template: advanced
 excerpt: Centro de Ayuda SICDE
 ---
