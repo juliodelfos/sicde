@@ -35,7 +35,7 @@ sections:
             url: /docs/ingreso/
             style: link
       - title: Edición y modificación de convenio
-        title_url: lorem-ipsum
+        title_url: ''
         content: >-
           Solicitud de modificación de convenio y edición de convenios no
           suscritos.
