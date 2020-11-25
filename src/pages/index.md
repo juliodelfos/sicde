@@ -89,7 +89,7 @@ sections:
     grid_items:
       - title: Documentos
         content: >+
-          Cocumentos legales y técnicos en materia de gestión de desempeño de
+          Documentos legales y técnicos en materia de gestión de desempeño de
           Altos Directivos Públicos.
 
         actions:
