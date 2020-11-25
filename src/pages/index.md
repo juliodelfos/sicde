@@ -59,7 +59,7 @@ sections:
             type: action
         type: grid_item
       - title: Servicios Locales de Educación
-        title_url: lorem-ipsum
+        title_url: ''
         content: Elaboración y evaluación de convenios para I y II niveles de SLEP.
         actions:
           - label: Revisar
