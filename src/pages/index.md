@@ -116,7 +116,7 @@ sections:
               https://drive.google.com/embeddedfolderview?id=1WOCG2bx9szCcPtcLA_K6d-1GCsqEcNdX#list
             style: secondary
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
   - section_id: cta
