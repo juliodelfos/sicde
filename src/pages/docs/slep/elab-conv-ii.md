@@ -16,7 +16,11 @@ Los objetivos y metas que se establezcan en el CD, deberán reflejar los desafí
 
 ## Plazos asociados
 
-<img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios SLEP">
+<img src="\images\elab-conv-ii-slep.png" alt="Plazos de elaboración de convenios SLEP">
+
+&nbsp;
+
+ <a href="https://drive.google.com/file/d/14JaNM5loAU-e-y0Cgqo2aZ16VVfFz1ic/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
 
 El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de las dos primeras semanas contadas desde su nombramiento o renovación.
 
