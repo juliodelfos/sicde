@@ -27,7 +27,7 @@ sections:
         image: images/egreso.png
         content: 
       - title: Ley N° 19.882
-        title_url: 'https://drive.google.com/file/d/1rUWViIgFmdDqbo3flCRu9JSy99GY2RiU/view?usp=sharing'
+        title_url: 'https://www.bcn.cl/leychile/navegar?idNorma=211480'
         image: images/ley-19882.png
         content: 
       - title: Reglamento Ley N° 19.882
