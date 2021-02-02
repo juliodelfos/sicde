@@ -11,19 +11,19 @@ sections:
     col_number: three
     grid_items:
       - title: Instructivo de Inducción
-        title_url: 'https://drive.google.com/file/d/125HU_NMG53GsHbsqZQTJ1Jj8eTzy7W7-/view?usp=sharing'
+        title_url: 'https://drive.google.com/file/d/1Tt9qHD1Z7IcmnWo_fp5apITmBaPxLX9w/view?usp=sharing'
         image: images/induccion.png
         content: 
       - title: Instructivo de Elaboración y Evaluación
-        title_url: 'https://drive.google.com/file/d/1xuxIoHSjCBX2pKHUWbWn3KyLRWCM1O28/view?usp=sharing'
+        title_url: 'https://drive.google.com/file/d/1ZOckdtkrL29cDt8JDrIF3LoJLzLy6FK6/view?usp=sharing'
         image: images/elaboracion.png
         content: 
       - title: Instructivo de Formación
-        title_url: 'https://drive.google.com/file/d/1InbRuo2XaAC-MlHmky2NlHKvcC4kwCfL/view?usp=sharing'
+        title_url: 'https://drive.google.com/file/d/1oMisW_WvFFnKfJLchZtJoajkHyJ3fMDj/view?usp=sharing'
         image: images/formacion.png
         content: 
       - title: Protocolo de Egreso
-        title_url: 'https://drive.google.com/file/d/1rUWViIgFmdDqbo3flCRu9JSy99GY2RiU/view?usp=sharing'
+        title_url: 'https://drive.google.com/file/d/1iMDyeiA0A8VjF8CiL16kMr8jyZdjfsM7/view?usp=sharing'
         image: images/egreso.png
         content: 
       - title: Ley N° 19.882
