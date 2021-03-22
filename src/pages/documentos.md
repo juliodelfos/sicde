@@ -11,7 +11,7 @@ sections:
     col_number: three
     grid_items:
       - title: Instructivo de Inducción
-        title_url: '\documentos\induccion.pdf'
+        title_url: '../static/assets/documentos/instructivo.pdf'
         image: images/induccion.png
         content: 
       - title: Instructivo de Elaboración y Evaluación
