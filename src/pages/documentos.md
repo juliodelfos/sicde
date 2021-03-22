@@ -11,7 +11,7 @@ sections:
     col_number: three
     grid_items:
       - title: Instructivo de Inducción
-        title_url: 'https://drive.google.com/file/d/1Tt9qHD1Z7IcmnWo_fp5apITmBaPxLX9w/view?usp=sharing'
+        title_url: '\documentos\induccion.pdf'
         image: images/induccion.png
         content: 
       - title: Instructivo de Elaboración y Evaluación
