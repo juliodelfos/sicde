@@ -89,7 +89,7 @@ La misma plataforma permite revisar la «Guía uso Informe Anexo de Gestión» l
 
 No todas las subdimensiones aplican para todos los cargos, por lo que instamos a rellenar según las responsabilidades de cada función. En caso de un ADP considere que la subdimensión descrita no aplica a su cargo, simplemente debe considerar la opción «No aplica».
 
-Es necesario rellenar esta guía con una de las 4 opciones. En caso de que se seleccione nivel 1 ó 3 debe, además, el sistema solicita que se escriba alguna justificación. La evidencia es optativa, pero altamente recomendado.
+Es necesario rellenar esta guía con una de las 4 opciones. En caso de que se seleccione nivel 1 ó 3 debe, además, el sistema solicita que se escriba alguna justificación. La evidencia es optativa sólo en los niveles 2 o «No aplica» y obligatoria en los niveles 1 ó 3.
 
 El sistema solicita realizar alguna retroalimentación general de la evaluación de las dimensiones. El recuadro se encuentra ubicado entre la parte final de la evaluación del CD y el inicio del Informe Anexo de Gestión.
 
