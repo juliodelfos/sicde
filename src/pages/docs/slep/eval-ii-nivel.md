@@ -31,32 +31,6 @@ En los casos de «sobrecumplimiento», vale decir, un ADP que cumpla más del 10
 Para hacer envío del documento a la jefatura, se debe presionar «Guardar y Firmar».
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0c9gSbzO4n4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Informe Anexo de Gestión
-
-El Informe de Anexo de Gestión tiene por objetivo que los ADP puedan dar a conocer anualmente los resultados anuales en distintos ámbitos de su desempeño anual a su jefatura directa, reflejando el aporte de la gestión del directivo a la generación del valor público, hecho que no siempre se ve reflejado en el Convenio de Desempeño.
-
-El informe anexo de gestión sólo se realiza para la evaluación anual. Sus resultados no tienen implicancia en la renta del ADP.
-La finalidad de este informe, es ser un complemento al convenio de desempeño, resaltando aspectos más cualitativos que son propios del Modelo de Acompañamiento y Desarrollo, logrando de esta manera una evaluación integral de los altos directivos públicos.
-
-A diferencia del proceso de evaluación del Convenio de Desempeño, el Informe Anexo establece cuáles son los niveles de cumplimiento para cada subdimensión. La escala es de 1 a 3 —donde 3 es «Destacado» y 1 es «Por mejorar» — considerando además un «No aplica».
-
-La misma plataforma permite revisar la «Guía uso Informe Anexo de Gestión» la cual también se adjunta aquí.
-
-No todas las subdimensiones aplican para todos los cargos, por lo que instamos a rellenar según las responsabilidades de cada función. En caso de un ADP considere que la subdimensión descrita no aplica a su cargo, simplemente debe considerar la opción «No aplica».
-
-Es necesario rellenar esta guía con una de las 4 opciones. En caso de que se seleccione nivel 1 ó 3 debe, además, el sistema solicita que se escriba alguna justificación. La evidencia es optativa sólo en los niveles 2 o «No aplica» y obligatoria en los niveles 1 ó 3.
-
-El sistema solicita realizar alguna retroalimentación general de la evaluación de las dimensiones. El recuadro se encuentra ubicado entre la parte final de la evaluación del CD y el inicio del Informe Anexo de Gestión.
-
-Una vez rellenado todos los campos se debe presionar «Guardar y firmar», acción que lo redirigirá a un sitio en el cual se despliega una previsualización de la evaluación y se solicita nuevamente la clave por motivos de seguridad y evitar errores al igual que sucede al momento de subir un Convenio de Desempeño
-
-Luego de ingresada la contraseña y presionado «Firmar», el documento será derivado automáticamente hacia el Jefe/a de Servicio para su revisión y aprobación.
-
-Una vez que es enviada la evaluación, SICDE dirige el documento hacia Jefe/a de Servicio. De manera automática, le aparece una nueva tarea en su página de inicio de SICDE y se le notifica con un correo electrónico.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a5JegWG2ehk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Revisión por parte de Jefe/a de Servicio
 
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un/a Jefe/a de Servicio. </div>
@@ -78,6 +52,9 @@ La evaluación queda registrada en SICDE y no es necesario otro paso extra por p
 ## Evaluación anual
 
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión.
+
+<img src="\images\eval-anual-adp.png" alt="Plazos de evaluación de convenios SLEP">
+
 En términos prácticos, el proceso de evaluación anual se inicia con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación, continúa con la revisión desde el ministerio correspondiente y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de evaluación ministerial.
 
 ### Caracterización del proceso
@@ -117,7 +94,7 @@ La misma plataforma permite revisar la «Guía uso Informe Anexo de Gestión» l
 
 No todas las subdimensiones aplican para todos los cargos, por lo que instamos a rellenar según las responsabilidades de cada función. En caso de un ADP considere que la subdimensión descrita no aplica a su cargo, simplemente debe considerar la opción «No aplica».
 
-Es necesario rellenar esta guía con una de las 4 opciones. En caso de que se seleccione nivel 1 ó 3 debe, además, el sistema solicita que se escriba alguna justificación. La evidencia es optativa, pero altamente recomendado.
+Es necesario rellenar esta guía con una de las 4 opciones. En caso de que se seleccione nivel 1 ó 3 debe, además, el sistema solicita que se escriba alguna justificación. La evidencia es optativa sólo en los niveles 2 o «No aplica» y obligatoria en los niveles 1 ó 3.
 
 El sistema solicita realizar alguna retroalimentación general de la evaluación de las dimensiones. El recuadro se encuentra ubicado entre la parte final de la evaluación del CD y el inicio del Informe Anexo de Gestión.
 
