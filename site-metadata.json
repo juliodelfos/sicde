@@ -87,7 +87,7 @@
     "footer": {
         "content": "Centro de Ayuda SICDE. Dirección Nacional del Servicio Civil.",
         "links": [],
-        "has_social": true,
+        "has_social": false,
         "social_links": []
     },
     "title": "Centro de Ayuda SICDE"
