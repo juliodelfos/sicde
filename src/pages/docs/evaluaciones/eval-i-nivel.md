@@ -14,6 +14,10 @@ En términos prácticos, el proceso de evaluación anual se inicia con la llegad
   El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP de I nivel.
 </div>
 
+<img src="\images\eval-anual-adp.png" alt="Plazos de evaluación de convenios ADP">
+<br>
+<br>
+
 Para ingresar a la evaluación anual, se debe presionar el botón azul «Procesar» que se muestra al momento de ingresar a SICDE. Si presionas sobre las letras azul «Evaluación Convenio de Desempeño» lo llevará al mismo sitio.
 
 En la última columna del formulario desplegado, aparece en letras azules la opción «Indicar Avance», el cual debe ser presionado para rellenar los campos que dan cuenta del porcentaje de avance.
