@@ -10,14 +10,14 @@ Los plazos mostrados aquí son en base a la lectura del Artículo N° 25 de la L
 Los convenios de gestión educacional de los II niveles de los Servicios Locales de Educación tienen una duración de 3 años.
 
 ## Descripción del proceso
-El convenio de desempeño (CD) es un instrumento de gestión que orienta al ADP en el cumplimiento de los desafíos que le exige su cargo y le fija objetivos estratégicos de gestión por los cuales éste será retroalimentado y evaluado periódicamente. En definitiva, el CD facilita la <mark>rendición de cuentas efectiva y transparente tanto al ministro/a del ramo o jefe/a superior de servicio, según corresponda, así como a la ciudadanía</mark>.
+El convenio de desempeño (CD) es un instrumento de gestión que orienta al ADP en el cumplimiento de los desafíos que le exige su cargo y le fija objetivos estratégicos de gestión por los cuales éste será retroalimentado y evaluado periódicamente. En definitiva, el <acronym title="Convenio de desempeño">CD</acronym> facilita la <mark>rendición de cuentas efectiva y transparente tanto al ministro/a del ramo o jefe/a superior de servicio, según corresponda, así como a la ciudadanía</mark>.
 
 Los objetivos y metas que se establezcan en el CD, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
 
 ## Plazos asociados
-El CD deberá ser propuesto por la jefatura al ADP, a más tardar dentro de las dos primeras semanas contadas desde su nombramiento o renovación.
+El <acronym title="Convenio de desempeño">CD</acronym> deberá ser propuesto por la jefatura al ADP, a más tardar dentro de las dos primeras semanas contadas desde su nombramiento o renovación.
 
-El plazo máximo para la suscripción del CD es de treinta días hábiles, contados desde el nombramiento o renovación del ADP.
+El plazo máximo para la suscripción del <acronym title="Convenio de desempeño">CD</acronym> es de treinta días hábiles, contados desde el nombramiento o renovación del ADP.
 
 La autoridad respectiva deberá comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días, contados desde el nombramiento o renovación del directivo.
 
@@ -36,12 +36,12 @@ Para realizar la “carga” del conviene se debe seleccionar la opción «Agreg
 
 ::VIDEO LOOM::
 
-<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por <acronym title="Convenio de desempeño">CD</acronym> son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
 Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
 
 * *Previsualizar*: genera un documento PDF con toda la información ingresada.
-* *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de CD en diferentes momentos.
+* *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de <acronym title="Convenio de desempeño">CD</acronym> en diferentes momentos.
 * *Cerrar*: termina con la acción que se estaba realizando sin guardar.
 * *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
 
@@ -61,7 +61,7 @@ Una propuesta de convenio puede ser aprobada en primera instancia si es que la r
 La aprobación del convenio da como resultado la tarea de subir el convenio firmado y la resolución que lo aprueba a SICDE. Esta labor debe ser hecha por la contraparte de convenios titular del servicio o ministerio, según corresponda.
 
 ### Convenio es comentado
-En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de CD es devuelta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. 
+En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de <acronym title="Convenio de desempeño">CD</acronym> es devuelta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. 
 La contraparte tendrá la posibilidad de ver estos comentarios e incluso responderlo a través de la misma plataforma.
 Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
 Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
@@ -69,12 +69,12 @@ Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar �
 ::AÑADIR FLUJO::
 
 # Fin del proceso: suscripción, firma y comunicación del convenio
-Una vez que la propuesta de CD es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular de convenios. 
+Una vez que la propuesta de <acronym title="Convenio de desempeño">CD</acronym> es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular de convenios. 
 
 ::PANTALLAZO::
 
 La tarea corresponde a la subida del convenio firmado por el Jefe/a de Servicio y el Jefe/a de Unidad, es decir, el convenio suscrito. 
-Junto al CD suscrito se debe subir la resolución exenta que aprueba este convenio. 
+Junto al <acronym title="Convenio de desempeño">CD</acronym> suscrito se debe subir la resolución exenta que aprueba este convenio. 
 SICDE permite la subida de un documento anexo en caso de ser necesario. Este es el único campo no obligatorio.
 
 <div class=“note”><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>

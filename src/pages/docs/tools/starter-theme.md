@@ -7,17 +7,17 @@ El Artículo N° 40 de la Ley N° 21.040 establece los plazos de elaboración y 
 
 Los objetivos y metas que se establezcan en el CGE, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
 
-Además, los CGE deberán tener en consideración las políticas nacionales de educación pública establecidas por el Ministerio de Educación, así como las especificidades del territorio del Servicio Local respectivo, considerando al menos la calidad y eficiencia, equidad y cobertura del servicio educacional. Asimismo, se deberán considerar los informes que emitan las instituciones del Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media. Respecto de los establecimientos educacionales, el convenio deberá fijar objetivos y metas específicas orientadas al mejoramiento de su desempeño, teniendo en especial consideración a los ordenados en categoría insuficiente, de acuerdo a la ley Nº 20.529.
+Además, los <acronym title="Convenio de Gestión Educacional">CGE</acronym> deberán tener en consideración las políticas nacionales de educación pública establecidas por el Ministerio de Educación, así como las especificidades del territorio del Servicio Local respectivo, considerando al menos la calidad y eficiencia, equidad y cobertura del servicio educacional. Asimismo, se deberán considerar los informes que emitan las instituciones del Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media. Respecto de los establecimientos educacionales, el convenio deberá fijar objetivos y metas específicas orientadas al mejoramiento de su desempeño, teniendo en especial consideración a los ordenados en categoría insuficiente, de acuerdo a la ley Nº 20.529.
 
 # Plazos asociados
 Los convenios de gestión educacional de los/as Directores/as Ejecutivos/as tienen una duración de 6 años.
 
 Una vez que el Director/a Ejecutivo/a sea nombrado, la Dirección de Educación Pública deberá entregar un propuesta de convenio de desempeño educacional en un plazo máximo de 30 días. 
-Una vez cumplido este plazo, el Director/a Ejecutivo/a nombrado tendrá plazo máximo de 2 semanas para revisar, comentar y proponer mejoras al CGE propuesto.
+Una vez cumplido este plazo, el Director/a Ejecutivo/a nombrado tendrá plazo máximo de 2 semanas para revisar, comentar y proponer mejoras al <acronym title="Convenio de Gestión Educacional">CGE</acronym> propuesto.
 
 A pesar de que el convenio es propuesto por la Dirección de Educación Pública, la suscripción del convenio debe ser entre el Director/a Ejecutivo/a entrante y el Ministro/a de Educación, añadiendo un nuevo actor en este proceso. El proceso de suscripción puede durar como máximo 3 meses contados desde la fecha de nombramiento. 
 
-Para finalizar el proceso, el Ministro/a de Educación debe emitir una resolución exenta que apruebe el CGE suscrito y comunicar al Servicio Civil de esto en un plazo máximo de 90 días hábiles contados desde el nombramiento del Director/a Ejecutivo/a. Con comunicación se entiende la subida a la plataforma SICDE de la resolución exenta, el convenio suscrito y anexos en caso de ser necesario.
+Para finalizar el proceso, el Ministro/a de Educación debe emitir una resolución exenta que apruebe el <acronym title="Convenio de Gestión Educacional">CGE</acronym> suscrito y comunicar al Servicio Civil de esto en un plazo máximo de 90 días hábiles contados desde el nombramiento del Director/a Ejecutivo/a. Con comunicación se entiende la subida a la plataforma SICDE de la resolución exenta, el convenio suscrito y anexos en caso de ser necesario.
 
 Según el artículo sexagésimo segundo de la ley Nº 19.882 la autoridad que no cumpla con esta obligación será sancionada con una multa de entre el 20% al 50% por ciento de su remuneración.
 
@@ -34,12 +34,12 @@ Para realizar la “carga” del conviene se debe seleccionar la opción «Agreg
 
 ::VIDEO LOOM::
 
-<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por CD son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
+<div class=“important”><strong>Importante:</strong> Tanto los objetivos como los indicadores pueden tener una ponderación mínima de 10% y máxima de 30%. De esta forma, el máximo de indicadores por objetivos son 3 (de 10% cada uno), mientras que el máximo de objetivos por <acronym title="Convenio de desempeño">CD</acronym> son 10 (de 10% cada uno). Este proceso se repite por cada uno de los objetivos e indicadores que se consideren para el Convenio de Desempeño.</div>
 
 Una vez que se rellenaron los campos necesarios, el sistema permite realizar cuatro acciones:
 
 * *Previsualizar*: genera un documento PDF con toda la información ingresada.
-* *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de CD en diferentes momentos.
+* *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de <acronym title="Convenio de desempeño">CD</acronym> en diferentes momentos.
 * *Cerrar*: termina con la acción que se estaba realizando sin guardar.
 * *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
 
@@ -62,7 +62,7 @@ Una propuesta de convenio puede ser aprobada en primera instancia si es que la r
 La aprobación del convenio da como resultado la tarea de subir el convenio firmado y la resolución que lo aprueba a SICDE. Esta labor debe ser hecha por la contraparte de convenios titular del Ministerio de Educación.
 
 ## Convenio es comentado
-En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de CD o CGE es devuelvta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. 
+En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de <acronym title="Convenio de desempeño">CD</acronym> o <acronym title="Convenio de Gestión Educacional">CGE</acronym> es devuelvta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. 
 La contraparte tendrá la posibilidad de ver estos comentarios e incluso responderlo a través de la misma plataforma.
 Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
 Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
@@ -72,12 +72,12 @@ Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar �
 Esto quiere decir que si bien es la Dirección de Educación Pública la encargada de subir la propuesta de convenio, es el Ministerio de Educación el responsable de definir los firmantes del convenio y subir la resolución y el convenio firmado a la plataforma SICDE, como se verá en el siguiente apartado.
 
 # Fin del proceso: suscripción, firma y comunicación del convenio
-Una vez que la propuesta de CGE es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular del Ministerio de Educación. 
+Una vez que la propuesta de <acronym title="Convenio de Gestión Educacional">CGE</acronym> es aprobada por el Consultor/a DNSC, SICDE activa automáticamente una nueva tarea a la contraparte titular del Ministerio de Educación. 
 
 ::PANTALLAZO::
 
 La tarea corresponde a la subida del convenio firmado por el Director/a Ejecutivo/a y el Ministro/a de Educación.
-Junto al CGE suscrito se debe subir la resolución exenta que aprueba este instrumento. 
+Junto al <acronym title="Convenio de Gestión Educacional">CGE</acronym> suscrito se debe subir la resolución exenta que aprueba este instrumento. 
 SICDE permite la subida de un documento anexo en caso de ser necesario, como puede ser el documento que específica los subíndices de los indicadores del convenio. Este es el único campo no obligatorio.
 
 <div class=“note”><strong>Nota:</strong> Se consideran válidos los documentos firmados física o digitalmente, aunque por ahora SICDE no integra firma electrónica avanzada.</div>

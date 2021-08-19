@@ -50,11 +50,11 @@ La ficha del directivo, es un reporte de SICDE que permite visualizar el conveni
 Permite a la contraparte de convenios y/o a la de evaluaciones, ver el estado de todos los convenios o evaluaciones de los ADP de II nivel de su servicio, para poder hacer una mejor gestión en el caso de los convenios, y hacer seguimiento de los medios de verificación reportados a la autoridad en el caso de de las evaluaciones.
 
 ### ¿Puedo trabajar en el SICDE sin enviar lo avanzado inmediatamente al Servicio Civil?
-SICDE permite avanzar en la subida de la propuesta de CD o la evaluación anual o semestral sin hacer envío a Consultor del Servicio Civil o a la Autoridad. Para esto, sólo basta presionar «Guardar» (no «Guardar y Firmar»).
+SICDE permite avanzar en la subida de la propuesta de <acronym title="Convenio de desempeño">CD</acronym> o la evaluación anual o semestral sin hacer envío a Consultor del Servicio Civil o a la Autoridad. Para esto, sólo basta presionar «Guardar» (no «Guardar y Firmar»).
 
 
 ### ¿El sistema sustituye el envío de la REX en papel?
-Si, el sistema sustituye el envío por oficio de la resolución que aprueba el CD y aquella que aprueba el porcentaje de cumplimiento de un ADP. Una vez terminado el proceso, ya sea elaboración o evaluación, la contraparte debe subir la REX correspondiente a SICDE.
+Si, el sistema sustituye el envío por oficio de la resolución que aprueba el <acronym title="Convenio de desempeño">CD</acronym> y aquella que aprueba el porcentaje de cumplimiento de un ADP. Una vez terminado el proceso, ya sea elaboración o evaluación, la contraparte debe subir la REX correspondiente a SICDE.
 
 ### ¿SICDE cuenta con Firma Electrónica Avanzada (FEA)?
 SICDE no cuenta con Firmas Electrónica Avanzada por el momento.
@@ -63,7 +63,7 @@ SICDE no cuenta con Firmas Electrónica Avanzada por el momento.
 Toda la información relativa a este proceso se encuentra contenida en [este apartado](https://sicde.serviciocivl.cl/docs/convenios/elaboracion-suscripcion/#revisi_n_y_aprobaci_n_del_convenio).
 
 ### ¿Qué hago si envié el convenio a revisión del Servicio Civil y posteriormente noto que fue enviado con errores?
-Solamente debes comunicarte con el Consultor del Servicio Civil y comunicarle la situación para que éste haga devolución de la propuesta de CD y procedas a corregir los errores o mejoras.
+Solamente debes comunicarte con el Consultor del Servicio Civil y comunicarle la situación para que éste haga devolución de la propuesta de <acronym title="Convenio de desempeño">CD</acronym> y procedas a corregir los errores o mejoras.
 
 ### ¿Qué pasa si no se da respuesta a las observaciones técnicas del Servicio Civil recibidas por SICDE?
 El Sistema de Información de Convenios y Desarrollo ADP (SICDE), funciona a través del paso de actividades continuas, hasta llegar al producto final que queda disponible para ser impreso o guardado como pdf, para ser presentado al ADP. Si no se da respuesta a través de SICDE a las observaciones del Servicio Civil, la actividad no avanzará y quedará pendiente para la contraparte de convenios en el sistema. Cabe señalar que además, se estaría en incumplimiento del Instructivo para la elaboración de convenios y evaluaciones dictado por Servicio Civil, por ende, de la normativa vigente, que establece la instancia de revisión final por parte de esta institución.
@@ -81,10 +81,10 @@ SICDE bloquea archivos que pesen más de 10 mb o que el título contenga tildes.
 Por regla general, si un ADP cumple con las condiciones para realizar la evaluación en SICDE debe realizarla por la plataforma. Sin perjuicio de esto, en caso de que se presente un problema en SICDE u otro contratiempo mayor, existe la posibilidad de realizar una evaluación vía «papel», la cual se debe realizar con las mismas características de una evaluación por SICDE. Si se presenta una situación de este tipo, debe ser comunicada al Consultor/a para solucionar el problema o coordinar la regularización de la evaluación realizada «en papel».
 
 ### ¿Cómo sé si el convenio o la evaluación se han enviado correctamente al Servicio Civil?
-El sistema muestra un comprobante de envío luego de que haces envío de CD o evaluación.
+El sistema muestra un comprobante de envío luego de que haces envío de <acronym title="Convenio de desempeño">CD</acronym> o evaluación.
 
 ### ¿Cómo puedo modificar un convenio ya suscrito?
-Toda la información respecto a la modificación de CD se encuentra [contenida aquí](https://sicde-cbd8f.netlify.app/docs/convenios/edicion-modificacion/#modificaci_n_de_convenio_de_desempe_o).
+Toda la información respecto a la modificación de <acronym title="Convenio de desempeño">CD</acronym> se encuentra [contenida aquí](https://sicde-cbd8f.netlify.app/docs/convenios/edicion-modificacion/#modificaci_n_de_convenio_de_desempe_o).
 
 ### ¿Debe efectuarse un informe en el SICDE en caso de desvinculación?
 Sí, al momento en que un directivo es desvinculado involuntariamente, o cesa en forma voluntaria de su cargo, debe llevar a cabo un Informe de Cierre en el SICDE, tal como lo establece el artículo 24 del reglamento vigente (Decreto 172).

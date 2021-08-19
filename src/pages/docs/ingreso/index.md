@@ -1,18 +1,17 @@
 ---
 title: Ingreso a SICDE
 excerpt: >-
-  Proceso de ingreso y funciones de contrapartes.
+  Ingreso y funciones de contrapartes
 template: docs
 ---
-La plataforma SICDE se encuentra restringida a los usuarios validados por el Servicio Civil como contrapartes de servicios o ministerios y los ADP vigentes.
-Para ser parte de la plataforma las contrapartes deben ser registradas por un Consultor/a del Servicio Civil. Una vez registradas en SICDE las contrapartes recibirán un correo electrónico de la cuenta procesosintegrados@dnsc.cl con las credenciales de acceso.
+La plataforma SICDE se encuentra restringida a los usuarios validados por el Servicio Civil como contrapartes de servicios o ministerios y ADP vigentes.
 
-En el caso de los ADP éstos reciben sus credenciales de acceso al momento de cumplir seis meses en el cargo. Con esta contraseña podrán registrar su evaluación y revisar el estado de su convenio. Estos puntos serán desarrollados en la sección correspondiente.
+Para ser parte de la plataforma **las contrapartes deben ser nombradas por el o la Jefa de Servicio** correspondiente, informando mediante oficio o correo electrónico al Consultor/a del Servicio Civil a fin de que el funcionario sea añadido a SICDE en el rol definido. Una vez registradas en SICDE las contrapartes recibirán un correo electrónico de la cuenta `procesosintegrados@dnsc.cl` con las credenciales de acceso.
 
-## Cómo ingresar
-Los usuarios, ingresan en el sitio web https://pi.serviciocivil.cl/.
+Por su parte, los ADP recibirán sus credenciales de acceso al momento de cumplir seis meses en el cargo.
 
-Una vez en el sitio, se le solicitará su usuario —que corresponde a su correo electrónico— y su contraseña que ha sido enviada a su correo electrónico registrado.
+## Cómo ingresar a SICDE
+Los usuarios registrados deberán acceder al sitio web https://pi.serviciocivil.cl/ e ingresar las credenciales enviadas al correo electrónico institucional.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/USc0qSMXs4o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

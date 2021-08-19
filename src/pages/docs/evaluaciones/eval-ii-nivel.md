@@ -91,7 +91,7 @@ No todas las subdimensiones aplican para todos los cargos, por lo que instamos a
 
 Es necesario rellenar esta guía con una de las 4 opciones. En caso de que se seleccione nivel 1 ó 3 debe, además, el sistema solicita que se escriba alguna justificación. La evidencia es optativa sólo en los niveles 2 o «No aplica» y obligatoria en los niveles 1 ó 3.
 
-El sistema solicita realizar alguna retroalimentación general de la evaluación de las dimensiones. El recuadro se encuentra ubicado entre la parte final de la evaluación del CD y el inicio del Informe Anexo de Gestión.
+El sistema solicita realizar alguna retroalimentación general de la evaluación de las dimensiones. El recuadro se encuentra ubicado entre la parte final de la evaluación del <acronym title="Convenio de desempeño">CD</acronym> y el inicio del Informe Anexo de Gestión.
 
 Una vez rellenado todos los campos se debe presionar «Guardar y firmar», acción que lo redirigirá a un sitio en el cual se despliega una previsualización de la evaluación y se solicita nuevamente la clave por motivos de seguridad y evitar errores al igual que sucede al momento de subir un Convenio de Desempeño
 
