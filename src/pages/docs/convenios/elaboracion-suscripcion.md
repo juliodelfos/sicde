@@ -12,7 +12,7 @@ El <acronym title="Convenio de desempeño">CD</acronym> deberá ser propuesto po
 
 &nbsp;
 
-<a href="https://drive.google.com/file/d/1u9Y9Wi3pisvrVabrJ4iHyXvuQiPILKJw/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
+<a href="/images/elab-conv-adp.png" class="button" target="_blank">Descargar en alta resolución</a>
 
 La autoridad respectiva deberá **comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días**, contados desde el nombramiento o renovación del directivo.
 
