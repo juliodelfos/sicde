@@ -5,7 +5,7 @@ template: docs
 ---
 La evaluación anual inicia el mismo día de cumplimiento del año de gestión.
 
-En términos prácticos, el proceso de evaluación anual comienza con la llegada de una alerta vía correo al ADP de II nivel que le corresponda realizar la evaluación, continúa con la revisión por parte del Jefe/a de Servicio y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas últimas dos acciones son realizadas por la contraparte de evaluación del servicio.
+En términos prácticos, el proceso de evaluación anual comienza con la llegada de una alerta vía correo al ADP de II nivel que le informa que le corresponde realizar la evaluación, continúa con la revisión por parte del Jefe/a de Servicio y finaliza con la subida de la resolución que aprueba el porcentaje de evaluación. Estas dos últimas acciones son realizadas por la contraparte de evaluación del servicio.
 
 El siguiente proceso aplica para todos los ADP de II nivel **incluyendo a los directivos pertenecientes a los SLEP**. Sin perjuicio de esto, hemos desarrollado un [apartado específico](/docs/slep/eval-ii-nivel/) donde se encuentran aún más detalles sobre el proceso de evaluación anual y parcial para este grupo de ADP.
 
@@ -17,18 +17,18 @@ El siguiente proceso aplica para todos los ADP de II nivel **incluyendo a los di
 
 <a href="/images/eval-anual-adp.png" class="button" target="_blank">Descargar en alta resolución</a>
 
-## Descripción del proceso de autoevaluación
+## Autoevaluación
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un ADP.</div>
 
 Para ingresar a la evaluación anual se debe presionar el botón azul `Procesar` o `Evaluación Convenio de Desempeño` que se muestra al momento de ingresar a SICDE.
 
 En la última columna del formulario desplegado aparece en letras azules la opción `Indicar Avance`, el cual debe ser presionado para rellenar los campos que dan cuenta del porcentaje de avance.
 
-Al momento de subir los medios de verificación, es importante tener en cuenta que **SICDE soporta archivos de hasta 30mb cada uno**. Por motivos de seguridad acepta todos los formatos, excepto .zip, .rar (carpetas comprimidas) y .txt (block de notas).
+Al momento de subir los medios de verificación, es importante tener en cuenta que **SICDE soporta archivos de hasta 30mb cada uno**. Por motivos de seguridad acepta todos los formatos, excepto `.zip`, `.rar` (carpetas comprimidas) y `.txt` (block de notas).
 
 Terminada la carga de información en el indicador se debe presionar el botón `Continuar`, lo que permite mostrar el contenido reportado al interior de las columnas del formulario.
 
-En los casos de sobrecumplimiento, vale decir, indicadores que tengan un porcentaje de avance mayor al 100%, el porcentaje a color debe ser 100%.
+En los casos de sobrecumplimiento, vale decir, indicadores que tengan un porcentaje de avance mayor al 100%, el porcentaje a ingresar debe ser 100%.
 
 El nivel de cumplimiento global se calculará multiplicando el porcentaje de cumplimiento efectivo de cada una de las metas de gestión, por el ponderador que le haya sido asignado, sumándose luego todos estos resultados parciales, expresándose en un valor porcentual acumulado final.
 
@@ -47,6 +47,8 @@ No todas las subdimensiones aplican para todos los cargos, por lo que **instamos
 
 El relleno de este informe es obligatorio y, en caso de que la opción seleccionada sea 1 ó 3, se debe escriba alguna justificación y adjuntar un medio de verificación. En el resto de los niveles ni la justificación ni el medio de verificación son obligatorios.
 
+<a href="https://drive.google.com/file/d/12LlDSPA4edCGZ8MmEvCCPlgqQCcDdJ_N/view" class="button" target="_blank">Descargar Guía de uso de Informe Anexo</a>
+
 ### Finalización del proceso de autoevaluación
 
 Una vez rellenado todos los campos se debe presionar el botón de la parte final del sitio llamado `Guardar y firmar`. Esta acción redirigirá a un sitio en el cual se despliega una previsualización de la evaluación en formato PDF y se solicita nuevamente la clave a modo de confirmación.
@@ -55,7 +57,7 @@ Luego de ingresada la contraseña y presionado `Firmar` el documento será deriv
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a5JegWG2ehk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Validación por parte del Jefe/a de Servicio
+## Aprobación de autoevaluación
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de un/a Jefe/a de Servicio.</div>
 
 Una vez que el ADP de II nivel haya guardado y enviado su autoevaluación según lo explicado en el apartado anterior, **el o la Jefa de Servicio recibirá un correo electrónico** en donde se indica que uno de sus ADP de II nivel ha realizado su autoevaluación y se le invita a ingresar al sistema para poder realizar la retroalimentación correspondiente.
@@ -65,6 +67,8 @@ Una vez que el ADP de II nivel haya guardado y enviado su autoevaluación según
 En caso de que lo determine, el o la Jefa de Servicio podrá realizar comentarios o devolver la evaluación al II nivel. Para esto **deberá presionar el botón `Devolver` que aparece al inicio del formulario e ingresar los motivos por los que se está devolviendo la autoevaluación** al ADP de II nivel. Esta acción permite que el ADP de II nivel responda los comentarios del Jefe/a de Servicio y corrija la información ingresada en caso de ser necesario, reiniciando el proceso ya descrito.
 
 <div class="important"><strong>Nota:</strong> La devolución de la evaluación borra la información ingresada en cada indicador por el Jefe/a de Servicio, reemplazando toda esa información por un comentario general.</div>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PbEVs_WPTD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Revisión
 En el formulario desplegado en pantalla existe un apartado denominado `Autoevaluación`, en donde se encuentra el porcentaje de avance (`% de Avance`), las observaciones y medios de verificación reportados por el ADP de II nivel en su autoevaluación.
@@ -79,11 +83,11 @@ Una vez rellenado todos los campos se debe presionar el botón de la parte final
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7j-8HHUptlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Resolución
+## Carga de Resolución Exenta
 <div class="note"><strong>Nota:</strong> El siguiente apartado muestra el proceso de evaluación desde el perfil de la contraparte de evaluación.</div>
 
 Una vez finalizada la revisión por parte del Jefe/a de Servicio, corresponderá a la contraparte de evaluación cargar la resolución que aprueba el porcentaje final de evaluación anual del ADP de II nivel, a través de la tarea desplegada en pantalla denominada `Subir resolución firmada`.
 
 Ingresando a esta opción se despliega la opción para cargar el acto administrativo correspondiente. Junto a este archivo, se debe incluir la fecha de la resolución y el número de ella.
 
-Guardada esta información el Consultor/a DNSC deberá revisar si la documentación fue cargada correctamente. En caso de no presentar errores se aprobará y registrará a través del mismo sisema en la Oficina de Partes del Servicio Civil. En caso contrario, podrá devolver la evaluación al ADP de I nivel o al ADP de II nivel, según sea la situación.
+Guardada esta información el Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> deberá revisar si la documentación fue cargada correctamente. En caso de no presentar errores se aprobará y registrará a través del mismo sisema en la Oficina de Partes del Servicio Civil. En caso contrario, podrá devolver la evaluación al ADP de I nivel o al ADP de II nivel, según sea la situación.

@@ -20,7 +20,7 @@ Una vez presionada la opción «Indicar Avance», se despliega una ventana donde
 
 Todos estos campos son obligatorios para continuar con el proceso.
 
-Pueden ser adjuntados más de un medio de verificación de hasta 30 mb cada uno. Acepta todos los formatos, excepto .zip, .rar (carpetas comprimidas) y .txt (block de notas).
+Pueden ser adjuntados más de un medio de verificación de hasta 30 mb cada uno. Acepta todos los formatos, excepto `.zip`, `.rar` (carpetas comprimidas) y `.txt` (block de notas).
 
 <div class="note"><strong>Nota:</strong> El porcentaje reportado en la opción «Indicar Avance» debe ser el porcentaje de cumplimiento alcanzado para cada una de las metas comprometidas en cada año de gestión. Por ejemplo: si el porcentaje comprometido era un 80% y lo alcanzado fue 80% o más, el porcentaje de avance a indicar es un 100%. </div>
 

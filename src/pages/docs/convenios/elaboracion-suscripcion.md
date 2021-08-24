@@ -33,7 +33,7 @@ Una vez que se rellenaron los campos necesarios, el sistema permite realizar cua
 - **Previsualizar**: genera un documento PDF con toda la información ingresada.
 - **Guardar**: permite salvar el documento en la sesión propia. No envía el documento al Consultor de la DNSC, lo que permite trabajar la propuesta de <acronym title="Convenio de desempeño">CD</acronym> en diferentes momentos.
 - **Cerrar**: termina con la acción que se estaba realizando sin guardar.
-- **<mark>Guardar y firmar</mark>**: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
+- **<mark>Guardar y firmar</mark>**: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> se solicitará nuevamente la clave de ingreso.
 
 Finalizado este paso aparecerá una confirmación de envío del documento. Desde este punto, el Consultor del Servicio Civil tiene un plazo de **5 días hábiles para su revisión y/o aprobación**.
 
@@ -43,7 +43,7 @@ Finalizado este paso aparecerá una confirmación de envío del documento. Desde
 
 ## Revisión y aprobación del convenio
 
-La acción `Guardar y firmar` deriva la propuesta de convenio al Consultor/a DNSC para su revisión. El Consultor/a tendrá la posibilidad de ingresar comentarios técnicos y de forma a la propuesta de CD, solicitando modificaciones al documento en la línea de mejorar la redacción, la complejidad de los objetivos, la fórmula de cálculo, los supuestos u otros elementos que se estimen pertinentes.
+La acción `Guardar y firmar` deriva la propuesta de convenio al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> para su revisión. El Consultor/a tendrá la posibilidad de ingresar comentarios técnicos y de forma a la propuesta de CD, solicitando modificaciones al documento en la línea de mejorar la redacción, la complejidad de los objetivos, la fórmula de cálculo, los supuestos u otros elementos que se estimen pertinentes.
 
 De este proceso de revisión, pueden suscitar tres posibles escenarios:
 
@@ -51,18 +51,18 @@ De este proceso de revisión, pueden suscitar tres posibles escenarios:
 
 Los convenios de I nivel, es decir, de Jefes/as de Servicio, pueden ser derivados en primera instancia al Ministerio Secretaría General de la Presidencia (SEGPRES), con el fin de que ingresen comentarios que complementen la propuesta de convenio, entregando una mirada desde el Programa de Gobierno a los convenios de desempeño y de gestión educacional.
 
-SEGPRES contará con un plazo máximo de una semana para ingresar comentarios. En caso de que ese plazo sea superado el Consultor/a DNSC continuará con el proceso a fin de no producir retrasos.
+SEGPRES contará con un plazo máximo de una semana para ingresar comentarios. En caso de que ese plazo sea superado el Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> continuará con el proceso a fin de no producir retrasos.
 
 ### 2. Aprobación del convenio
 
-Una propuesta de convenio puede ser aprobada en primera instancia si es que la revisión técnica del Consultor/a DNSC así lo estima.
+Una propuesta de convenio puede ser aprobada en primera instancia si es que la revisión técnica del Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> así lo estima.
 La aprobación del convenio da como resultado la tarea de subir el convenio firmado y la resolución que lo aprueba a SICDE. Esta labor debe ser hecha por la contraparte de convenios titular del servicio o ministerio, según corresponda.
 
 ### 3. Convenio es comentado
 
 En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de <acronym title="Convenio de desempeño">CD</acronym> será devuelta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. La contraparte tendrá la posibilidad de ver y/o responder estos comentarios a través de la misma plataforma.
 
-Para responder o añadir las sugerencias realizadas, la contraparte deberá ingresar nuevamente a la opción `Generar Propuesta de Convenio` y seguir los mismos pasos que realizó al momento de la carga inicial del convenio. Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar `Guardar y firmar`. Esta acción activa nuevamente la tarea al Consultor/a DNSC, reiniciando el proceso de revisión y/o aprobación.
+Para responder o añadir las sugerencias realizadas, la contraparte deberá ingresar nuevamente a la opción `Generar Propuesta de Convenio` y seguir los mismos pasos que realizó al momento de la carga inicial del convenio. Para hacer envío al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> la contraparte debe nuevamente presionar `Guardar y firmar`. Esta acción activa nuevamente la tarea al Consultor/a DNSC, reiniciando el proceso de revisión y/o aprobación.
 
 ## Suscripción, firma y comunicación del convenio
 
@@ -79,7 +79,7 @@ Lo primero que corresponde hacer es definir los firmantes. Para esto, se debe se
 
 Una vez rellenada y guardada esta información se debe proceder a subir el convenio, su resolución y un anexo en caso de ser necesario. Para esto, se debe presionar el botón `Subir convenio firmado`.
 
-Con esta acción los documentos subidos serán derivados al Consultor/a DNSC para su revisión, el cual podría devolverlos en caso de encontrar alguna inconsistencia, error o mala resolución que impida la correcta lectura del instrumento.
+Con esta acción los documentos subidos serán derivados al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> para su revisión, el cual podría devolverlos en caso de encontrar alguna inconsistencia, error o mala resolución que impida la correcta lectura del instrumento.
 
 La aprobación de los documentos da como resultado el **registro de ellos en la Oficina de Partes** del Servicio Civil y, por tanto, se entiende como comunicados según lo estipulado en la ley Nº 19.882, **no habiendo necesidad de hacer envío por plataformas digitales ni oficio físico de lo cargado en plataforma**.
 

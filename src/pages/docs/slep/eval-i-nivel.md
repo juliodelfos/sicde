@@ -47,7 +47,7 @@ En la última columna del formulario desplegado, aparece en letras azules la opc
 
 <div class="note"><strong>Nota:</strong> El porcentaje reportado en la opción «Indicar Avance» debe ser el porcentaje de cumplimiento alcanzado para cada una de las metas comprometidas en cada año de gestión. Por ejemplo: si el porcentaje comprometido era un 80% y lo alcanzado fue 80% o más, el porcentaje de avance a indicar es un 100%. </div>
 
-Al momento de subir los medios de verificación, es importante tener en cuenta que SICDE soporta archivos de hasta 30 mb cada uno. Por motivos de seguridad acepta todos los formatos, excepto .zip, .rar (carpetas comprimidas) y .txt (block de notas).
+Al momento de subir los medios de verificación, es importante tener en cuenta que SICDE soporta archivos de hasta 30 mb cada uno. Por motivos de seguridad acepta todos los formatos, excepto `.zip`, `.rar` (carpetas comprimidas) y `.txt` (block de notas).
 
 Terminada la carga de información en el indicador, se debe presionar el botón «Continuar». Ahora verás que el contenido se muestra dentro de las columnas del formulario.
 Se debe tener presente que al presionar «Continuar» no se guarda la información, pues para esto debes dirigirte al final del formulario y presionar el botón «Guardar». Esto permite que toda la información que hayas ingresado hasta ese momento quede registrada y pueda, por ejemplo, continuar en otro momento.
@@ -110,7 +110,7 @@ Una vez presionada la opción «Indicar Avance», se despliega una ventana donde
 
 Todos estos campos son obligatorios para continuar con el proceso.
 
-Pueden ser adjuntados más de un medio de verificación de hasta 30 mb cada uno. Acepta todos los formatos, excepto .zip, .rar (carpetas comprimidas) y .txt (block de notas).
+Pueden ser adjuntados más de un medio de verificación de hasta 30 mb cada uno. Acepta todos los formatos, excepto `.zip`, `.rar` (carpetas comprimidas) y `.txt` (block de notas).
 
 <div class="note"><strong>Nota:</strong> El porcentaje reportado en la opción «Indicar Avance» debe ser el porcentaje de cumplimiento alcanzado para cada una de las metas comprometidas en cada año de gestión. Por ejemplo: si el porcentaje comprometido era un 80% y lo alcanzado fue 80% o más, el porcentaje de avance a indicar es un 100%. </div>
 

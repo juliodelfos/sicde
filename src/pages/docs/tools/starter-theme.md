@@ -5,7 +5,7 @@ template: docs
 ---
 El Artículo N° 40 de la Ley N° 21.040 establece los plazos de elaboración y suscripción de los convenios de gestión educacional (CGE) de los I niveles de los Servicios Locales de Educación. El proceso involucra un recogimiento de las apreciaciones de los Comités Directivos Locales y los Consejos Locales, el cual es coordinado por la Dirección de Educación Pública.
 
-Los objetivos y metas que se establezcan en el CGE, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
+Los objetivos y metas que se establezcan en el<acronym title="Convenio de Gestión Educacional">CGE</acronym>, deberán reflejar los desafíos del cargo y lineamientos para el convenio establecido en el perfil respectivo. Además, deberán reflejar los lineamientos de política pública, las prioridades e indicadores gubernamentales fijados por la autoridad respectiva, los objetivos estratégicos institucionales, y las funciones estratégicas del cargo, expresando el aporte clave que se espera que el directivo realice a la institución, con el fin de conducirla hacia mayores niveles de eficacia, eficiencia, gobernanza e integridad.
 
 Además, los <acronym title="Convenio de Gestión Educacional">CGE</acronym> deberán tener en consideración las políticas nacionales de educación pública establecidas por el Ministerio de Educación, así como las especificidades del territorio del Servicio Local respectivo, considerando al menos la calidad y eficiencia, equidad y cobertura del servicio educacional. Asimismo, se deberán considerar los informes que emitan las instituciones del Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media. Respecto de los establecimientos educacionales, el convenio deberá fijar objetivos y metas específicas orientadas al mejoramiento de su desempeño, teniendo en especial consideración a los ordenados en categoría insuficiente, de acuerdo a la ley Nº 20.529.
 
@@ -22,7 +22,7 @@ Para finalizar el proceso, el Ministro/a de Educación debe emitir una resoluci�
 Según el artículo sexagésimo segundo de la ley Nº 19.882 la autoridad que no cumpla con esta obligación será sancionada con una multa de entre el 20% al 50% por ciento de su remuneración.
 
 # Inicio del proceso: elaboración del convenio de gestión educacional
-Para iniciar el proceso de elaboración del CGE, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
+Para iniciar el proceso de elaboración del<acronym title="Convenio de Gestión Educacional">CGE</acronym>, se debe ingresar al hipervínculo «Generar propuesta de convenio» en la página principal de SICDE (tareas). Esta opción se habilitará cada que se inicie un concurso, vale decir, desde antes de que un ADP sea nombrado.
 
 ::PANTALLAZO::
 
@@ -41,16 +41,16 @@ Una vez que se rellenaron los campos necesarios, el sistema permite realizar cua
 * *Previsualizar*: genera un documento PDF con toda la información ingresada.
 * *Guardar*: permite salvar el documento en la sesión propia. <mark>No envía el documento al Consultor de la DNSC</mark>, lo que permite trabajar la propuesta de <acronym title="Convenio de desempeño">CD</acronym> en diferentes momentos.
 * *Cerrar*: termina con la acción que se estaba realizando sin guardar.
-* *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a DNSC se solicitará nuevamente la clave de ingreso.
+* *<mark>Guardar y firmar</mark>*: presionando este botón se envía documento a Consultor/a DNSC. Para confirmar el envío al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> se solicitará nuevamente la clave de ingreso.
 
 Una vez que introduzca su contraseña, le aparecerá una confirmación de envío del documento. Desde este punto, el Consultor del Servicio Civil tiene un plazo de 5 días hábiles para su revisión y/o aprobación.
 
 ::PANTALLAZO CONFIRMACIÓN::
 
 # Revisión y aprobación del convenio de gestión educacional
-La acción «Guardar y firmar» deriva la propuesta de convenio al Consultor/a DNSC para su revisión el cual tiene un plazo máximo de cinco días hábiles para la revisión de esta propuesta.
+La acción «Guardar y firmar» deriva la propuesta de convenio al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> para su revisión el cual tiene un plazo máximo de cinco días hábiles para la revisión de esta propuesta.
 
-El Consultor/a DNSC tiene la posibilidad de ingresar comentarios técnicos y de forma a la propuesta de CGE. De esta manera, puede solicitar modificaciones al documento relacionados a la redacción, a la complejidad de los objetivos, a la fórmula de cálculo, a los supuestos, etc., así como realizar consultas respecto a uno u otro objetivo.
+El Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> tiene la posibilidad de ingresar comentarios técnicos y de forma a la propuesta de<acronym title="Convenio de Gestión Educacional">CGE</acronym>. De esta manera, puede solicitar modificaciones al documento relacionados a la redacción, a la complejidad de los objetivos, a la fórmula de cálculo, a los supuestos, etc., así como realizar consultas respecto a uno u otro objetivo.
 
 De este proceso de revisión, pueden suscitar tres posibles escenarios:
 
@@ -58,14 +58,14 @@ De este proceso de revisión, pueden suscitar tres posibles escenarios:
 Los convenios de I nivel, es decir, de Jefes/as de Servicio, pueden ser derivados en primera instancia al Ministerio Secretaría General de la Presidencia (SEGPRES), con el fin de que ingresen comentarios que complementen la propuesta de convenio, entregando una mirada desde el Programa de Gobierno a los convenios de desempeño y de gestión educacional.
 
 ## Aprobación del convenio de gestión educacional
-Una propuesta de convenio puede ser aprobada en primera instancia si es que la revisión técnica del Consultor/a DNSC así lo estima.
+Una propuesta de convenio puede ser aprobada en primera instancia si es que la revisión técnica del Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> así lo estima.
 La aprobación del convenio da como resultado la tarea de subir el convenio firmado y la resolución que lo aprueba a SICDE. Esta labor debe ser hecha por la contraparte de convenios titular del Ministerio de Educación.
 
 ## Convenio es comentado
 En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de <acronym title="Convenio de desempeño">CD</acronym> o <acronym title="Convenio de Gestión Educacional">CGE</acronym> es devuelvta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. 
 La contraparte tendrá la posibilidad de ver estos comentarios e incluso responderlo a través de la misma plataforma.
 Para hacer esto debe ingresar nuevamente a la opción «Generar Propuesta de Convenio». Además de permitir responder los comentarios, esta acción posibilita la edición de los objetivos e indicadores sin necesidad de tener que cargar la información nuevamente.
-Para hacer envío al Consultor/a DNSC la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a DNSC para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
+Para hacer envío al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> la contraparte debe nuevamente presionar «Guardar y firmar». Esta acción activa nuevamente la tarea al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> para que revise la propuesta de convenio y podría nuevamente comentarlo o aprobarlo.
 
 ::AÑADIR FLUJO::
 
@@ -95,9 +95,9 @@ Una vez rellenada y guardada esta información, se debe proceder a subir el conv
 ::PANTALLAZO::
 
 Luego de adjuntar los documentos se debe presionar el botón «Subir». El sistema confirmará la subida de los documentos.
-Con esta acción los documentos subidos son derivados al Consultor/a DNSC para su revisión.
+Con esta acción los documentos subidos son derivados al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> para su revisión.
 
 ::PANTALLAZO::
 
-Finalmente, el Consultor/a DNSC debe revisar los documentos ingresados, teniendo la posibilidad de devolverlos en caso de encontrarse algún error, ser ilegibles u otra razón. 
+Finalmente, el Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> debe revisar los documentos ingresados, teniendo la posibilidad de devolverlos en caso de encontrarse algún error, ser ilegibles u otra razón. 
 La aprobación de los documentos da como resultado el registro de ellos en la Oficina de Partes del Servicio Civil y, por tanto, se entiende como comunicados según lo estipulado en la ley Nº 19.882, no habiendo necesidad de hacer envío por plataformas digitales ni oficio físico de lo cargado en plataforma.
