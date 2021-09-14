@@ -3,18 +3,17 @@ title: Remuneraciones
 weight: 0
 template: docs
 ---
-Las remuneraciones de un alto directivo público están relacionadas directamente con el porcentaje de cumplimiento de su convenio de desempeño, según evaluación anual efectuada por su autoridad. Su mantención o su disminución estará determinada por el grado cumplimiento de las metas del convenio de desempeño establecido por su jefatura.
+<div class="note"><strong>Nota:</strong> El siguiente apartado <b>no aplica para los y las Directoras Ejecutivas</b> (I niveles) de los Servicios Locales de Educación Pública.</div>
 
-El porcentaje de cumplimiento del convenio de desempeño del ADP se determina anualmente, a través de un proceso que se inicia con la entrega de un Informe de Desempeño por parte del ADP, el cual es revisado por la autoridad con la cual suscribió su convenio de desempeño, quien debe señalar por medio de una resolución el porcentaje de cumplimiento anual que se determinará para el periodo concluido.
+Las remuneraciones de un alto directivo público están relacionadas directamente con el porcentaje de cumplimiento de su convenio de desempeño definido en la resolución que aprueba aquel porcentaje en la evaluación anual. **Su mantención o disminución estará determinada por el grado cumplimiento de las metas del convenio de desempeño establecido por su jefatura**.
+
+El porcentaje de cumplimiento del convenio de desempeño del ADP se determina anualmente, a través de un proceso que se inicia con la entrega de un Informe de Desempeño por parte del ADP, el cual es revisado por la autoridad con la cual suscribió su convenio de desempeño, quien debe señalar por medio de una resolución el porcentaje de cumplimiento anual que se determinará para el periodo concluido. El proceso de evaluación se encuentra descrito [aquí](/docs/evaluaciones/).
 
 Cabe señalar que, de acuerdo al cargo ejercido, los altos directivos públicos perciben mensualmente una Asignación de Alta Dirección Pública expresada como porcentaje de las remuneraciones permanente y que también se considera como remuneración permanente para todos los efectos legales.
 
-<div class="note"><strong>Nota:</strong> Exepcionalmente las remuneraciones de los Directoresas Ejecutivos/as (I niveles) de los Servicios Locales de Educación Pública no se encuentran afectas a esta normativa.</div>
-
-<a href="https://drive.google.com/file/d/1pe6D7N6LnmYB9Z7ZxAdYhz7y3uZtR0dg/view" class="button" target="_blank">Descargar Guía de Remuneraciones</a>
+La información contenida en esta documentación se encuentra accesible también en la [guía de remuneraciones](https://drive.google.com/file/d/1pe6D7N6LnmYB9Z7ZxAdYhz7y3uZtR0dg/view).
 
 ***
-
 ## Conceptos importantes para el cálculo y pago de las remuneraciones
 
 ### Asignación de Alta Dirección Pública  
@@ -23,16 +22,16 @@ Es una asignación especial que reciben mensualmente los altos directivos públi
 Se obtiene mediante la aplicación de un porcentaje, que se fija con anterioridad al proceso de selección correspondiente por decreto supremo del Ministerio de Hacienda, sobre el total de las remuneraciones que percibe el alto directivo público con las excepciones que expresamente indica la ley.  
 
 ### Convenio de desempeño
-Es el instrumento de gestión del alto directivo público, que orientará su labor y transparentará los resultados de su gestión, cuyos compromisos deben ser definidos a partir de un diálogo estratégico, entre el Ministro o Subsecretario del ramo y el jefe superior del servicio nombrado, para los cargos de primer nivel jerárquico y, el jefe superior del servicio o director de hospital y el alto directivo nombrado, para los cargos de segundo nivel jerárquico.
+Es el instrumento de gestión del ADP que orientará su labor y transparentará los resultados de su gestión, cuyos compromisos deben ser definidos a partir de un diálogo estratégico, entre el Ministro/a o Subsecretario/a del ramo y el jefe/a superior del servicio nombrado, para los cargos de primer nivel jerárquico y, el jefe/a superior del servicio o director/a de hospital y el ADP, para los cargos de segundo nivel jerárquico.
 
 ### Período de desempeño
-Tiempo que transcurre, desde que el alto directivo es nombrado definitivamente para ejercer su cargo, hasta tres años consecutivos desde aquella fecha. Es decir, el período de desempeño podría finalizar hasta 36 meses después de ocurrido el nombramiento definitivo. 
+Tiempo que transcurre, desde que el ADP es nombrado definitivamente para ejercer su cargo, hasta tres años consecutivos desde aquella fecha. Es decir, el período de desempeño podría finalizar hasta 36 meses después de ocurrido el nombramiento definitivo. 
 
 ### Año de gestión
 Período de tiempo de 12 meses, transcurrido inmediatamente después de ocurrido el nombramiento del alto directivo.
 
 ### Renovación
-Corresponde a la prórroga de nombramiento de un alto directivo, por un segundo o tercer periodo, de igual plazo que el primero (tres años), que decide fundadamente la autoridad superior respectiva, de acuerdo al nivel jerárquico que se trate, considerando las evaluaciones disponibles del alto directivo público. 
+Corresponde a la prórroga de nombramiento de un alto directivo, por un segundo o tercer periodo, de igual plazo que el primero, vale decir, tres años, que decide fundadamente la autoridad superior respectiva, de acuerdo al nivel jerárquico que se trate, considerando las evaluaciones disponibles del ADP.
 
 ***
 
