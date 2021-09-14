@@ -10,4 +10,6 @@ El SICDE fue desarrollado por la Dirección Nacional Servicio Civil (SC) y se en
 
 El sistema contribuye al cumplimiento de lo establecido en el marco normativo sobre gestión del desempeño directivo, aporta a la estandarización de los procesos, centraliza la información relevante de la gestión directiva y el asegura el cumplimiento de plazos legales. SICDE es una herramienta accesible, rápida y segura de trabajo colaborativo entre el directivo y su jefatura.
 
+La información disponible en este Centro de Ayuda aplica para **todas y todos los altos directivos públicos adscritos al Sistema de Alta Dirección Pública**, lo que excluye a los cargos de Directores/as de Escuelas y Liceos Públicos, y a los Jefes/as de Departamentos de Educación Municipal (DAEM).
+
 Si tienes algún problema o has detectado alguna falla de funcionamiento del sistema, puedes [reportarlo aquí](https://airtable.com/shr57seo8uGZil0es).

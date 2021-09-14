@@ -70,7 +70,7 @@ Una vez rellenado todos los campos se debe presionar el botón de la parte final
 
 <div class="important"><strong>Nota:</strong> Recomendamos presionar el botón <code>Guardar</code> en la parte inferior del sitio para evitar la pérdida de información. <b>SICDE no cuenta con sistema de autoguardado</b></div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7j-8HHUptlg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5rnqJjZOAp0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Carga de Resolución Exenta
 

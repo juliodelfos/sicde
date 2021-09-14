@@ -1,21 +1,23 @@
 ---
-title: Elaboración y suscripción
-weight: 1
+title: Elaboración convenios Subdirectores
+weight: 4
 template: docs
 ---
 
-<div class="note"><strong>Nota:</strong> El siguiente apartado aplica para todos los cargos ADP con excepción de los I y II niveles de los Servicios Locales de Educación (SLEP), cuyos procesos se encuentran descritos <a href="/docs/slep/">aquí</a></div>
+En los casos de los Jefes de Apoyo Técnico Pedagógico, Administración y Finanzas, y Planificación y Control de Gestión el proceso se encuentra definido tanto por la ley Nº 21.040 como por la ley N° 19.882.
+
+El proceso detallado a continuación se construyó en base a la lectura del [artículo N° 25 de la Ley N° 21.040](https://www.bcn.cl/leychile/navegar?idNorma=1111237&idParte=9853009) sumado a algunos acuerdos procedimentales tomados entre la Dirección de Educación Pública y el Servicio Civil. Estos acuerdos son relativos al plazo de entrega de propuesta del convenio al Jefe/a de Unidad nombrado y la participación del Servicio Civil como validador de la propuesta final del convenio, y se basan en el proceso que los convenios de desempeño regidos por la Ley N° 19.882 tienen actualmente.
 
 ## Plazos asociados
 
 Los Convenios de Desempeño (CD) de los I y II niveles ADP tienen una duración de **tres años**.
-El <acronym title="Convenio de desempeño">CD</acronym> deberá ser propuesto por la jefatura al ADP, **a más tardar dentro de los treinta días corridos contados desde su nombramiento o renovación**. El plazo máximo para la suscripción del <acronym title="Convenio de desempeño">CD</acronym> es de **sesenta días corridos, contados desde el nombramiento o renovación del ADP**.
+El <acronym title="Convenio de desempeño">CD</acronym> deberá ser propuesto por la jefatura al ADP, **a más tardar dentro de dos semanas contadas desde su nombramiento o renovación**. El plazo máximo para la suscripción del <acronym title="Convenio de desempeño">CD</acronym> es de **treinta días hábiles administrativos contados desde el nombramiento o renovación del ADP**.
 
-<img src="\images\elab-conv-adp.png" alt="Plazos de elaboración de convenios ADP">
+<img src="\images\elab-conv-ii-slep.png" alt="Plazos de elaboración de convenios SLEP">
 
 &nbsp;
 
-<a href="/images/elab-conv-adp.png" class="button" target="_blank">Descargar en alta resolución</a>
+<a href="https://drive.google.com/file/d/14JaNM5loAU-e-y0Cgqo2aZ16VVfFz1ic/view?usp=sharing" class="button" target="_blank">Descargar en alta resolución</a>
 
 La autoridad respectiva deberá **comunicar formalmente al Servicio Civil sobre la suscripción del convenio de desempeño dentro del plazo máximo de noventa días**, contados desde el nombramiento o renovación del directivo.
 
@@ -48,20 +50,14 @@ Finalizado este paso aparecerá una confirmación de envío del documento. Desde
 
 La acción `Guardar y firmar` deriva la propuesta de convenio al Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> para su revisión. El Consultor/a tendrá la posibilidad de ingresar comentarios técnicos y de forma a la propuesta de CD, solicitando modificaciones al documento en la línea de mejorar la redacción, la complejidad de los objetivos, la fórmula de cálculo, los supuestos u otros elementos que se estimen pertinentes.
 
-De este proceso de revisión, pueden suscitar tres posibles escenarios:
+De este proceso de revisión, pueden suscitar dos posibles escenarios:
 
-### 1. Derivación a SEGPRES
-
-Los convenios de I nivel, es decir, de Jefes/as de Servicio, pueden ser derivados en primera instancia al Ministerio Secretaría General de la Presidencia (SEGPRES), con el fin de que ingresen comentarios que complementen la propuesta de convenio, entregando una mirada desde el Programa de Gobierno a los convenios.
-
-SEGPRES contará con un plazo máximo de una semana para ingresar comentarios. En caso de que ese plazo sea superado el Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> continuará con el proceso a fin de no producir retrasos.
-
-### 2. Aprobación del convenio
+### 1. Aprobación del convenio
 
 Una propuesta de convenio puede ser aprobada en primera instancia si es que la revisión técnica del Consultor/a <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym> así lo estima.
 La aprobación del convenio da como resultado la tarea de subir el convenio firmado y la resolución que lo aprueba a SICDE. Esta labor debe ser hecha por la contraparte de convenios titular del servicio o ministerio, según corresponda.
 
-### 3. Convenio es comentado
+### 2. Convenio es comentado
 
 En caso de que el convenio sea objeto de algún comentario por parte del Consultor/a DNSC, la propuesta de <acronym title="Convenio de desempeño">CD</acronym> será devuelta vía SICDE a la contraparte titular de convenios del ministerio o servicio correspondiente. La contraparte tendrá la posibilidad de ver y/o responder estos comentarios a través de la misma plataforma.
 
