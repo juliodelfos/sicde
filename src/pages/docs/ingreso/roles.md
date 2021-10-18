@@ -11,7 +11,7 @@ Actualmente el sistema tiene la capacidad para mantener:
 * 1 contraparte titular para evaluación
 * 1 contraparte subrogante para evaluación
 
-**Las contrapartes subrogantes sólo podrán ver las tareas o llevar a cabo acciones en el sistema si la contraparte titular le activa la subrogancia**. Este punto se trata más adelante dentro de esta misma sección.
+**Las contrapartes subrogantes sólo podrán ver las tareas o llevar a cabo acciones en el sistema cuando la contraparte titular active la subrogancia**. Este punto se trata más adelante dentro de esta misma sección.
 
 -----
 

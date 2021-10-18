@@ -4,7 +4,7 @@ weight: 3
 template: docs
 ---
 
-La evaluación parcial inicia el mismo día de cumplimiento de los seis meses de gestión.
+La evaluación parcial inicia en la fecha que la <acronym title="Dirección de Educación Pública">DEP</acronym> defina y comunique a los <acronym title="Servicios Locales de Educación Pública">SLEP</acronym>. Sin perjuicio de esto, el sistema se encontrará disponible a partir del día 15 de julio de cada año, a la espera de que la <acronym title="Dirección de Educación Pública">DEP</acronym> entregue directrices en esta materia.
 
 En términos prácticos, el proceso de evaluación parcial comienza con la llegada de una alerta vía correo al Director/a Ejecutivo/a que le informa que le corresponde realizar la evaluación y finaliza la validación por parte del Director/a de la <acronym title="Dirección de Educación Pública">DEP</acronym>.
 

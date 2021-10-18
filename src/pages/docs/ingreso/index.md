@@ -19,9 +19,9 @@ Los usuarios registrados deberán acceder al sitio web https://pi.serviciocivil.
 
 | Actor/Perfil          | Forma de registro                                                                            | Notificación                                         | Duración                                 |
 |-----------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------|------------------------------------------|
-| I nivel               | Consultor SC ingresa datos manualmente a SICDE.                                              | Correo electrónico de parte de «Procesos Integrados» | Mientras ejerza el cargo.                |
-| II nivel              | Ingresa automáticamente una vez que es definido e informado por una autoridad para el cargo. | Correo electrónico de parte de «Procesos Integrados» | Mientras ejerza el cargo.                |
+| I nivel               | Consultor SC ingresa datos manualmente a SICDE.                                              | Correo electrónico de parte de «Procesos Integrados» | Hasta que finalicen los procesos asociados al <acronym title="Convenio de Desempeño">CD</acronym>.                |
+| II nivel              | Ingresa automáticamente una vez que es definido e informado por una autoridad para el cargo. | Correo electrónico de parte de «Procesos Integrados» | Hasta que finalicen los procesos asociados al <acronym title="Convenio de Desempeño">CD</acronym>.                |
 | Contrapartes técnicas | Definido vía oficio por parte del servicio. Ingresado manualmente por Consultor SC.          | Correo electrónico de parte de «Procesos Integrados» | Hasta que la autoridad lo defina.        |
-| Consultores <acronym title="Dirección Nacional del Servicio Civil">DNSC</acronym>      | Todos los Consultores de Acompañamiento y Desarrollo del SC tienen acceso.                   | Correo electrónico de parte de «Procesos Integrados» | Mientras ejerza la función de Consultor. |
+| Consultores <acronym title="Dirección Nacional del Servicio Civil">SC</acronym>      | Todos los Consultores de Acompañamiento y Desarrollo del SC tienen acceso.                   | Correo electrónico de parte de «Procesos Integrados» | Mientras ejerza la función de Consultor. |
 
 En esta sección encontrarás:
