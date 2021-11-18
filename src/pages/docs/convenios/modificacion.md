@@ -4,13 +4,11 @@ weight: 2
 template: docs
 ---
 
-## Modificación de convenio de desempeño
-
 La modificación del <acronym title="Convenio de desempeño">CD</acronym> propiamente tal se encuentra normada por la Ley N° 19.882 la cual menciona en su artículo sexagésimo tercero «Los convenios de desempeño podrán modificarse una vez al año, por razones fundadas y previo envío de la resolución que lo modifica a la Dirección Nacional del Servicio Civil y al Consejo de Alta Dirección Pública, para su conocimiento».
 
 Tal como menciona la ley el <acronym title="Convenio de desempeño">CD</acronym> suscrito sólo puede modificarse una vez al año de gestión de cada ADP por lo que la modificación debe realizarse de manera consciente y por elementos fundamentales que haga que lo comprometido en el <acronym title="Convenio de desempeño">CD</acronym> escape de las posibilidades de cumplimiento de un ADP, no concuerden con las prioridades del servicio o no respondan al contexto político-social en el que se desenvuelve.
 
-<div class="note">El Servicio Civil ha definido a través del <a href="https://drive.google.com/file/d/1ZOckdtkrL29cDt8JDrIF3LoJLzLy6FK6/view?usp=sharing" target="_blank">instructivo de elaboración</a> (pág. 11) cómo se debe llevar a cabo este proceso, proveyendo de claridad y entregando recomendaciones en el marco de la ley 19.882.</div> 
+<div class="note">El Servicio Civil ha definido a través del <a href="https://drive.google.com/file/d/1ZOckdtkrL29cDt8JDrIF3LoJLzLy6FK6/view?usp=sharing" target="_blank">instructivo de elaboración</a> (pág. 11) cómo se debe llevar a cabo este proceso, proveyendo de claridad y entregando recomendaciones en el marco de la ley 19.882.</div>
 
 En cuanto a los plazos, se insta a que se realice una vez cumplido los 6 meses de gestión y previo a 120 días antes del término del periodo (entre el sexto y octavo mes de gestión), fecha en la que se realiza la evaluación parcial y se cuenta con insumos y datos concretos para solicitar la modificación a la autoridad y a la DNSC.
 

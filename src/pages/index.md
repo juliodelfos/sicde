@@ -23,7 +23,7 @@ sections:
             url: /docs/convenios/
             style: link
       - title: Evaluación y monitoreo de los convenios
-        content: 'Proceso de evaluación parcial, anual y monitoreo para ADP.'
+        content: "Proceso de evaluación parcial, anual y monitoreo para ADP."
         actions:
           - label: Revisar
             url: /docs/evaluaciones/
@@ -35,20 +35,20 @@ sections:
             url: /docs/ingreso/
             style: link
       - title: Edición y modificación de convenio
-        title_url: ''
+        title_url: ""
         content: >-
           Solicitud de modificación de convenio y edición de convenios no
           suscritos.
         actions:
           - label: Revisar
-            url: /docs/convenios/edicion-modificacion/
+            url: /docs/convenios/modificacion/
             style: link
             icon_class: lorem-ipsum
             new_window: false
             type: action
         type: grid_item
       - title: Remuneración e indemnización
-        title_url: ''
+        title_url: ""
         content: Ejemplos y normativa sobre pago de remuneraciones e indeminizaciones.
         actions:
           - label: Revisar
@@ -59,7 +59,7 @@ sections:
             type: action
         type: grid_item
       - title: Servicios Locales de Educación
-        title_url: ''
+        title_url: ""
         content: Elaboración y evaluación de convenios para I y II niveles de SLEP.
         actions:
           - label: Revisar
@@ -84,18 +84,9 @@ sections:
   - section_id: features-two-col
     type: section_grid
     title: Material de apoyo
-    subtitle: ''
+    subtitle: ""
     col_number: three
     grid_items:
-      - title: Documentos
-        content: >+
-          Documentos legales y técnicos en materia de gestión de desempeño de
-          Altos Directivos Públicos.
-
-        actions:
-          - label: Revisar
-            url: /documentos
-            style: secondary
       - title: Estado de convenios
         content: >-
           Información en línea de convenios de Altos Directivos Públicos
@@ -106,8 +97,17 @@ sections:
               https://datastudio.google.com/u/0/reporting/1hH-vk7VdT5aUeSypihUetOt2pUwQPjrX/page/IO8IB
             style: secondary
             new_window: true
+      - title: Convenios SLEP
+        content: >-
+          Información en línea de convenios de ADP de SLEP cercanos al cumplimiento de plazos máximos establecidos por ley.
+        actions:
+          - label: Revisar
+            url: >-
+              https://datastudio.google.com/u/0/reporting/13PACp67Bij-UT7Qf30x36MTXd-ShhKpz
+            style: secondary
+            new_window: true
       - title: Convenios suscritos
-        title_url: ''
+        title_url: ""
         content: >-
           Revisa y descarga los convenios de desempeño suscritos de los ADP
           vigentes. Carpeta en actualización permanente.
@@ -126,7 +126,7 @@ sections:
     subtitle: Accede directamente a SICDE desde aquí.
     actions:
       - label: Ingresar
-        url: 'https://pi.serviciocivil.cl/login/index.php'
+        url: "https://pi.serviciocivil.cl/login/index.php"
         style: primary
         new_window: true
 template: advanced
