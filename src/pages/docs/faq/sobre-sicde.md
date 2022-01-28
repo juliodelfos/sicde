@@ -13,14 +13,13 @@ En caso de ser ADP de II nivel, la clave es remitida el mismo día en que cumple
 
 Contacte a su Consultor/a a cargo:
 
-| Consultor/a         | Ministerio/Servicio                                                                                                                                                                      | Correo electrónico                    |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| Alejandra Cerna     | Salud                                                                                                                                                                                    | acerna@serviciocivil.cl     |
-| Alejandra Iturriaga | Justicia y Derechos Humanos, Vivienda y Urbanismo y del Deporte y Trabajo y Previsión Social                                                                                              | aiturriaga@serviciocivil.cl |
-| Andrea Quezada      | Economía, Fomento y Turismo, Interior y Seguridad Pública, Minería y Energía                                                                                                             | aquezada@serviciocivil.cl   |
-| Carolina Cordovez   | Servicio Electoral, Culturas, las Artes y el Patrimonio y Ciencia, Tecnología, Conocimiento e Innovación                                                                                 | ccordovez@serviciocivil.cl  |
-| Sorely Martínez     | Relaciones Exteriores, Defensa Nacional, Desarrollo Social y Familia, Obras Públicas, Agricultura, Transportes y Telecomunicaciones, Medio Ambiente y de la Mujer y la Equidad de Género | smartinez@serviciocivil.cl  |
-| Yerson Olivares     | Educación                                                                                                                                                                                | yolivares@serviciocivil.cl  |
+| Consultor/a         | Ministerio/Servicio                                                                                                                                          | Correo electrónico          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| Alejandra Cerna     | Salud, Agricultura y Medio Ambiente                                                                                                                          | acerna@serviciocivil.cl     |
+| Alejandra Iturriaga | Justicia y Derechos Humanos, Vivienda y Urbanismo y del Deporte y Trabajo y Previsión Social, Transportes y Telecomunicaciones y Desarrollo Social y Familia | aiturriaga@serviciocivil.cl |
+| Andrea Quezada      | Economía, Fomento y Turismo, Interior y Seguridad Pública, Minería y Energía y Obras Públicas                                                                | aquezada@serviciocivil.cl   |
+| Carolina Cordovez   | Servicio Electoral, Culturas, las Artes y el Patrimonio y Ciencia, Tecnología, Conocimiento e Innovación y Defensa Nacional                                  | ccordovez@serviciocivil.cl  |
+| Yerson Olivares     | Educación, Relaciones Exteriores y de la Mujer y la Equidad de Género                                                                                        | yolivares@serviciocivil.cl  |
 
 ### ¿Cuántas claves se asignan por ministerio/servicio?
 

@@ -74,3 +74,8 @@ Como señala el Decreto 172 en su artículo 24 (reglamento vigente de convenios 
 
 ### ¿Qué plazo tiene la entrega del Informe de Cierre de Gestión?
 La ley no establece plazos específicos para este documento, sin embargo, se entiende que debiese adherirse a los mismos plazos legales existentes para el resto de los informes (anuales y parciales) que emite el ADP durante su periodo de gestión, lo que corresponde a un mes máximo de plazo para su elaboración y envío a la autoridad respectiva.
+
+### Si antes de asumir un cargo ADP era "funcionario contrata", ¿puedo volver a mi cargo tras ser desvinculado?
+La [ley 19.882 en su artículo quincuagésimo séptimo, inciso quinto](https://www.bcn.cl/leychile/navegar?idNorma=211480&idParte=8649079), contempla la posibilidad de que algunos ADP puedan volver a su antiguo puesto tras ser desvinculados. Para esto, es necesario que confluyan dos condiciones: 1) encontrarse desarrollando sus funciones en un **cargo de planta**, 2) haber sido nombrados **posterior a octubre del 2016**.
+
+Para aquellos funcionarios que al momento de asumir un cargo ADP estaban en régimen de contrata con derecho a legítima confianza, no aplica el artículo recién mencionado.
