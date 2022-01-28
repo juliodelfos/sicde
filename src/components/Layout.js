@@ -34,7 +34,6 @@ export default class Body extends React.Component {
             }
           />
           <link rel="icon" href={favicon} />
-
           <link
             href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i%26Display=swap"
             rel="stylesheet"

@@ -9,12 +9,11 @@ const withPrefix = require("./src/utils/withPrefix").default;
 
 exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
   setHeadComponents([
-    <script>
-      window.ga=window.ga||function(){(ga.q = ga.q || []).push(arguments)}
-      ;ga.l=+new Date; ga('create', 'UA-12409780-1', 'auto'); ga('send',
-      'pageview');
-    </script>,
-    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    <script
+      defer
+      data-domain="sicde.serviciocivil.cl"
+      src="https://plausible.io/js/plausible.js"
+    ></script>,
   ]);
 
   setPostBodyComponents([
