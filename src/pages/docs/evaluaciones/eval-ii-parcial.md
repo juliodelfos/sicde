@@ -44,8 +44,6 @@ Una vez que el ADP de II nivel haya guardado y enviado su autoevaluación según
 
 En caso de que lo determine, el o la Jefa de Servicio podrá realizar comentarios o devolver la evaluación al II nivel. Para esto **deberá presionar el botón `Devolver` que aparece al inicio del formulario e ingresar los motivos por los que se está devolviendo la autoevaluación** al ADP de II nivel. Esta acción permite que el ADP de II nivel responda los comentarios del Jefe/a de Servicio y corrija la información ingresada en caso de ser necesario, reiniciando el proceso ya descrito.
 
-<div class="important"><strong>Nota:</strong> La devolución de la evaluación borra la información ingresada en cada indicador por el Jefe/a de Servicio, reemplazando toda esa información por un comentario general.</div>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PbEVs_WPTD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Revisión

@@ -66,8 +66,6 @@ Una vez que el Director/a Ejecutivo/a haya guardado y enviado su autoevaluación
 
 En caso de que lo determine, el Director/a de la <acronym title="Dirección de Educación Pública">DEP</acronym> podrá realizar comentarios o devolver la evaluación al Director/a Ejecutivo/a. Para esto **deberá presionar el botón `Devolver` que aparece al inicio del formulario e ingresar los motivos por los que se está devolviendo la autoevaluación** al Director/a Ejecutivo/a. Esta acción permite que el Director/a Ejecutivo/a responda los comentarios del Director/a de la <acronym title="Dirección de Educación Pública">DEP</acronym> y corrija la información ingresada en caso de ser necesario, reiniciando el proceso ya descrito.
 
-<div class="important"><strong>Nota:</strong> La devolución de la evaluación borra la información ingresada en cada indicador por el Director/a de la <acronym title="Dirección de Educación Pública">DEP</acronym>, reemplazando toda esa información por un comentario general.</div>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PbEVs_WPTD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Revisión

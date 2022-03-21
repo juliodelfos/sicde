@@ -11,48 +11,52 @@ sections:
     col_number: three
     grid_items:
       - title: Instructivo de Inducción
-        title_url: 'https://drive.google.com/file/d/1Tt9qHD1Z7IcmnWo_fp5apITmBaPxLX9w/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1Tt9qHD1Z7IcmnWo_fp5apITmBaPxLX9w/view?usp=sharing"
         image: images/induccion.png
-        content: 
+        content:
       - title: Instructivo de Elaboración y Evaluación
-        title_url: 'https://drive.google.com/file/d/1ZOckdtkrL29cDt8JDrIF3LoJLzLy6FK6/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1ZOckdtkrL29cDt8JDrIF3LoJLzLy6FK6/view?usp=sharing"
         image: images/elaboracion.png
-        content: 
+        content:
       - title: Instructivo de Formación
-        title_url: 'https://drive.google.com/file/d/1oMisW_WvFFnKfJLchZtJoajkHyJ3fMDj/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1oMisW_WvFFnKfJLchZtJoajkHyJ3fMDj/view?usp=sharing"
         image: images/formacion.png
-        content: 
+        content:
       - title: Protocolo de Egreso
-        title_url: 'https://drive.google.com/file/d/1iMDyeiA0A8VjF8CiL16kMr8jyZdjfsM7/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1iMDyeiA0A8VjF8CiL16kMr8jyZdjfsM7/view?usp=sharing"
         image: images/egreso.png
-        content: 
+        content:
       - title: Ley N° 19.882
-        title_url: 'https://www.bcn.cl/leychile/navegar?idNorma=211480'
+        title_url: "https://www.bcn.cl/leychile/navegar?idNorma=211480"
         image: images/ley-19882.png
-        content: 
+        content:
       - title: Reglamento Ley N° 19.882
-        title_url: 'https://drive.google.com/file/d/1j_sK30AK6JsiVSOyq8cTy6SVtY1bX7ug/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1j_sK30AK6JsiVSOyq8cTy6SVtY1bX7ug/view?usp=sharing"
         image: images/reglamento.png
-        content: 
+        content:
       - title: Ley Nº 21.040
-        title_url: 'https://drive.google.com/file/d/1pKhGQj44oee3JFrCh5CAYnWKOJT0vM4Q/view?usp=sharing'
-        image: images/ley-21040.png
-        content: 
+        title_url: "https://drive.google.com/file/d/1pKhGQj44oee3JFrCh5CAYnWKOJT0vM4Q/view?usp=sharing"
+        image: images/reglamento21040.png
+        content:
+      - title: Reglamento Ley N° 21.040
+        title_url: "https://drive.google.com/file/d/1xftzDXqWPa-5W8gnkOsKUe0heQyQVYZS/view?usp=sharing"
+        image: images/reglamento.png
+        content:
       - title: Manual de Inducción para Directivos Públicos
-        title_url: 'https://drive.google.com/file/d/1wrfjDexE9Kz8gtYJkg6v7_phK8tdOemz/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1wrfjDexE9Kz8gtYJkg6v7_phK8tdOemz/view?usp=sharing"
         image: images/manual-induccion.png
-        content: 
+        content:
       - title: Modelo de Acompañamiento y Desarrollo ADP
-        title_url: 'https://drive.google.com/file/d/1LbDo6V3_AhzoUU3g8E1uS3IpS0pu7FVC/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1LbDo6V3_AhzoUU3g8E1uS3IpS0pu7FVC/view?usp=sharing"
         image: images/mad.png
-        content: 
+        content:
       - title: Normas de aplicación general en gestión de personas
-        title_url: 'https://drive.google.com/file/d/1Ni556W1Lgwdh00ebpWDfqnZN04deMPsh/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1Ni556W1Lgwdh00ebpWDfqnZN04deMPsh/view?usp=sharing"
         image: images/normas-personas.png
-        content: 
+        content:
       - title: Guía sobre remuneraciones
-        title_url: 'https://drive.google.com/file/d/1pe6D7N6LnmYB9Z7ZxAdYhz7y3uZtR0dg/view?usp=sharing'
+        title_url: "https://drive.google.com/file/d/1pe6D7N6LnmYB9Z7ZxAdYhz7y3uZtR0dg/view?usp=sharing"
         image: images/remuneraciones.png
-        content: 
+        content:
 template: advanced
 ---

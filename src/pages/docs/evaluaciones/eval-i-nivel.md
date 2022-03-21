@@ -54,8 +54,6 @@ Una vez que el ADP de I nivel haya guardado y enviado su autoevaluación según 
 
 En caso de que lo determine, la Contraparte de Evaluación podrá realizar comentarios o devolver la evaluación al I nivel. Para esto **deberá presionar el botón `Devolver` que aparece al inicio del formulario e ingresar los motivos por los que se está devolviendo la autoevaluación** al ADP de I nivel. Esta acción permite que el ADP de I nivel responda los comentarios del Contraparte de Evaluación Ministerial y corrija la información ingresada en caso de ser necesario, reiniciando el proceso ya descrito.
 
-<div class="important"><strong>Nota:</strong> La devolución de la evaluación borra la información ingresada en cada indicador por el Contraparte de Evaluación Ministerial, reemplazando toda esa información por un comentario general.</div>
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PbEVs_WPTD0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Revisión
