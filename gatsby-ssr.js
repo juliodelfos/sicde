@@ -8,13 +8,7 @@ const React = require("react");
 const withPrefix = require("./src/utils/withPrefix").default;
 
 exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
-  setHeadComponents([
-    <script
-      defer
-      data-domain="sicde.serviciocivil.cl"
-      src="https://plausible.io/js/plausible.js"
-    ></script>,
-  ]);
+  setHeadComponents([]);
 
   setPostBodyComponents([
     <React.Fragment>
