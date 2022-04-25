@@ -36,11 +36,11 @@ sections:
         content:
       - title: Ley Nº 21.040
         title_url: "https://drive.google.com/file/d/1pKhGQj44oee3JFrCh5CAYnWKOJT0vM4Q/view?usp=sharing"
-        image: images/reglamento21040.png
+        image: images/ley-21040.png
         content:
       - title: Reglamento Ley N° 21.040
         title_url: "https://drive.google.com/file/d/1xftzDXqWPa-5W8gnkOsKUe0heQyQVYZS/view?usp=sharing"
-        image: images/reglamento.png
+        image: images/reglamento21040.png
         content:
       - title: Manual de Inducción para Directivos Públicos
         title_url: "https://drive.google.com/file/d/1wrfjDexE9Kz8gtYJkg6v7_phK8tdOemz/view?usp=sharing"
